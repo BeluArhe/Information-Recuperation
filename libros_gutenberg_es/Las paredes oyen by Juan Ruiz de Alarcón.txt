@@ -1,0 +1,6458 @@
+﻿The Project Gutenberg eBook of Las paredes oyen
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Las paredes oyen
+
+Author: Juan Ruiz de Alarcón
+
+
+        
+Release date: December 12, 2025 [eBook #77445]
+
+Language: Spanish
+
+Original publication: Buenos Aires: Editora Internacional, 1924
+
+Other information and formats: www.gutenberg.org/ebooks/77445
+
+Credits: Ramón Pajares Box (imágenes procedentes de los fondos de la Biblioteca Nacional de España).
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK LAS PAREDES OYEN ***
+
+NOTA DE TRANSCRIPCIÓN
+
+  * Las cursivas se muestran entre _subrayados_ y las versalitas se han
+    convertido a MAYÚSCULAS.
+
+  * Los errores de imprenta han sido corregidos, acudiendo a la edición
+    _princeps_ de 1628 para resolver las dudas.
+
+  * La ortografía del texto original ha sido modernizada de acuerdo con
+    las normas publicadas en 2010 por la Real Academia Española.
+
+  * La puntuación también ha sufrido ligeros retoques al modernizarla.
+
+  * En algunas ocasiones las acotaciones escénicas han sido desplazadas
+    ligeramente dentro de su estrofa para la mejor comprensión del texto.
+
+
+
+
+  TEATRO ESPAÑOL
+
+  JUAN RUIZ DE ALARCÓN
+
+  LAS PAREDES OYEN
+
+  [Ilustración]
+
+  EDITORA INTERNACIONAL
+  MADRID · BERLÍN · BUENOS AIRES
+
+
+
+
+  SE RESERVAN TODOS LOS DERECHOS QUE
+  INDICA LA LEY DEL 19 DE JUNIO 1901 ASÍ
+  COMO LOS DERECHOS DE TRADUCCIÓN.
+
+  COPYRIGHT 1924 BY EDITORA INTERNACIONAL
+  BUENOS AIRES.
+
+
+
+
+PRÓLOGO.
+
+
+«Las paredes oyen» es la mejor de las comedias de don Juan Ruiz de
+Alarcón, y se distingue por no encontrarse en ella los defectos que
+eran comunes a cuantas en aquella época se escribieron.
+
+No tiene escenas enfadosas ni largos recitados, ni se abusa de aquellas
+conceptuosas retahílas en que para expresar sentimientos de amor se
+prodigan las metáforas mitológicas; las mutaciones de decoración no son
+frecuentes; el plan está hecho con una admirable habilidad.
+
+Don Mendo, que es vano y murmurador, pregona sus venturas y corteja
+a dos damas: doña Ana, a la que ama verdaderamente, y doña Lucrecia,
+prima de esta; y como por escrito y de palabra habla mal de una y otra,
+ambas lo llegan a saber y las dos le rechazan, otorgando sus favores
+respectivamente a dos galanes, que las defendieron de las murmuraciones
+de don Mendo.
+
+Unas veces oye doña Ana misma lo que don Mendo murmura de ella para
+impedir que inspire sentimientos de amor al duque Urbino; otras cae en
+las manos de doña Lucrecia el papel escrito por él en que la ridiculiza
+ante su propio rival; otra, censura a sus amigos sin sospechar que le
+escuchan disfrazados de cocheros, y hasta la criada de la dama de sus
+pensamientos oye que la llama vieja, y desde aquel momento se convierte
+en su implacable enemiga.
+
+«Las paredes oyen» y todo cuanto murmura se sabe, y se concitan contra
+él las antipatías y los odios de quienes le profesaban sentimientos
+opuestos.
+
+Todo esto sucede con tal naturalidad, y el diálogo es tan justo y
+adecuado, que se puede decir que en este punto es una comedia modelo.
+
+Además, tiene algunos trozos epigramáticos no inferiores a los del
+mismo Tirso de Molina, como aquella relación del Beltrán, en el primer
+acto, en la que explica que todo se reduce en la vida a pedir dinero.
+
+Semeja a «La Verdad sospechosa» del mismo autor, en que fustiga en ella
+el vicio de la murmuración como en la primera se censura el de mentir;
+pero la trama, el movimiento de los personajes y hasta el diálogo,
+superan en esta a aquella.
+
+La murmuración es un defecto tan general como censurable, que, aunque
+prediquen contra él los moralistas y le fustiguen los literatos, no ha
+de extirparse, porque se engendra en la propia naturaleza dispuesta
+a apreciar defectos ajenos y que para juzgarlos ven, como dice el
+Evangelio, la paja en el ojo ajeno y no la viga en el propio.
+
+San Francisco de Sales decía que la suprema virtud era la benevolencia
+para juzgar al prójimo, y aconsejaba que al referir alguna cosa se
+procurara siempre darle la interpretación más benévola; la Biblia
+nos habla de Datán, Coré y Abirón, a los que se tragó la tierra por
+murmuradores; pero en cambio en nuestro tiempo se considera indicio de
+gracia y de cualidades sociales ridiculizar con ingenio a las personas
+y sus actos, y en un salón, aquel que no murmura resulta aburrido.
+
+Otras personas, para medrar en política, donde es más útil que hacerse
+amar hacerse temer, emplean la murmuración, y algunos murmuran para
+defenderse, como la célebre condesa de Campo Alange que, señalando con
+el dedo su lengua, decía: esta es mi guardia civil.
+
+Todo esto quiere decir que «Las paredes oyen», como cuanto se ha
+escrito contra los murmuradores, ha servido para enriquecer el tesoro
+literario del país, pero los resultados para la corrección del defecto
+seguramente no han de corresponder a la importancia del éxito logrado.
+
+Además de las muchas cualidades de don Juan Ruiz de Alarcón, ofrece un
+motivo a la consideración de los pueblos de América donde se habla el
+español, y es la de haber nacido en Méjico o en Nueva España, que es el
+nombre que llevaba entonces aquel virreinato.
+
+Ruiz de Alarcón, que vivió y trabajó en España, y que en su obra
+retrató costumbres netamente españolas, había nacido en Méjico, como
+en el siglo XIX aconteció con otro ilustre autor dramático que vivió,
+trabajó y murió en Madrid, y que había nacido en Buenos Aires: don
+Ventura de la Vega.
+
+Don Juan Ruiz de Alarcón, piadoso como todos los señores de su época,
+dotó una fundación para religiosos en Madrid, donde yacían sus restos,
+y el convento, que no sabemos si existe aún, pero que existía hace
+pocos años, era denominado de «Don Juan de Alarcón», y lo mismo la
+iglesia.
+
+Nació en América, vivió en España, llevó las costumbres y los
+personajes de ella a la escena, murió en el seno del catolicismo y
+dispuso que sus restos reposasen en una iglesia que él había fundado.
+
+Alarcón era un americano español, como lo era la mayor parte.
+
+Un escritor español de peregrino ingenio, comentaba en una crónica
+enviada a un periódico madrileño que cuando en tierra extranjera
+declaraba su nacionalidad española le preguntaban:
+
+Pero ¿es usted español de España?
+
+Esta pregunta no demuestra ignorancia, sino, por el contrario, un
+concepto exacto de que la condición de español no depende del lugar
+de nacimiento, sino que la determina la raza y la sangre que corre
+por nuestras venas, y por eso tan español es el de España como el de
+América, aunque su nacionalidad sea distinta.
+
+Don Juan Ruiz de Alarcón es un español de América, gloria de
+la Literatura española y símbolo, por tanto, de esa unión
+hispanoamericana, supremo ideal político de los pueblos llamados a
+formarla y que, como la estrella Polar marca siempre el Norte, en el
+horizonte político señala el rumbo del renacimiento de la Raza.
+
+
+
+
+JUAN RUIZ DE ALARCÓN
+
+LAS PAREDES OYEN
+
+
+
+
+PERSONAS.
+
+
+  DON MENDO,     _galán._
+  DON JUAN,      _galán._
+  EL DUQUE,      _galán._
+  EL CONDE,      _galán._
+  LEONARDO,      _criado._
+  BELTRÁN,       _gracioso._
+  DOÑA ANA,      _dama viuda._
+  DOÑA LUCRECIA, _dama._
+  CELIA,         _criada._
+  ORTIZ,         _escudero._
+  FABIO,
+  MARCELO.       _criados del Duque._
+
+
+
+
+ACTO PRIMERO.
+
+
+Escena primera.
+
+Sala en casa de doña Ana.
+
+_Don Juan, vestido llanamente, y Beltrán._
+
+DON JUAN.
+
+    Tiéneme desesperado,
+    Beltrán, la desigualdad,
+    si no de mi calidad,
+    de mis partes, y mi estado.
+    La hermosura de doña Ana,
+    el cuerpo airoso y gentil,
+    bella emulación de abril,
+    dulce envidia de Diana,
+    ¡mira tú cómo podrán,
+    dar esperanza al deseo
+    de un hombre tan pobre y feo,
+    y de mal talle, Beltrán!
+
+BELTRÁN.
+
+    A un Narciso, cortesano,
+    un humano Serafín
+    resistió un siglo, y al fin
+    la halló en brazos de un enano.
+    Y si las historias creo,
+    y ejemplos de autores graves
+    (pues, aunque sirviente, sabes
+    que a ratos escribo y leo),
+    me dicen que es ciego amor,
+    y sin consejo se inclina;
+    que la emperatriz Faustina
+    quiso un feo esgrimidor;
+    que mil injustos deseos,
+    puestos locamente en ella,
+    cumplió Hipia noble y bella
+    de hombres humildes y feos.
+
+DON JUAN.
+
+    Beltrán, ¿para qué refieres
+    comparaciones tan vanas?
+    ¿No ves que eran más livianas
+    que bellas esas mujeres,
+    y que en doña Ana es locura
+    esperar igual error,
+    en quien excede el honor,
+    al milagro de hermosura?
+
+BELTRÁN.
+
+    ¿No eres don Juan de Mendoza?
+    Pues doña Ana ¿qué perdiera
+    cuando la mano te diera?
+
+DON JUAN.
+
+    Tan alta fortuna goza,
+    que nos hace desiguales
+    la humilde en que yo me veo.
+
+BELTRÁN.
+
+    Que diste en el punto, creo,
+    de que proceden tus males.
+    Si Fortuna en tu humildad
+    con un soplo te ayudara,
+    a fe que te aprovechara
+    la misma desigualdad.
+    Fortuna acompaña al dios
+    que amorosas flechas tira,
+    que en un templo los de Egira
+    adoraban a los dos.
+    Sin riqueza, su hermosura
+    pudieras lograr tu intento:
+    siglos de merecimiento
+    trueco a puntos de ventura.
+
+DON JUAN.
+
+    Eso mismo me acobarda:
+    ¡soy desdichado, Beltrán!
+
+BELTRÁN.
+
+    Trocar las manos podrán
+    fortuna y amor; aguarda.
+
+DON JUAN.
+
+    Si a don Mendo hace favor,
+    ¿qué esperanza he de tener?
+
+BELTRÁN.
+
+    En ese echarás de ver,
+    que es todo fortuna amor.
+    A competencia lo quieren
+    doña Ana y doña Teodora;
+    doña Lucrecia lo adora,
+    todas al fin por él mueren.
+    Jamás el desdén gustó.
+
+DON JUAN.
+
+    Es bello, rico y mancebo.
+
+BELTRÁN.
+
+    ¡Cuánto mejor era Febo,
+    y Dafne lo desdeñó!
+    Y cuando no conociera
+    otro en perfección igual,
+    aquesto de decir mal
+    ¿es defecto como quiera?
+
+DON JUAN.
+
+    ¿Y no es eso murmurar?
+
+BELTRÁN.
+
+    Esto es decir lo que siento.
+
+DON JUAN.
+
+    Lo que siente el pensamiento
+    no siempre se ha de explicar.
+
+BELTRÁN.
+
+    Decir...
+
+DON JUAN.
+
+             Que calles te digo,
+    y ten por cosa segura
+    que tiene aquel que murmura
+    en su lengua su enemigo.
+
+BELTRÁN.
+
+    Entre tus desconfianzas
+    en su casa entrar te veo;
+    sin duda que el gran deseo
+    engaña tus esperanzas.
+    Vete en desierto lugar,
+    y no ceses de dar voces,
+    y aunque tu muerte conoces,
+    nadas en medio del mar.
+
+DON JUAN.
+
+    Lo que en gran tiempo no ha hecho
+    hace amor en solo un día,
+    venciendo en fin la porfía.
+
+BELTRÁN.
+
+    Que te sucede, sospecho,
+    lo que al tahúr que, en perdiendo,
+    solamente con decir:
+    «¡Que no sepa yo gruñir!»
+    está sin cesar gruñendo.
+    Tú dices que desesperas,
+    y entre el mismo no esperar
+    nunca dejas de intentar:
+    ¿qué más haces cuando esperas?
+    ¿Tú piensas que el esperar
+    es alguna confección
+    venida ya del Japón?
+    El esperar es pensar
+    que puede al fin suceder
+    aquello que se desea,
+    y quien hace porque sea
+    bien piensa que pueda ser.
+
+DON JUAN.
+
+    (_Saca una carta_).
+    Pues si con esta invención
+    en su desdén no hay mudanza,
+    aunque viva mi esperanza,
+    morirá mi pretensión.
+
+BELTRÁN.
+
+    El mercader marinero,
+    con la codicia avarienta,
+    cada viaje que intenta
+    dice que será el postrero.
+    Así tú, cuando imagino
+    que desengañado estás,
+    ya con nuevo intento vas
+    en la mitad del camino.
+    Mas dime: ¿qué te ha obligado
+    a trazar esta invención
+    para mostrar tu afición,
+    pudiendo con un criado
+    de su casa negociar
+    lo que tú vienes a hacer?
+
+DON JUAN.
+
+    No he de arriesgarme a ofender
+    a quien pretendo obligar;
+    que como es tan delicada
+    la honra, suele perderse
+    solamente con saberse
+    que ha sido solicitada.
+    Y así del murmurador
+    pretendo que esté segura
+    mi desdicha o mi ventura,
+    su flaqueza o su valor.
+    Que aun a ti mismo callado
+    estos intentos hubiera,
+    si en ti, Beltrán, no tuviera
+    más amigo que criado.
+
+BELTRÁN.
+
+    ¿Toda esta casa, don Juan,
+    a una mujer aposenta?
+
+DON JUAN.
+
+    Seis mil ducados de renta,
+    ¿qué alcázar no ocuparán?
+
+BELTRÁN.
+
+    Celia es esta.
+
+
+Escena II.
+
+_Dichos y Celia._
+
+CELIA.
+
+                   ¿Qué mandáis,
+    señor don Juan?
+
+DON JUAN.
+
+                    Celia mía,
+    besar las manos quería,
+    si licencia me alcanzáis,
+    a mi señora doña Ana.
+
+CELIA.
+
+    Que será imposible, entiendo,
+    porque se está previniendo
+    para partirse mañana
+    a una novena a Alcalá.
+
+DON JUAN.
+
+    ¿De la corte se desvía
+    cuando el celebrado día
+    de san Juan tan cerca está?
+
+CELIA.
+
+    Para los tristes no hay fiesta.
+
+DON JUAN.
+
+    Pues, Celia, verla me importa;
+    la visita será corta;
+    solo le quiero dar esta
+    que le ha venido en un pliego,
+    y me dice quien la envía
+    que solo de mí confía
+    el darla.
+
+CELIA.
+
+    Yo salgo luego.
+
+
+Escena III.
+
+_Don Juan y Beltrán._
+
+BELTRÁN.
+
+    No hay pobre con calidad:
+    si un villano rico fueras,
+    a fe que nunca tuvieras
+    en verla dificultad.
+
+DON JUAN.
+
+    Si ella está tan de camino,
+    que es justa la causa creo.
+
+BELTRÁN.
+
+    Lo que con los ojos veo...
+
+DON JUAN.
+
+    Malicioso desatino.
+
+BELTRÁN.
+
+    ¿Cuánto va que no la ves?
+
+DON JUAN.
+
+    De no alcanzar no se ofende
+    quien lo difícil emprende;
+    mas doña Ana es muy cortés.
+
+BELTRÁN.
+
+    Y ahora, ¿qué hemos de hacer,
+    que ella se parte a Alcalá?
+
+DON JUAN.
+
+    En tanto que ausente está,
+    aguardar y padecer.
+
+BELTRÁN.
+
+    Bueno fuera acompañarla.
+
+DON JUAN.
+
+    Si, como quien soy, pudiera,
+    forzoso el hacerlo fuera
+    si así entendiese obligarla.
+    Mas ni me ayuda el poder,
+    ni ella lo agradecería,
+    por la nota que daría
+    si se llegase a entender.
+
+BELTRÁN.
+
+    Ella sale.
+
+DON JUAN.
+
+               Di, Beltrán,
+    que la aurora bella y clara.
+
+
+Escena IV.
+
+_Dichos, y doña Ana hablando aparte a Celia._
+
+DOÑA ANA.
+
+    ¡Ay Celia, y qué mala cara,
+    y mal talle de don Juan!
+
+DON JUAN.
+
+    Aunque me dijo, señora,
+    Celia vuestra ocupación,
+    con que fuera más razón
+    el no estorbaros ahora,
+    la importancia contenida
+    (_Dale la carta_)
+    en esta carta que os doy,
+    me disculpa.
+
+DOÑA ANA.
+
+                 Nunca estoy,
+    señor don Juan, impedida
+    para recibir merced
+    de tan noble caballero.
+
+DON JUAN.
+
+    Vuestro soy; repuesta espero.
+    Si sois servida, leed.
+
+DOÑA ANA.
+
+    Ser descortés me mandáis.
+
+DON JUAN.
+
+    Leed, que importa una vida,
+    que cerca está de perdida
+    si remedio no le dais.
+
+DOÑA ANA.
+
+    Si está su defensa en mí,
+    la pena y temor dejad.
+
+DON JUAN.
+
+    El caso es grave, mandad
+    que estemos solos aquí,
+    que tenemos que tratar,
+    y el secreto es importante.
+
+DOÑA ANA.
+
+    Dejadnos solos.
+
+BELTRÁN.
+
+                    Amante
+    fue el inventor de engañar.
+
+(_Vanse Beltrán y Celia_).
+
+
+Escena V.
+
+_Doña Ana y don Juan._
+
+DON JUAN.
+
+    Pues contigo solo estoy,
+    porque mi recato veas
+    (_Va a leer doña Ana, y detiénela_),
+    oye, señora: no leas,
+    que la carta viva soy.
+    Que me atreva no te altere,
+    pues estoy solo contigo,
+    y un agravio sin testigo,
+    al punto que nace muere.
+    Desde que la vez primera
+    vi la luz de tu arrebol,
+    dos veces la ha dado el sol
+    a los signos de su esfera;
+    como al que el rayo tocó
+    de Júpiter vengativo,
+    por gran tiempo muerto, vivo
+    en un instante quedó;
+    como aquel, que la cabeza
+    de la Górgona miraba,
+    por un peñasco trocaba
+    la humana naturaleza;
+    tal en viéndote, me veo,
+    tan absorto y admirado,
+    que en admirarme ocupado,
+    no doy lugar al deseo;
+    que esos divinos despojos
+    tanta gloria me mostraron,
+    que al punto me arrebataron
+    toda el alma por los ojos.
+
+DOÑA ANA.
+
+    Tened, don Juan, ¿esto para
+    todo en que amor me tenéis?
+
+DON JUAN.
+
+    No, porque ya lo sabéis,
+    y en vano el tiempo gastara.
+
+DOÑA ANA.
+
+    ¿En que os morís?
+
+DON JUAN.
+
+                      No, señora;
+    pues ni en morir parará,
+    que en el alma vivirá
+    el amor que os tengo ahora.
+
+DOÑA ANA.
+
+    ¿Para en pedirme que os quiera?
+
+DON JUAN.
+
+    Ni llega, señora, ahí,
+    que no hay méritos en mí
+    para que a tal me atreviera.
+
+DOÑA ANA.
+
+    Pues decid lo que queréis.
+
+DON JUAN.
+
+    Quiero... Solo sé que os quiero,
+    y que remedio no espero,
+    viendo lo que merecéis.
+    Como el mísero doliente
+    que en el lecho fatigado,
+    a cualquier parte inclinado,
+    los mismos dolores siente;
+    y por huir del tormento,
+    que en cada lado es mayor,
+    busca alivio a su dolor
+    en el mismo movimiento;
+    así yo con mi cuidado
+    vengo a vos, dueño querido,
+    no de esperanza inducido,
+    sino de dolor forzado;
+    por no morir con callarlo,
+    no por sanar con decirlo,
+    pues es imposible el sufrirlo
+    como lo es el remediarlo.
+    Y así no os ha de ofender
+    que me atreva a declarar,
+    pues va junto el confesar,
+    que no os puedo merecer.
+
+DOÑA ANA.
+
+    ¿Queréis más?
+
+DON JUAN.
+
+                  ¿Qué más que vos?
+    Si entender queréis mi estado,
+    en que os quiero está cifrado.
+
+DOÑA ANA.
+
+    Pues, señor don Juan, adiós.
+
+DON JUAN.
+
+    Tened, ¿no me respondéis?,
+    ¿de esta suerte me dejáis?
+
+DOÑA ANA.
+
+    ¿No habéis dicho que me amáis?
+
+DON JUAN.
+
+    Yo lo he dicho, y vos lo veis.
+
+DOÑA ANA.
+
+    ¿No decís que vuestro intento
+    no es pedirme que yo os quiera,
+    porque atrevimiento fuera?
+
+DON JUAN.
+
+    Así lo he dicho y lo siento.
+
+DOÑA ANA.
+
+    ¿No decís que no tenéis
+    esperanzas de ablandarme?
+
+DON JUAN.
+
+    Yo lo he dicho.
+
+DOÑA ANA.
+
+                    ¿Y que igualarme
+    en méritos no podéis,
+    vuestra lengua no afirmó?
+
+DON JUAN.
+
+    Yo lo he dicho de este modo.
+
+DOÑA ANA.
+
+    Pues si vos lo decís todo,
+    ¿qué queréis que os diga yo?
+
+(_Vase_).
+
+
+Escena VI.
+
+_Don Juan._
+
+DON JUAN.
+
+    ¡Oh venga la muerte, acabe
+    con vida tan desdichada,
+    que solo puede su espada
+    remediar pena tan grave!
+    ¿Qué delito cometí
+    en quererte, ingrata fiera?
+    Quiera Dios... pero no quiera,
+    que te quiero más que a mí.
+
+
+Escena VII.
+
+_Don Juan, Celia y Beltrán._
+
+CELIA.
+
+    ¡Ah desdichado don Juan!
+
+BELTRÁN.
+
+    Ayúdale.
+
+CELIA.
+
+             A Dios pluguiera
+    que mi voluntad valiera.
+
+(_Vase_).
+
+
+Escena VIII.
+
+_Don Juan y Beltrán._
+
+BELTRÁN.
+
+    ¿Pues qué tenemos?
+
+DON JUAN.
+
+                       Beltrán:
+      La verdad huye, a la esperanza pido
+    Engaños que alimenten mi deseo
+    eternos contra mí imposibles veo,
+    nado en un golfo, ni de un leño asido;
+      con el vuelo de amor más atrevido
+    no subo un paso, y aunque más peleo,
+    al fin vencido soy de lo que creo,
+    vencedor solo en lo que soy vencido.
+      Así desesperado victorioso
+    niego al deseo engaños, y a la gloria
+    más vivo anhelo, si su muerte sigo.
+      ¡Triste donde es el no esperar forzoso,
+    donde el desesperar es la victoria,
+    donde el vencer da fuerza al enemigo!
+
+BELTRÁN.
+
+      ¡Triste donde es forzoso andar contigo,
+    donde hallar que comer es gran victoria,
+    donde el cenar es siempre de memoria!
+
+
+Escena IX.
+
+Sala en casa de don Mendo.
+
+_El Conde, don Mendo y Ortiz._
+
+CONDE.
+
+    A mi señora Lucrecia
+    dad, Ortiz, ese papel.
+
+(_Dale un papel_).
+
+ORTIZ.
+
+    Guárdeos Dios.
+
+(_Vase_).
+
+DON MENDO.
+
+                   Cosa cruel
+    Conde, es una mujer necia.
+
+CONDE.
+
+    ¿Cómo?
+
+DON MENDO.
+
+           Con celos y amor
+    sale Lucrecia de sí.
+
+CONDE.
+
+    ¿Con causa, don Mendo?
+
+DON MENDO.
+
+                           Sí;
+    mas tanto el yerro es mayor.
+    Si por doña Ana estoy ciego,
+    ella ¿qué ha de remediar
+    con reñir, y con celar,
+    sino añadir fuerza al fuego?
+
+CONDE.
+
+    (_Aparte_).
+    (¡Quieran, Lucrecia, los cielos,
+    que te mude esta mudanza,
+    y a mi perdida esperanza
+    abran la puerta tus celos!)
+    Y vos, ¿qué le respondéis?
+
+DON MENDO.
+
+    Nunca el negar hizo daño.
+
+CONDE.
+
+    Mejor fuera el desengaño
+    si en otra parte queréis.
+
+DON MENDO.
+
+    Dañarme, Conde, podría,
+    que su amor causó en mi pecho
+    terrible incendio, y sospecho
+    que hay centellas todavía.
+    Y quien antiguo cuidado
+    arraigado al alma tiene,
+    ha de obligar el que viene,
+    sin despedir el pasado;
+    que mil veces se agradó
+    de la novedad Cupido,
+    y vuelve a buscar rendido
+    lo que arrogante dejó.
+
+CONDE.
+
+    Avariento sois de amor.
+
+DON MENDO.
+
+    Más el de doña Ana estimo.
+
+CONDE.
+
+    ¿Y ella os quiere?
+
+DON MENDO.
+
+                       Pienso, primo,
+    que merezco su favor.
+
+CONDE.
+
+    ¿Qué hay de Teodora?
+
+DON MENDO.
+
+                         Quería
+    que yo fuese su marido,
+    como si hubieran nacido
+    mis abuelos en Turquía.
+
+CONDE.
+
+    Sin ser loca, yo no creo
+    que ninguna mujer pida
+    la esclavitud de una vida
+    por la muerte de un deseo.
+
+DON MENDO.
+
+    Pues ya después que mi amor
+    sacó pies amedrentado,
+    en ello crece el cuidado,
+    y al paso de él, mi rigor.
+    Ya sin esa condición
+    estimara mis favores.
+
+CONDE.
+
+    Dichoso sois en amores.
+
+DON MENDO.
+
+    En el signo del León
+    Marte y Venus concurrieron
+    de mi nacimiento el día,
+    y si hay cierta astrología,
+    ellos amable me hicieron...
+    Mas adiós, primo, que es tarde,
+    y a doña Ana quiero ver,
+    que hoy su sol se va a poner
+    en Alcalá.
+
+CONDE.
+
+    Dios os guarde.
+
+(_Vase el Conde_).
+
+
+Escena X.
+
+_Don Mendo y Leonardo._
+
+LEONARDO.
+
+    El coche a la puerta está;
+    que ya se para imagino.
+
+DON MENDO.
+
+    Tenme el coche de camino
+    a la puerta de Alcalá.
+    Parta al punto el repostero,
+    y encárgales, por mi vida,
+    que esté a punto la comida
+    en la venta de Vivero.
+    Haz cómo doña Ana vea
+    en mi prevención mi amor.
+
+LEONARDO.
+
+    Toda tu gente, señor,
+    su vida en tu gusto emplea.
+
+(_Vanse_).
+
+
+Escena XI.
+
+Sala en casa de doña Ana.
+
+_Doña Ana, de camino, y Celia._
+
+DOÑA ANA.
+
+    ¿De qué vas triste? ¿De qué
+    lo van todas mis doncellas?
+    Habla, dime sus querellas.
+
+CELIA.
+
+    Señora, verdad diré,
+    pues obligación me pones:
+    tienen tus criadas todas
+    en la esperanza sus bodas
+    y en la corte sus pasiones;
+    y como de aquí a seis días
+    es la noche de san Juan,
+    cuando los amantes dan
+    indicios de sus porfías,
+    sienten el ver que esa noche
+    en la corte no han de estar.
+
+DOÑA ANA.
+
+    Pues pierdan, Celia, el pesar,
+    que por la posta en un coche
+    conmigo entonces vendrán;
+    porque se alegre mi gente,
+    gozaré secretamente
+    de la noche de San Juan,
+    y volvereme a la aurora
+    a proseguir mis novenas.
+
+CELIA.
+
+    Alivie el cielo tus penas;
+    mas ¿no era mejor, señora,
+    dilatar esta partida?
+
+DOÑA ANA.
+
+    Si sabes que estoy muriendo
+    por dar la mano a don Mendo,
+    y no hay cosa que lo impida
+    sino el cumplir las novenas,
+    que a san Diego prometí,
+    ¿dilataré, estando así,
+    el remedio de mis penas?
+    Con esta traza que doy
+    ninguna queda quejosa.
+
+CELIA.
+
+    Hágate el cielo dichosa;
+    a darles la nueva voy.
+
+DOÑA ANA.
+
+    Encárgales por mi vida
+    el secreto.
+
+CELIA.
+
+                Así lo haré.
+    Don Mendo viene.
+
+DOÑA ANA.
+
+                     Tendré
+    buen agüero en la partida.
+
+
+Escena XII.
+
+_Doña Ana y don Mendo._
+
+DON MENDO.
+
+      Los campos de Alcalá, bella señora,
+    desdeñan los favores del verano,
+    y de la fértil flora
+    no solicitan ya la diestra mano,
+    después que primavera les reparte
+    la dichosa esperanza de mirarte.
+      Los arroyos, que esperan ser espejos,
+    en quien de esos dos soles celestiales,
+    se miran los reflejos,
+    transforman sus corrientes en cristales;
+    y el agua en cambio de besarlos, grata
+    hace a tus blancos pies, puente de plata.
+      Al nuevo sol que nace, agradecidas
+    en verdes ramos las cantoras aves
+    a coros divididas,
+    dando a los vientos músicas süaves,
+    para explicar la gloria de este día
+    articular intentan su armonía.
+      Parte, oh feliz, que el céfiro süave
+    lisonjear pretende codicioso
+    la voladora nave,
+    de nueva Europa, Júpiter dichoso
+    por quien en Indias vuelto, Manzanares,
+    España de sus glorias hace a Henares.
+      Parte, oh primero móvil adorado,
+    de quien siguiendo voy el movimiento,
+    si bien arrebatado,
+    pues tras mi centro corro no violento;
+    que yo, si lo merezco, gloria mía,
+    voy a ser el lucero de este día.
+
+DOÑA ANA.
+
+      Los campos de esperanza matizados,
+    la consonancia dulce de las aves,
+    los cristales cuajados,
+    las lisonjas del céfiro süaves,
+    en nada estimo, y estimara solo
+    llevar por mi lucero al mismo Apolo.
+      Mas cuando el corazón lo solicita
+    forzosa acción de amor correspondiente,
+    ni el honor acredita,
+    ni el estado que tengo lo consiente.
+
+DON MENDO.
+
+    Es imán de mis ojos tu presencia.
+
+DOÑA ANA.
+
+    Justo efecto de amor es la obediencia.
+
+DON MENDO.
+
+    ¿Sin ti queréis dejarme?
+
+DOÑA ANA.
+
+                               Yo, don Mendo,
+    parto sin ti.
+
+DON MENDO.
+
+                  ¿Qué mucho? Vas helada
+    cuando yo quedo ardiendo.
+
+DOÑA ANA.
+
+    Segura fuese yo, como abrasada.
+
+DON MENDO.
+
+    No me apartes de ti si desconfías.
+
+DOÑA ANA.
+
+    Vive el recato entre las ansias mías.
+
+DON MENDO.
+
+    ¿No me llamas tu dueño?
+
+DOÑA ANA.
+
+                              Y de mis ojos,
+    cierta lengua del alma, lo has sabido.
+
+DON MENDO.
+
+    ¿De quién temes enojos,
+    cuando te adoro yo, de ti querido?
+
+DOÑA ANA.
+
+    Hasta el sí conyugal temo mudanza,
+    que no hay dentro del mar cierta bonanza.
+      En tanto que a mis deudos comunico
+    la dichosa elección de vuestra mano,
+    y devota suplico
+    en Alcalá a su dueño soberano,
+    que lleve a fin feliz mi intento nuevo,
+    y las novenas pago, que le debo,
+      puede mudarse vuestro amor ardiente,
+    y quedar mi opinión en opiniones
+    del vulgo maldiciente,
+    que a lo peor aplica las acciones.
+
+DON MENDO.
+
+    ¿Mudarme yo?
+
+DOÑA ANA.
+
+    Temores son de amante.
+
+DON MENDO.
+
+    Más parece cautelas de inconstante.
+      Si ya nuevo cuidado te fatiga,
+    el fingido recato, ¿qué pretende?
+    Declárate, enemiga,
+    no el desengaño la mudanza ofende;
+    vete segura, ocúpate entre tanto,
+    el alma en celos, y la vida en llanto.
+
+DOÑA ANA.
+
+      Ofendes mi lealtad, si desconfías;
+    mas porque de tu error te desengañes,
+    pon secretas espías,
+    prueba mi fe, como mi honor no dañes.
+
+DON MENDO.
+
+    Confianza tendré, mas no paciencia,
+    contra el rigor, señora, de tu ausencia.
+
+
+Escena XIII.
+
+_Dichos y Celia._
+
+CELIA.
+
+    Doña Lucrecia, señora,
+    viene a visitarte.
+
+DOÑA ANA.
+
+    ¿Quién?
+
+CELIA.
+
+    Tu prima.
+
+DON MENDO.
+
+    (_Aparte_).
+               A impedir mi bien
+    la trae mi desdicha ahora.
+
+
+Escena XIV.
+
+_Dichos, doña Lucrecia con manto, y Ortiz._
+
+DOÑA LUCRECIA.
+
+    No quise, prima, dejar
+    de verte en esta partida.
+
+DOÑA ANA.
+
+    Ni yo, Lucrecia querida,
+    me partiera sin pasar
+    por tu casa, porque el ver
+    al pasar tu rostro hermoso,
+    fuese presagio dichoso
+    del viaje que he de hacer.
+
+DOÑA LUCRECIA.
+
+    (_Aparte a don Mendo_).
+    Niégame ahora, traidor,
+    las verdades que estoy viendo.
+
+DOÑA ANA.
+
+    ¿Qué le dices a don Mendo?
+
+DOÑA LUCRECIA.
+
+    Del vestido de color
+    le pregunto la ocasión;
+    porque de irte a acompañar
+    lo indica el tiempo y lugar,
+    y fuera galante acción.
+
+DOÑA ANA.
+
+    Tan alto merecimiento
+    con mi humildad no conviene
+    y más que lisonja, tiene
+    malicia ese pensamiento.
+    Mas si conmigo partiera,
+    de parecer, prima, soy,
+    que pues yo de negro voy,
+    de color no se vistiera.
+
+CELIA.
+
+    Ya bien te puedes partir,
+    que los coches han venido.
+
+DOÑA ANA.
+
+    Que no me olvides, te pido.
+
+DOÑA LUCRECIA.
+
+    Por puntos te he escribir.
+
+DOÑA ANA.
+
+    Adiós, don Mendo.
+
+DON MENDO.
+
+                      Señora,
+    en el coche os dejaré.
+
+DOÑA ANA.
+
+    Si alguno en la calle os ve,
+    sospechará lo que ahora
+    ha sospechado mi prima.
+    Quedaos y salid después.
+
+(_Vase_).
+
+DON MENDO.
+
+    Yo obedezco...
+    (_Aparte de Lucrecia_).
+                   y vuestros pies
+    sigue el alma que os estima.
+
+
+Escena XV.
+
+_Doña Lucrecia, don Mendo y Ortiz._
+
+DOÑA LUCRECIA.
+
+    (_Saca un papel, y muéstralo a don Mendo_).
+    ¿Conoces este papel?
+
+DON MENDO.
+
+    Yo, Lucrecia, lo escribí.
+
+DOÑA LUCRECIA.
+
+    Junta lo que has hecho aquí
+    con lo que dices en él.
+    Traidor, fingido, embustero,
+    engañoso, ¿a ti te dan
+    apellido de Guzmán
+    y nombre de caballero?
+    ¿Qué sangre puede tener
+    quien tiene pecho traidor?
+    ¿Es hazaña de valor
+    engañar una mujer?
+
+DON MENDO.
+
+    Oye, señora...
+
+DOÑA LUCRECIA.
+
+                   No muevas
+    esos fementidos labios,
+    que intentas nuevos agravios
+    con satisfacciones nuevas.
+
+DON MENDO.
+
+    Pues ¿qué quieres?, ¿condenarme,
+    sin oír satisfacción
+    por solo una presunción?
+
+DOÑA LUCRECIA.
+
+    ¿Qué disculpa puedes darme?
+    ¿Presunción llamas, traidor,
+    esta tan clara probanza
+    de mi agravio y tu mudanza?
+
+DON MENDO.
+
+    En lo que fundas mi error,
+    fundo la satisfacción:
+    ¿no te dijo de mi parte
+    tu escudero, que de hablarte
+    deseaba una ocasión,
+    donde el descargo sabrías
+    del recelo que te abrasa?
+    Tuve aviso de tu casa
+    que a ver tu prima salías,
+    y vine a esperarte aquí,
+    y adelanteme en llegar,
+    por no dar que sospechar,
+    viéndome venir tras ti.
+    ¡Mira por qué me condenas!
+
+DOÑA LUCRECIA.
+
+    ¿De modo que te disculpas
+    multiplicando tus culpas
+    y acrecentando mis penas?
+    Causa doña Ana mi daño,
+    ¿y con hallarte con ella
+    das remedio a mi querella?
+
+DON MENDO.
+
+    Porque fuese el desengaño
+    en su presencia más fuerte.
+
+DOÑA LUCRECIA.
+
+    ¿Qué desengaño me diste?
+
+DON MENDO.
+
+    Como tu pena encubriste,
+    no quise hablando ofenderte;
+    mas ten cierta confianza,
+    para asegurar tus celos,
+    que en el orden de los cielos,
+    antes que en mí, habrá mudanza.
+    Tuyo soy.
+
+DOÑA LUCRECIA.
+
+    Las obras creo.
+
+DON MENDO.
+
+    Presto, con la voluntad
+    de tu padre, su verdad
+    te mostrará mi deseo.
+
+
+Escena XVI.
+
+_Dichos y el Conde._
+
+CONDE.
+
+    (_Aparte_).
+    (¿Dónde hay con celos cordura?)
+    Lucrecia hermosa, don Mendo.
+
+DON MENDO.
+
+    Conde, que venís entiendo
+    traído de mi ventura.
+    Que Lucrecia ha de saber
+    de vos, lo que hablamos hoy
+    de su amor.
+
+CONDE.
+
+    Testigo soy.
+
+DON MENDO.
+
+    Eso a solas ha de ser,
+    que pensará que os obligo
+    con mi presencia a abonarme.
+
+(_Vase_).
+
+
+Escena XVII.
+
+_Dichos menos don Mendo._
+
+DOÑA LUCRECIA.
+
+    (_Aparte_).
+    (¡Tú dejas para informarme
+    en tu favor buen testigo!)
+
+CONDE.
+
+    ¿He de decir la verdad?
+
+DOÑA LUCRECIA.
+
+    Para eso quedas aquí.
+
+CONDE.
+
+    Pues escúchala de mí,
+    pagues, o no, mi lealtad;
+    y por prevenir el daño,
+    si acaso no me creyeres,
+    ten secreto lo que oyeres,
+    y averigua si es engaño;
+    que pues me dijo don Mendo
+    que cuente lo que pasó,
+    cumpliendo lo que él mandó,
+    nadie dirá que le ofendo;
+    que aunque si intento haya sido
+    que use contigo de engaño,
+    no debo para mi daño
+    darme yo por entendido.
+    Dando hoy para ti un papel
+    don Mendo a Ortiz, tu criado,
+    desdeñoso y enfadado
+    me dijo: «¡Cosa cruel,
+    Conde, es una mujer necia!
+    Después que a doña Ana di
+    en servir, sale de sí
+    de amor y celos Lucrecia».
+    Yo le dije: «¿No es mejor
+    no engañarla?» Y respondió:
+    «Mil veces lo que dejó
+    volvió a desear amor;
+    y este caso previniendo,
+    nada pierdo en conservalla».
+
+DOÑA LUCRECIA.
+
+    ¿Que enredos inventas? Calla;
+    ¿tal pudo decir don Mendo?
+    Que tu afición agradezca
+    quieres así disponer;
+    ¿piensas que te he de querer
+    aunque a don Mendo aborrezca?
+
+CONDE.
+
+    Oye.
+
+DOÑA LUCRECIA.
+
+    No me digas nada.
+
+CONDE.
+
+    Averígualo advertida,
+    y dame pena ofendida,
+    o premio desengañada.
+    Y si por amarte yo,
+    duda en mi verdad has puesto,
+    sírvate de indicio aquesto,
+    ya que de probanza no.
+    Él va tras ella a Alcalá,
+    y no es este mal testigo
+    del desengaño que digo;
+    despacha tú quien allá
+    con cuidado y sin pasión
+    secretamente lo siga,
+    y si mi verdad te obliga,
+    premia un leal corazón;
+    que será culpable error
+    que prefiera en tu cuidado,
+    un engaño averiguado
+    a un averiguado amor.
+
+DOÑA LUCRECIA.
+
+    La verdad diciendo estás;
+    que si negándola estoy,
+    no es que crédito no doy,
+    sino que pena me das.
+    ¡Ah falso! ¡Ah, mal caballero!
+    ¡Plegue a Dios, que en igual grado
+    amante y desengañado
+    pruebes el mal de que muero!
+    Pluguiera a Dios, Conde mío,
+    pudiera en esta ocasión
+    mudarse la inclinación
+    al paso que el albedrío;
+    mas vive cierto, señor,
+    que si me has dicho verdad,
+    te dará mi voluntad,
+    lo que te niega mi amor.
+
+CONDE.
+
+    Yo lo estimo de esa suerte.
+
+DOÑA LUCRECIA.
+
+    Tanto más me deberás
+    cuanto me forzare más,
+    Conde, por corresponderte.
+
+
+Escena XVIII.
+
+Decoración de Calle.
+
+_Don Juan y Beltrán, de noche._
+
+BELTRÁN.
+
+    El duque Urbino esta noche
+    bien pudiera perdonarte.
+
+DON JUAN.
+
+    ¿Qué puede querer?
+
+BELTRÁN.
+
+                       Llevarte
+    querrá consigo en el coche
+    amarrado al duro banco
+    sin poderte entretener,
+    cuando el decir y el hacer
+    anda por las calles franco;
+    que, noche de san Juan, hallo,
+    si un peón sabe embestir,
+    que suele solo rendir
+    más que treinta de a caballo;
+    que hay mujer, que en el engaño
+    que en esta noche previene,
+    librados los gustos tiene
+    de los deseos de un año;
+    cuál llega al poblado coche
+    de angélica jerarquía,
+    y siendo paje de día,
+    pasa por marqués de noche;
+    cuál si a pensar se acomoda
+    con la viuda disfrazada,
+    que entre galas de casada
+    hurta los gustos de boda;
+    cuál encuentra y desbarata
+    una sarta de doncellas,
+    de quien son las manos bellas
+    engarzadoras de plata;
+    cuál se llega a las que van
+    brindando los retozones
+    y trueca a mil refregones
+    un pellizco que le dan.
+
+DON JUAN.
+
+    Quien los encuentros enseña,
+    encuentra con un azar.
+
+BELTRÁN.
+
+    ¿Es el azar encontrar
+    una mujer pedigüeña?
+    Si eso temes, en tu vida
+    en poblado vivirás;
+    porque ¿dónde encontrarás
+    hombre o mujer que no pida?
+    Cuando dar gritos oyeres
+    diciendo: «Lienzo», a un lencero,
+    te dice: «dame dinero
+    si de mi lienzo quisieres».
+    El mercader claramente
+    diciendo está, sin hablar:
+    «dame dinero, y llevar
+    podrás lo que te contente».
+    Todos, según imagino,
+    piden, que para vivir
+    es fuerza dar y pedir
+    cada uno por su camino:
+    con la cruz el sacristán,
+    con los responsos el cura,
+    el monstruo con su figura,
+    con su cuerpo el ganapán,
+    el alguacil con la vara,
+    con la pluma el escribano,
+    el oficial con la mano,
+    y la mujer con la cara;
+    y esta, que a todos excede,
+    con más razón pedirá,
+    pues que más por todos da,
+    y menos que todos puede;
+    y el miserable que el dar
+    tuviere por pesadumbre,
+    ellas piden por costumbre,
+    haga costumbre el negar;
+    que tanto, desde que nacen,
+    el pedir usado está,
+    que pienso que piden ya
+    sin saber lo que se hacen.
+    Y así es fácil el negar,
+    porque se puede inferir,
+    que quien pide sin sentir
+    no sentirá no alcanzar.
+
+DON JUAN.
+
+    Aunque más razones halles
+    no has de quitarme el temor,
+    Beltrán, que el azar mayor
+    es el no tener que dalles;
+    y más si la que he adorado,
+    se dignase de mis dones.
+
+BELTRÁN.
+
+    ¿Aún te duran tus pasiones?
+
+DON JUAN.
+
+    Ardo más, más desdeñado.
+
+BELTRÁN.
+
+    Este es el Duque.
+
+
+Escena XIX.
+
+_Dichos, el Duque y don Mendo, de noche._
+
+DUQUE.
+
+    ¿Don Juan?
+
+DON JUAN.
+
+    Deme los pies vuecelencia.
+
+DUQUE.
+
+    Ya acusaba vuestra ausencia.
+
+DON JUAN.
+
+    Si don Mendo de Guzmán,
+    Apolo de discreción,
+    acompañándoos está,
+    señor, ¿qué falta os hará
+    el que en su comparación
+    luz de una estrella no envía?
+
+DON MENDO.
+
+    Merced recibo de vos.
+
+DUQUE.
+
+    La amistad de entre los dos
+    extraña la cortesía.
+
+DON JUAN.
+
+    Decidme, pues, el intento
+    con que hemos sido llamados.
+
+DON MENDO.
+
+    Aquí tenéis dos criados.
+
+DUQUE.
+
+    Dadme, pues, oído atento.
+    Hombre que a la corte viene
+    recién heredado y mozo,
+    pájaro que estrena el viento,
+    nave que se arroja al golfo,
+    que a los ojos de su rey
+    y a los populares ojos,
+    ni debe mostrar flaqueza,
+    ni puede esconder el rostro;
+    ha de regir sus acciones
+    por los expertos pilotos,
+    obligados, por parientes,
+    por amigos, cuidadosos.
+    Con esta ley os obligo
+    y con esta fe os escojo,
+    capitanes veteranos
+    de este soldado bisoño.
+    Acompañadme los dos,
+    advertirme lo que ignoro,
+    decidme el nombre, el estado,
+    y la calidad de todos;
+    y en lo de las cortesías
+    principal cuidado os pongo,
+    advirtiendo que con nadie,
+    pretendo pecar de corto;
+    que el señor siempre es señor,
+    como Apolo siempre Apolo,
+    aunque en lugares indignos
+    entren sus rayos hermosos.
+    Lengua honrosa, noble pecho,
+    fácil gorra, humano rostro
+    son voluntarios Argeles
+    de la libertad de todos.
+    Enseñadme los bajíos
+    en que tocar suelen otros,
+    cuál es Acates fiel,
+    y cuál Sinón cauteloso;
+    ya del dulce lisonjero
+    el veneno en vaso de oro,
+    ya la canora sirena,
+    porque me defienda sordo.
+    Al fin, los dos sois el hilo,
+    la corte el cretense monstruo,
+    por mí corren mis aciertos,
+    y mis yerros por vosotros.
+
+DON MENDO.
+
+    Yo confieso que es muy débil,
+    para ese cielo este polo;
+    mas suplirán mis deseos
+    el defecto de mis hombros.
+
+DON JUAN.
+
+    De no ser un Quinto Fabio
+    hoy con mi suerte me enojo;
+    mas el que soy, obediente
+    a serviros me dispongo.
+
+DUQUE.
+
+    Con eso, en nombre de Dios,
+    seguro a la mar me arrojo;
+    vamos andando las calles,
+    mientras pregunto y me informo.
+
+DON MENDO.
+
+    Esta es la calle Mayor.
+
+DON JUAN.
+
+    Las Indias de nuestro polo.
+
+DON MENDO.
+
+    Si hay Indias de empobrecer
+    yo también Indias la nombro.
+
+DON JUAN.
+
+    Es gran tercera de gustos.
+
+DON MENDO.
+
+    Y gran corsaria de tontos.
+
+DON JUAN.
+
+    Aquí compran las mujeres.
+
+DON MENDO.
+
+    Y nos venden a nosotros.
+
+DUQUE.
+
+    ¿Quién habita en estas casas?
+
+DON JUAN.
+
+    Don Lope de Lara, un mozo
+    muy rico, pero más noble.
+
+DON MENDO.
+
+    Y menos noble que tonto.
+    (_Hacen dentro ruido de baile_).
+
+DUQUE.
+
+    Tened, que bailan allí.
+
+DON JUAN.
+
+    San Juan es fiesta de todos.
+
+DON MENDO.
+
+    Yo aseguro que van estos
+    más alegres que devotos.
+
+DUQUE.
+
+    ¿Quién vive aquí?
+
+DON JUAN.
+
+                      Una viuda
+    muy honrada, de buen rostro.
+
+DON MENDO.
+
+    Casta es la que no es rogada;
+    alegres tiene los ojos.
+
+BELTRÁN.
+
+    (_Aparte_).
+    ¡Bien haya tan buena lengua!
+    ¡Vive Cristo que es un Momo!
+
+DON JUAN.
+
+    Esta imagen puso aquí
+    un extranjero devoto.
+
+DON MENDO.
+
+    Y entre aquestas devociones
+    no le sabe mal un logro.
+
+DON JUAN.
+
+    Un regidor de esta villa
+    hizo este hospital famoso.
+
+DON MENDO.
+
+    Y primero hizo los pobres.
+
+BELTRÁN.
+
+    (_Aparte_).
+    Por Dios que lo arrasa todo.
+
+
+Escena XX.
+
+_Dichos, doña Ana y Celia a la ventana._
+
+DOÑA ANA.
+
+    Hoy hace, Celia, tres años
+    que mi esposo, con sus días,
+    dio fin a mis alegrías,
+    y dio principio a mis daños.
+
+CELIA.
+
+    Si de Alcalá te viniste,
+    solo a gozar la alegría
+    que Madrid hace este día,
+    ¿por qué quieres estar triste?
+    ¿Por que con esta memoria
+    tan injusta guerra mueves
+    contra el contento que debes
+    a noche de tanta gloria?
+    Ya que tu luto funesto
+    te impide salir de casa
+    hoy, que los límites pasa
+    el estado más honesto,
+    y estar quieres encerrada
+    noche que el uso permite
+    que los altares visite
+    la doncella más honrada,
+    con quien pasa, tus enojos
+    divierte, señora mía,
+    y niegue esta celosía
+    lo que conceden tus ojos.
+    Las doce han dado, señora;
+    oye del segundo esposo
+    el pronóstico dichoso.
+
+DOÑA ANA.
+
+    A don Mendo el alma adora.
+
+DON MENDO.
+
+    Don Juan de Mendoza...
+
+DOÑA ANA.
+
+                           ¡Ay, Dios!
+    ¿Don Mendo no es el que habló?
+
+CELIA.
+
+    Sí, mas a don Juan nombró.
+
+DOÑA ANA.
+
+    ¿Quien duda que de los dos
+    es don Mendo de Guzmán
+    pronóstico para mí,
+    pues antes su voz oí,
+    que no el nombre de don Juan?
+
+CELIA.
+
+    Mas ¡qué fuera que ordenara
+    el destino soberano
+    que tu blanca hermosa mano
+    para don Juan se guardara!
+
+DOÑA ANA.
+
+    Calla, necia, ¿quién pensó
+    tan notable desatino?
+    ¿qué importará que el destino
+    quiera, si no quiero yo?
+    Del cielo es la inclinación,
+    el sí o el no todo es mío;
+    que el hado en el albedrío
+    no tiene jurisdicción.
+    ¿Cómo puedo yo querer
+    hombre cuya cara y talle
+    me enfada solo en miralle?
+
+CELIA.
+
+    El amor lo puede hacer.
+
+DOÑA ANA.
+
+    Solo quitará el morirme,
+    Celia, a don Mendo mi mano;
+    que está el plazo muy cercano,
+    y mi voluntad muy firme.
+
+DUQUE.
+
+    ¿Cúyos son estos balcones?
+
+DON JUAN.
+
+    De doña Ana de Contreras;
+    el sol por sus vidrieras
+    suele abrasar corazones.
+
+DOÑA ANA.
+
+    Escucha, que hablan de mí.
+
+DUQUE.
+
+    ¿Es la viuda de Siqueo?
+
+DON JUAN.
+
+    La misma.
+
+DUQUE.
+
+    Verla deseo.
+
+DON MENDO.
+
+    Pues ahora no está aquí.
+    (_Aparte_).
+    (Ni yo en mí, que estoy sin ella.)
+
+DUQUE.
+
+    ¿Dónde fue?
+
+DON MENDO.
+
+                Velando está
+    a san Diego, en Alcalá.
+
+DUQUE.
+
+    La fama dice que es bella.
+
+DON JUAN.
+
+    Pues por imposible siento
+    que en algo la haya igualado
+    el dibujo que ha formado
+    la fama en tu pensamiento;
+    que en belleza y bizarría,
+    en virtud y discreción
+    vence a la imaginación,
+    si vence a la noche el día.
+
+DON MENDO.
+
+    (_Aparte_).
+    (¡Plegue a Dios que esta alabanza
+    no engendre en el Duque amor,
+    que con tal competidor
+    mal vivirá mi esperanza!
+    Yo quiero decir mal de ella,
+    por quitar la fuerza al fuego.)
+    Ciego sois, o soy ciego,
+    o la viuda no es tan bella;
+    ella tiene el cerca feo,
+    si el lejos os ha agradado,
+    que yo estoy desengañado
+    porque en su casa la veo.
+
+DUQUE.
+
+    ¿Visitáisla?
+
+DON MENDO.
+
+                 Por pariente
+    alguna vez la visito,
+    que si no, fuera delito,
+    según es de impertinente.
+
+DOÑA ANA.
+
+    ¡Ah traidor!
+
+DON MENDO.
+
+                 Si el labio mueve
+    su mediano entendimiento,
+    helado queda su aliento
+    entre palabras de nieve.
+
+BELTRÁN.
+
+    (_Aparte con don Juan_).
+    ¡Ya escampa!
+
+DON JUAN.
+
+    (_Aparte a Beltrán_).
+                 ¿Que trate así
+    un caballero a quien ama?
+
+BELTRÁN.
+
+    Esto dice de su dama,
+    ¡mira que dirá de ti!
+
+DON MENDO.
+
+    Pues la edad no sufre engaños,
+    aunque la tez resplandece.
+
+DOÑA ANA.
+
+    ¡Ah falso! ¿Qué te parece?
+    Aun no perdona mis años.
+
+DON MENDO.
+
+    Mil botes son el Jordán
+    con que se remoza y lava.
+
+DUQUE.
+
+    (_Aparte los dos_).
+    Pues ¿cómo don Juan la alaba?
+
+DON MENDO.
+
+    Para entre los dos, don Juan
+    es un buen hombre; y si digo
+    que tiene poco de sabio,
+    puedo, sin hacerle agravio;
+    vuestro deudo es, y mi amigo.
+    Mas esto no es murmurar.
+
+DON JUAN.
+
+    ¡Que queráis poner defeto
+    en tan hermoso sujeto!
+
+DON MENDO.
+
+    En la rosa suele estar
+    oculta la aguda espina.
+
+DON JUAN.
+
+    Ellos son gustos, y al mío,
+    o del todo desvarío,
+    o esta mujer es divina.
+
+DON MENDO.
+
+    Poco sabéis de mujeres.
+
+DON JUAN.
+
+    Veréisla, Duque, algún día,
+    y acabará esta porfía
+    de encontrados pareceres.
+
+DON MENDO.
+
+    (_Aparte_).
+    Don Juan me quiere matar,
+    y aquello mismo que he hecho
+    para sosegar el pecho
+    del Duque, me ha de dañar.
+
+CELIA.
+
+    ¿Qué te parece?
+
+DOÑA ANA.
+
+    Estoy loca.
+
+CELIA.
+
+    ¿A este hombre tienes amor?
+
+DOÑA ANA.
+
+    ¡El pecho abrasa el furor!
+    ¡Fuego arrojo por la boca!
+    ¿Posible es que tal oí?
+    ¡Vil!, ¿a quien te quiere infamas?
+    ¿Así tratas a quien amas?
+
+CELIA.
+
+    No ama, quien habla así;
+    él te engaña.
+
+DOÑA ANA.
+
+                  Claro está;
+    di que me traigan un coche;
+    volvamos, Celia, esta noche
+    a amanecer a Alcalá,
+    que lo que ahora escuché
+    castigo del cielo ha sido,
+    por haber interrumpido
+    las novenas que empecé.
+
+CELIA.
+
+    Antes este desengaño
+    le debes a esta venida.
+
+DOÑA ANA.
+
+    Si con él pierdo la vida,
+    mejor me estaba el engaño.
+
+(_Vanse_).
+
+
+Escena XXI.
+
+_Dichos, menos doña Ana y Celia._
+
+DON MENDO.
+
+    (_Hacen dentro ruido de cuchilladas_).
+    Allí suenan cuchilladas.
+
+DUQUE.
+
+    Estas damas, de mi voto
+    sigamos.
+
+(_Vase_).
+
+DON MENDO.
+
+    (_Aparte con don Juan_).
+             Es más devoto
+    de mujeres que de espadas.
+
+(_Vase_).
+
+DON JUAN.
+
+    Y así el más amigo abona,
+    para que advertido estés.
+
+BELTRÁN.
+
+    Su lengua en efecto es
+    la que a nadie no perdona.
+
+(_Vanse_).
+
+
+
+
+ACTO SEGUNDO.
+
+
+Escena primera.
+
+Sala en casa del Duque.
+
+_El Duque, don Juan y Beltrán, todos de color._
+
+DUQUE.
+
+    ¿Cómo los toros dejáis?
+
+DON JUAN.
+
+    Viéndome sin vos en ellos,
+    estaba de los cabellos.
+    Del juego ¿cómo quedáis?
+    Que era robado el partido.
+
+DUQUE.
+
+    Cogiéronme de picado;
+    he perdido, y me he cansado.
+
+DON JUAN.
+
+    Mil cosas habéis perdido;
+    el descanso y el dinero,
+    y los toros.
+
+BELTRÁN.
+
+                 ¿Que haya juicio
+    que del cansancio haga vicio,
+    y tras un hinchado cuero,
+    que el mundo llama pelota,
+    corra ansioso y afanado?
+    ¡Cuánto mejor es, sentado,
+    buscar los pies a una sota
+    que moler piernas y brazos!
+    Si el cuero fuera de vino,
+    aun no fuera desatino
+    sacarle el alma a porrazos.
+    Pero ¿perder el aliento
+    con una y otra mudanza,
+    y alcanzar, cuando se alcanza,
+    un cuero lleno de viento;
+    y cuando, una pierna rota,
+    brama un pobre jugador,
+    ver al compás del dolor
+    ir brincando la pelota?
+
+DON JUAN.
+
+    El brazo queda gustoso
+    si bien la pelota dio.
+
+BELTRÁN.
+
+    Séneca la comparó
+    al vano presuntuoso,
+    y esa semejanza ha dado
+    sin duda al juego sabor;
+    porque no hay gusto mayor
+    que apalear a un hinchado.
+    Mas si miras el contento
+    de un jugador de pelota,
+    y un cazador que alborota
+    con halcón la cuerva al viento,
+    por dicha, ¿tendrás la risa,
+    viendo que a presa tan corta,
+    que vencida nada importa,
+    corre un hombre tan deprisa
+    que apenas tocan la yerba
+    los caballos voladores?
+    Válgaos Dios por cazadores;
+    ¿qué os hizo esa pobre cuerva?
+
+DUQUE.
+
+    De la guerra has de pensar
+    que es la caza semejanza,
+    y así el ardid, la asechanza,
+    el seguir y el alcanzar
+    es gustoso pasatiempo.
+
+BELTRÁN.
+
+    ¿Mil contra una cuerva? Sí,
+    bien dices que son así
+    las pendencias de este tiempo.
+
+DON JUAN.
+
+    ¡Beltrán, satírico estás!
+
+BELTRÁN.
+
+    ¿En qué discreto, señor,
+    no predomina ese humor?
+
+DON JUAN.
+
+    Como matas morirás.
+
+BELTRÁN.
+
+    En Madrid estuve yo
+    en corro de tal tijera,
+    que la pegaba cualquiera
+    al padre que la engendró;
+    y si alguno se partía
+    del corro, los que quedaban
+    mucho peor de él hablaban
+    que él de otros hablado había.
+    Yo, que conocí sus modos,
+    a sus lenguas tuve miedo,
+    y ¿qué hago?, estoyme quedo
+    hasta que se fueron todos.
+    Pero no me valió el arte,
+    que, ausentándose de allí,
+    solo a murmurar de mí
+    hicieron un corro aparte.
+    Sí el maldiciente mirara
+    este solo inconveniente,
+    ¿hallárase un maldiciente
+    por un ojo de la cara?
+
+DON JUAN.
+
+    ¿Fuera por eso peor?
+
+BELTRÁN.
+
+    Espántome que eso ignores;
+    más que cíen predicadores
+    importa un murmurador.
+    Yo sé quién ni con sermones,
+    ni cuaresmas, ni consejos
+    de amigos sabios y viejos,
+    puso freno a sus pasiones;
+    ni sus costumbres redujo
+    en gran tiempo, y solamente
+    de temor de un maldiciente,
+    vive ya como un cartujo.
+
+DUQUE.
+
+    Digo que tenéis, don Juan,
+    entretenido criado.
+
+DON JUAN.
+
+    Es agudo, y ha estudiado
+    algunos años Beltrán.
+
+DUQUE.
+
+    ¿Qué hay de doña Ana?
+
+DON JUAN.
+
+                          Esta noche
+    parte sin duda a Madrid.
+
+DUQUE.
+
+    Nuestra invención prevenid.
+
+DON JUAN.
+
+    Ella, Duque, va en su coche,
+    su gente en uno alquilado.
+
+DUQUE.
+
+    Bien nos viene.
+
+DON JUAN.
+
+    Así lo espero.
+
+DUQUE.
+
+    ¿Apercibiose el cochero?
+
+DON JUAN.
+
+    Ya, señor, lo he concertado.
+
+DUQUE.
+
+    ¿Y está en los toros doña Ana?
+
+DON JUAN.
+
+    No la he visto; pero sé
+    que cuando en ellos esté,
+    ni en andamio ni en ventana
+    de suerte estará que pueda
+    ser de nadie conocida;
+    que no por fiestas olvida
+    obligaciones que hereda.
+
+DUQUE.
+
+    ¿Cuántos toros viste?
+
+DON JUAN.
+
+                          Tres,
+    y entró don Mendo al tercero,
+    despreciando en un overo
+    al amor y al interés.
+    Salió con verde librea,
+    robando así corazones,
+    que aun el toro a sus rejones
+    con su muerte lisonjea.
+
+DUQUE.
+
+    ¿Tan bueno anduvo el Guzmán?
+
+DON JUAN.
+
+    En todo es hombre excelente
+    don Mendo.
+
+DUQUE.
+
+    (_Aparte_).
+               (¡Cuán diferente
+    suele hablar él de don Juan!)
+    Cansado estoy.
+
+DON JUAN.
+
+                   Reposar
+    podéis, señor, entre tanto
+    que da Tetis con su manto
+    a nuestra invención lugar.
+
+DUQUE.
+
+    Que a su tiempo me despiertes
+    te encargo.
+(_Vase_).
+
+DON JUAN.
+
+    Tendré cuidado.
+
+
+Escena II.
+
+_Don Juan y Beltrán._
+
+BELTRÁN.
+
+    ¿Por qué, señor, no has pintado
+    caballos, toros y suertes?
+    que con eso, y con tratar
+    mal a los calvos, hicieras
+    comedias con que pudieras
+    tu pobreza remediar.
+    A que te cuenten, me obligo,
+    seiscientos por cada una.
+
+DON JUAN.
+
+    Pues supongamos que en una
+    eso que me adviertes digo,
+    en otra ¿qué he de decir?,
+    que a un poeta le está mal
+    no variar, que el caudal
+    se muestra en no repetir.
+
+BELTRÁN.
+
+    Para dar desconocidos
+    estos platos duplicados,
+    dar aquí calvos asados,
+    y acullá calvos cocidos.
+    Pero, señor, a las veras
+    vuelva la conversación:
+    ¿no me dirás la intención
+    que llevan estas quimeras?
+    ¿Para qué se han prevenido
+    los dos capotes groseros?
+    ¿Qué es esto de los cocheros?
+
+DON JUAN.
+
+    Escucha, irás advertido.
+    Desde aquella alegre noche,
+    que al gran Precursor el suelo
+    celebra por alba hermosa
+    del sol de justicia eterno,
+    de la encontrada porfía
+    en que me puso don Mendo
+    a mil gracias que conté
+    de doña Ana, mil defetos;
+    en el corazón del Duque
+    nació un curioso deseo
+    de someter a sus ojos
+    la definición del pleito.
+    A don Mendo le explicó
+    el Duque este pensamiento,
+    y para ver a doña Ana
+    quiso que él fuese el tercero.
+    Él se excusó, procurando
+    divertirlo de este intento,
+    o temiendo mi victoria
+    o anticipando sus celos.
+    Creció en el mancebo Duque
+    el apetito con esto,
+    que sospechando su amor,
+    hizo tema del deseo.
+    Declarome su intención,
+    y yo en su ayuda me ofrezco,
+    dándome esperanza a mí
+    lo que temor a don Mendo;
+    y como doña Ana estaba
+    aquí velando a san Diego,
+    vinimos hoy a los toros
+    más por verla que por verlos.
+    Y sabiendo que esta noche
+    se parte mi dulce dueño,
+    por quien ya comienza Henares
+    el lloroso sentimiento;
+    por poder gozar mejor
+    de su cara y de su ingenio,
+    porque las gracias del alma
+    son alma de las del cuerpo,
+    trazamos acompañarla,
+    sirviéndole de cocheros,
+    nuevos faetones del sol,
+    si atrevidos, no soberbios.
+    Con los cocheros ha sido
+    para este fin el concierto,
+    para esto la prevención
+    de los capotes groseros;
+    que a tales trazas obliga
+    en ella el recato honesto,
+    en el Duque sus antojos,
+    y en mí, Beltrán, mis deseos.
+
+BELTRÁN.
+
+    Todo lo demás alcanzo,
+    y eso postrero no entiendo.
+    ¿Cómo en el amor del Duque
+    funda el tuyo su remedio?
+
+DON JUAN.
+
+    Mientras sin contrario fuerte
+    ame a doña Ana don Mendo,
+    ella está en su amor muy firme;
+    a mudarla no me atrevo.
+    Y como el Duque es persona,
+    a cuyas fuerzas y ruegos
+    puede mudarse doña Ana,
+    que la conquiste pretendo,
+    para que andando mudable
+    entre los fuertes opuestos,
+    no estando firme en su amor,
+    esté flaca a mi deseo.
+
+BELTRÁN.
+
+    Esa es cautela que enseña
+    el diestro don Luis Pacheco,
+    que dice que está la espada
+    más flaca en el movimiento.
+
+DON JUAN.
+
+    Mejor se sujeta entonces:
+    de esa lección me aprovecho.
+
+BELTRÁN.
+
+    Y dime, por vida tuya,
+    ¿ahora sales con esto?
+    ¿No eres tú quien me dijiste:
+    «Si de esta vez no la muevo,
+    morirá mi pretensión,
+    aunque vivan mis deseos»?
+
+DON JUAN.
+
+    Imita mi amor al hijo
+    de la tierra, aquel Anteo,
+    que derribado cobraba
+    nueva fuerza y valor nuevo.
+
+BELTRÁN.
+
+    Pensé que desesperado
+    lo curabas como a muerto,
+    que aunque la traza es aguda,
+    pongo gran duda en su efecto;
+    que el Duque es muy poderoso;
+    llevarala.
+
+DON JUAN.
+
+               Por lo menos,
+    si vence, alivio será,
+    que por un duque la pierdo;
+    y si no, consolarame
+    ver que lo que yo no puedo
+    tampoco ha podido un duque.
+
+BELTRÁN.
+
+    En fe de aquesos consuelos
+    has cortado la cabeza
+    totalmente a tus intentos,
+    y estando tu mal dudoso
+    has querido hacerlo cierto.
+    Quieres que el Duque la lleve
+    por quitársela a don Mendo,
+    y del daño el daño mismo
+    has tomado por remedio.
+    El epigrama que a Fanio
+    hizo Marcial, viene a pelo.
+
+DON JUAN.
+
+    ¿Cómo dice?
+
+BELTRÁN.
+
+                Traducido,
+    dice así en lenguaje nuestro.
+    «Queriendo Fanio huir
+    sus contrarios, se mató».
+    ¿No es furor, pregunto yo,
+    para no morir, morir?
+
+DON JUAN.
+
+    El epigrama es agudo,
+    mas la aplicación te niego,
+    que no es, como tú imaginas,
+    que venza el Duque tan cierto;
+    que si él es grande de España,
+    es el querido don Mendo,
+    y esto es ser grande también
+    en la presencia de Venus.
+
+BELTRÁN.
+
+    Grandes son los dos contrarios,
+    y tú, señor, muy pequeño;
+    mas si fortuna te ayuda,
+    juzgo posible tu intento.
+    Dos valientes salteadores
+    por un hurto que habían hecho,
+    riñeron, que cada cual,
+    lo quiso llevar entero;
+    y mientras ellos reñían,
+    un ladroncillo ratero
+    cogió la presa.
+
+DON JUAN.
+
+                    Dios quiera
+    que me suceda lo mesmo.
+
+(_Vanse_).
+
+
+Escena III.
+
+Habitación de doña Ana.
+
+_Doña Ana y doña Lucrecia, de camino._
+
+DOÑA ANA.
+
+    ¿Cómo en los toros te ha ido?
+
+DOÑA LUCRECIA.
+
+    Jamás hicieron provecho
+    en las dolencias del pecho
+    los remedios del sentido.
+    Que en un rabioso cuidado,
+    tanto con el alma asisto,
+    que aunque los toros he visto,
+    prima, no los he mirado.
+
+DOÑA ANA.
+
+    Yo apostaré que hay amor.
+
+DOÑA LUCRECIA.
+
+    Forzoso es ya que te cuente,
+    porque el daño no se aumente,
+    la causa de mi dolor.
+    Doce veces ha vestido
+    Febo la luz a su hermana,
+    después, hermosa doña Ana,
+    que me sujetó Cupido;
+    mas no fácil en mi amor
+    llevó el que adoro la palma,
+    que al postrer precio del alma
+    le rendí el primer favor.
+    Hasta aquí te lo he callado,
+    porque muestra liviandad
+    la que sin necesidad
+    manifiesta su cuidado.
+    Mas ya que teme el amor,
+    si callo, un agravio injusto,
+    viendo que se anega el gusto,
+    se arroja a nado el honor.
+    Don Mendo es pues el sujeto,
+    por quien quiso amor que muera,
+    que menos causa no hiciera
+    en mí tan tirano efeto.
+    Supe que daba en mirar
+    tu belleza soberana,
+    que solo por ti, doña Ana,
+    me pudiera a mí olvidar.
+    A mi celosa querella
+    satisfacer intentó,
+    mas aunque el fuego aplacó,
+    quedó viva la centella.
+    Supe que a Henares venía
+    hoy en galas y librea;
+    ¿por quién quieres tú que sea,
+    si a mí en Madrid me tenía?
+    Pedí a mi padre licencia
+    para venir a Alcalá
+    y porque estabas tú acá
+    me ha permitido esta ausencia;
+    no vine a los toros, no,
+    mas a impedir nuestro daño,
+    con que sepas tú tu engaño
+    y mi desengaño yo.
+    Y porque probar pretendo
+    mi verdad, este papel
+    mira, y confirma con él
+    las traiciones de don Mendo;
+    a los celos satisface
+    de que yo cargo le hice;
+    mira de ti lo que dice,
+    y contigo lo que hace.
+
+(_Da un papel a doña Ana_).
+
+DOÑA ANA.
+
+    (_Leyendo_).
+    «Tu sentimiento encareces,
+    sin escuchar mis disculpas,
+    cuanto sin razón me culpas,
+    tanto con razón padeces.
+    Si miras lo que mereces,
+    verás como la pasión
+    te obliga a que sin razón
+    agravies en tu locura,
+    con las dudas, la hermosura,
+    con los celos, la elección.
+    Lucrecia, de ti a doña Ana
+    ventaja hay más conocida
+    que de la muerte a la vida,
+    de la noche a la mañana;
+    ¿quién a la hermosa Diana
+    trocará por una estrella?
+    Deja la injusta querella,
+    desengaña tus enojos,
+    que tengo un alma y dos ojos
+    para escoger la más bella».
+
+DOÑA LUCRECIA.
+
+    ¿Qué dices de ese papel?
+
+DOÑA ANA.
+
+    Si estás viendo, prima, aquí,
+    lo que él ha dicho de mí,
+    ¿qué quieres que diga de él?
+    Pierde el cuidado crüel
+    que te obliga a recelar
+    cuando así me ves tratar,
+    si es cosa cierta el nacer
+    la injuria de aborrecer,
+    y la alabanza de amar.
+    Mas cansada te imagino,
+    entra a reposar un rato,
+    que para hablar de tu ingrato
+    será tercero el camino.
+
+DOÑA LUCRECIA.
+
+    Mi celoso desatino
+    el sueño me ha de impedir.
+
+DOÑA ANA.
+
+    A las doce es el partir
+    forzoso.
+
+DOÑA LUCRECIA.
+
+    Y tú, ¿no reposas?
+
+DOÑA ANA.
+
+    No, Lucrecia, que mil cosas
+    me faltan por prevenir.
+
+DOÑA LUCRECIA.
+
+    ¿Puedo ayudarte?
+
+DOÑA ANA.
+
+                     Ayudarme,
+    dejarme sola será.
+
+DOÑA LUCRECIA.
+
+    El obedecerte es ya
+    forzoso.
+
+(_Vase_).
+
+DOÑA ANA.
+
+    (_Aparte_).
+             (Como el matarme.)
+    Celia, ven, ven a ayudarme
+    a lamentar mi tormento,
+    presta tu voz a mi aliento,
+    que en desventura tan grave,
+    por una boca no cabe
+    a salir el sentimiento.
+
+
+Escena IV.
+
+_Doña Ana y Celia._
+
+CELIA.
+
+    ¿Qué ha sido?
+
+DOÑA ANA.
+
+                  Nuevos agravios
+    del vil don Mendo, que en suma
+    firma también con la pluma
+    lo que afirmó con los labios.
+
+CELIA.
+
+    Mudar consejo es de sabios;
+    hasta aquí nada has perdido;
+    tu misma vista y oído
+    te han avisado tu daño;
+    agradece el desengaño
+    que a tan buen tiempo ha venido.
+    Quien así te injuria ausente
+    y presente lisonjea,
+    o engañoso te desea,
+    o deseoso te miente;
+    y cuando cumplir intente
+    lo que ofrece, y ser tu esposo,
+    si ordinario, y aun forzoso,
+    es el cansarse un marido,
+    ¿cómo hablará arrepentido,
+    quien habla así deseoso?
+
+DOÑA ANA.
+
+    No es, Celia, mi corazón
+    ángel en el aprehender,
+    que nunca pueda perder
+    la primera aprehensión;
+    no es bronce mi corazón
+    en quien viven inmortales
+    las esculpidas señales;
+    mudarse puede mi amor;
+    si puede, ¿cuándo mejor,
+    que con ocasiones tales?
+    No pienses que está ya en mí
+    tan poderoso y entero
+    el gigante amor primero
+    a quien tanto me rendí;
+    desde la noche que oí
+    mis agravios, la memoria
+    en tan afrentosa historia
+    tan rabiosamente piensa
+    que entre el amor y la ofensa
+    dudaba ya la victoria.
+    Pero con tan gran pujanza
+    la nueva injuria ha venido
+    que del todo se ha rendido
+    el amor a la venganza.
+
+CELIA.
+
+    ¿Serás firme en la mudanza?
+
+DOÑA ANA.
+
+    O el cielo mi mal aumente.
+
+CELIA.
+
+    Tus venturas acreciente
+    como contento me ha dado
+    tu pensamiento mudado
+    de un hombre tan maldiciente.
+    Que desde que estando un día
+    viéndote por una reja,
+    la cerré, y me llamó vieja,
+    sin pensar que yo lo oía,
+    tal cual soy, no lo querría
+    si él fuese del mundo Adán.
+
+DOÑA ANA.
+
+    Que eran botes mi Jordán,
+    dijo de mí; ¿qué te altera,
+    que a tus años se atreviera?
+
+CELIA.
+
+    ¡Cuán diferente es don Juan!
+    Ofendido y despreciado
+    es honrar su condición
+    cuanto el lengua de escorpión
+    ofende, siendo estimado.
+    Una vez desesperado,
+    don Juan se quejaba así:
+    «¿Qué delito cometí
+    en quererte, ingrata fiera?
+    ¡Quiera Dios!... pero no quiera,
+    que te quiero más que a mí».
+    ¡Si vieras la cortesía
+    y humildad con que me habló
+    cuando licencia pidió
+    para verte el otro día!
+    ¡Si vieras lo que decía
+    en mi defensa a un criado
+    que porfiaba arrojado
+    que si yo dificultaba
+    la visita, lo causaba
+    ser él pobre y desdichado!
+    ¡Si vieras!... pero ¿qué vieras
+    que igualase a lo que viste,
+    cuando del traidor le oíste
+    defenderte tan de veras?
+    Ya te ablandaras, si fueras
+    formada de pedernal.
+
+DOÑA ANA.
+
+    ¿Qué te obliga a que tan mal
+    te parezca mi desdén?
+
+CELIA.
+
+    Tener a quien habla bien
+    inclinación natural;
+    y sin ella me obligara
+    la razón a que lo hiciera.
+
+DOÑA ANA.
+
+    Celia, ¡si don Juan tuviera
+    mejor talle, y mejor cara!...
+
+CELIA.
+
+    Pues ¡cómo! ¿En eso repara
+    una tan cuerda mujer?
+    En el hombre no has de ver
+    la hermosura o gentileza:
+    su hermosura es la nobleza,
+    su gentileza el saber;
+    lo visible es el tesoro
+    de mozas faltas de seso,
+    y las más veces por eso
+    topan con un asno de oro;
+    por eso no tiene el moro
+    ventanas, y es cosa clara
+    que, aunque al principio repara
+    la vista, con la costumbre
+    pierde el gusto o pesadumbre
+    de la buena o mala cara.
+
+DOÑA ANA.
+
+    No niego que desde el día,
+    que defenderme le oí,
+    tiene ya don Juan en mí
+    mejor lugar que solía;
+    porque el beneficio cría
+    obligación natural
+    y pues el rigor mortal
+    aplacó ya mi desdén,
+    principio es de querer bien,
+    el dejar de querer mal.
+    Pero no fácil se olvida
+    amor que costumbre ha hecho;
+    por más que se valga el pecho
+    de la ofensa recibida,
+    y una forma corrompida
+    y otra forma hace lugar,
+    mas bien puedes confiar,
+    que el tiempo irá introduciendo
+    a don Juan, pues a don Mendo
+    he comenzado a olvidar.
+
+CELIA.
+
+    ¿Podré yo ver el papel?
+
+DOÑA ANA.
+
+    Pide luces, que la oscura
+    noche impedirte procura
+    ver mis agravios en él.
+
+CELIA.
+
+    Ya están las luces aquí.
+
+DOÑA ANA.
+
+    (_Dale el papel a Celia_).
+    Ten el papel.
+
+
+Escena V.
+
+_Dichos y un Escudero._
+
+ESCUDERO.
+
+                  Dos cocheros
+    piden licencia de veros.
+
+DOÑA ANA.
+
+    Entren.
+
+ESCUDERO.
+
+    Entrad.
+
+
+Escena VI.
+
+_Dichos, el Duque y don Juan, de cocheros._
+
+DON JUAN.
+
+                    Pues a ti
+    nunca te ha visto, seguro
+    habla de ser conocido,
+    mientras yo callo, escondido
+    en manto de sombra oscuro.
+
+DUQUE.
+
+    El cielo os guarde, señora.
+
+DOÑA ANA.
+
+    Bien venido.
+
+DUQUE.
+
+                 Acá me envía
+    el cochero que os servía,
+    y no puede hacerlo ahora,
+    rendido a un dolor crüel.
+    ¿A qué hora habéis de partir?,
+    que os tengo yo de servir
+    esta jornada por él.
+
+DOÑA ANA.
+
+    ¿Tanto es su mal?
+
+DON JUAN.
+
+                      Por lo menos
+    no podrá serviros hoy.
+
+DOÑA ANA.
+
+    Pésame.
+
+DUQUE.
+
+            Persona soy
+    con quien no lo echaréis menos.
+
+DOÑA ANA.
+
+    A media noche esté el coche
+    prevenido a la carrera.
+
+DUQUE.
+
+    Y será la vez primera
+    que el sol sale a media noche.
+
+DOÑA ANA.
+
+    ¿Cómo es eso?
+
+DUQUE.
+
+    ¿Cómo es eso?
+
+DOÑA ANA.
+
+    ¿Tierno sois?
+
+DUQUE.
+
+                  ¿Es contra ley?
+    Alma, tengo, como el rey,
+    aunque este oficio profeso.
+    No huyo del amor los males,
+    que si por ellos no fuera,
+    yo os juro que no estuviera
+    cubierto de estos sayales.
+
+DOÑA ANA.
+
+    ¡Pues qué! ¿Son disfraz de amor
+    por infanta pretendida?
+
+DUQUE.
+
+    Puede ser.
+
+DOÑA ANA.
+
+               Bien por mi vida.
+    El cochero tiene humor.
+
+CELIA.
+
+    Don Mendo viene.
+
+DOÑA ANA.
+
+                     Id con Dios
+    y a media noche os espero.
+
+DUQUE.
+
+    Tengo por mi compañero
+    también que tratar con vos;
+    que es suyo el coche en que va
+    vuestra gente, y esta noche
+    ya veis cuanto vale un coche,
+    y concertado no está.
+    La visita recibid,
+    que los dos esperaremos.
+
+DOÑA ANA.
+
+    Por eso no reñiremos,
+    si con bien llego a Madrid.
+
+DUQUE.
+
+    Señora, entre padres e hijos
+    parece bien el concierto.
+
+(_Se aparta el Duque_).
+
+
+Escena VII.
+
+_Dichos, don Mendo y Leonardo._
+
+DON MENDO.
+
+    ¡Gloria a Dios que llego al puerto
+    de combates tan prolijos!
+
+DUQUE.
+
+    Escuchar pretendo así,
+    si a don Mendo favorece
+    doña Ana.
+
+DON JUAN.
+
+    Pues ¿qué os parece?
+
+DUQUE.
+
+    Que por mi daño la vi.
+
+
+Escena VIII.
+
+_Dichos, doña Lucrecia y Ortiz, al paño._
+
+DOÑA LUCRECIA.
+
+    ¡Don Mendo con ella, cielos!
+
+ORTIZ.
+
+    ¿Si sabe que estás acá?
+
+DOÑA LUCRECIA.
+
+    (_Pónese a escuchar_).
+    Cerca el desengaño está.
+
+ORTIZ.
+
+    Hoy averiguas tus celos.
+
+DON MENDO.
+
+    ¿Qué es esto, doña Ana hermosa?
+    ¿No me respondes? ¿Qué es esto?
+    ¿Quién ha mudado tan presto
+    mi fortuna venturosa?
+    ¿Tú, señora, estás así
+    grave y callada conmigo?
+    ¿Quién me ha puesto mal contigo?
+    ¿Quién te ha dicho mal de mí?
+    Habla, dime tu querella.
+
+DOÑA ANA.
+
+    ¿Tú puedes causarme enojos,
+    teniendo una alma y dos ojos
+    para escoger la más bella?
+
+DON MENDO.
+
+    (_Aparte_).
+    (Palabras son que escribí
+    a la engañada Lucrecia.)
+    Esperado habrá la necia
+    Lucrecia tener de mí
+    favor con hacerme daño;
+    mas no pienso que le importe;
+    vamos, señora, a la corte,
+    verás si la desengaño.
+
+DOÑA LUCRECIA.
+
+    (_Aparte_).
+    ¡Ah falso!
+
+DON MENDO.
+
+               Que su favor
+    no estimo, porque concluya,
+    lo que una palabra tuya
+    aunque la engendre el rigor.
+
+DOÑA ANA.
+
+    ¿Cómo, pues si el labio mueve
+    mi mediano entendimiento,
+    helado queda mi aliento
+    entre palabras de nieve?
+
+DON MENDO.
+
+    (_Aparte_).
+    (Don Juan le debió de dar
+    cuenta de nuestra porfía;
+    mas aquí la industria mía
+    las suertes ha de trocar;
+    que si la verdad confieso,
+    y que el amor y el poder
+    temí del Duque, es mujer,
+    y despertará con eso.)
+    Vuelve ese rostro en que veo
+    cifrado el cielo de amor.
+
+DOÑA ANA.
+
+    Don Mendo, así está mejor,
+    quien tiene el cerca tan feo.
+
+DON MENDO.
+
+    Ya colijo que don Juan
+    de Mendoza, mal mirado,
+    la contienda te ha contado
+    de la noche de san Juan;
+    que conozco esas razones
+    que el necio dijo de ti,
+    porque yo le defendí
+    tus divinas perfecciones.
+
+DON JUAN.
+
+    (_Aparte al Duque_).
+    ¡Ah traidor!
+
+DUQUE.
+
+    (_Aparte a don Juan_).
+                 Disimulad.
+
+DON MENDO.
+
+    Pero don Juan bien podía
+    callar, pues que yo quería
+    perdonar su necedad.
+    Mas ya que estás de esa suerte
+    de mí, señora, ofendida,
+    porque le dejé la vida
+    a quien se atrevió a ofenderte,
+    no me culpes, que el estar
+    el duque Urbino presente,
+    pudo de mi furia ardiente
+    el ímpetu refrenar.
+
+CELIA.
+
+    ¡Qué embustero!
+
+DOÑA ANA.
+
+    ¡Qué engañoso!
+
+CELIA.
+
+    Mira con quien te casabas.
+
+DON MENDO.
+
+    Si por eso me privabas
+    de ver ese cielo hermoso,
+    vuelve, que presto por mí
+    cortada verás la lengua
+    que en tus gracias puso mengua.
+
+DOÑA ANA.
+
+    Pues guárdate tú de ti.
+
+DON MENDO.
+
+    ¡Yo de mí! ¿Luego yo he sido
+    quien te ofendió?
+
+DOÑA ANA.
+
+                      Claro está.
+    ¿Quien sino tú?
+
+DON MENDO.
+
+                    ¿Cuánto va
+    que ese falso fementido,
+    lisonjero universal,
+    con capa de bien hablado,
+    por adularte ha contado
+    que él dijo bien y yo mal?
+    Mas brevemente verán
+    esos ojos, dueño hermoso,
+    castigado al malicioso.
+
+DOÑA ANA.
+
+    Para entre los dos, don Juan
+    es un buen hombre, y si digo
+    que tiene poco de sabio,
+    puedo, sin hacerle agravio;
+    vuestro deudo es, y mi amigo;
+    mas esto no es murmurar.
+
+DON MENDO.
+
+    Eso dije a solas yo
+    al Duque; que se admiró
+    de verle vituperar
+    lo que yo tanto alabé.
+
+DOÑA ANA.
+
+    Dilo al revés.
+
+DON MENDO.
+
+                   Según esto,
+    quien contigo mal me ha puesto
+    el Duque sin duda fue.
+    ¡Aún no ha llegado a la corte,
+    y ya en enredos se emplea!
+    ¿O piensa que está en su aldea,
+    para que nada le importe
+    su grandeza o calidad
+    al necio rapaz conmigo,
+    para no darle el castigo?
+
+DUQUE.
+
+    (_Aparte a don Juan_).
+    ¡Ah traidor!
+
+DON JUAN.
+
+    (_Aparte al Duque_).
+                 Dismulad.
+
+DOÑA ANA.
+
+    ¿Qué sirven falsas excusas,
+    qué quimeras, qué invenciones,
+    donde la misma verdad
+    acusa tu lengua torpe?
+    ¿Hablas tú tan mal de mí
+    sin que contigo te enojes,
+    y enójaste con quien pudo
+    contarme tus sinrazones?
+    Quien te daña es la verdad
+    de las culpas que te ponen;
+    si pecaste, y yo lo supe,
+    ¿qué importa saber de dónde?
+    Pues nadie me ha referido
+    lo que hablaste aquella noche;
+    verdad te digo, o la muerte
+    en agraz mis años corte.
+    Y siendo así, sabes tú
+    que son las mismas razones
+    las que aquí me has escuchado,
+    que las que dijiste entonces.
+    Y pues las sé, bien te puedes
+    despedir de mis favores,
+    y a toda ley hablar bien,
+    porque las paredes oyen.
+
+(_Vase_).
+
+
+Escena IX.
+
+_Dichos, menos doña Ana y después los demás._
+
+DON MENDO.
+
+    Vuelve, escucha, dueño hermoso,
+    lo que mi fe te responde,
+    y pues oyen las paredes,
+    oye tú mis tristes voces.
+
+DOÑA LUCRECIA.
+
+    Mas que de tristeza mueras.
+
+(_Vase_).
+
+CELIA.
+
+    Mas que eternamente llores.
+
+DUQUE.
+
+    ¿De dónde pudo doña Ana
+    saber lo que aquella noche
+    hablamos?
+
+DON JUAN.
+
+    Yo no lo he dicho.
+
+DUQUE.
+
+    Ni yo.
+
+DON JUAN.
+
+    Las paredes oyen.
+
+(_Vanse_).
+
+DON MENDO.
+
+    Óyeme tú, Celia, así
+    tus floridos años logres.
+
+CELIA.
+
+    Las que ya llamaste canas,
+    ¿cómo ahora llamas flores?
+
+DON MENDO.
+
+    ¿Quien te ha dicho tal de mí,
+    Celia?
+
+CELIA.
+
+    Las paredes oyen.
+
+(_Vase_).
+
+
+Escena X.
+
+Decoración de calle.
+
+_Don Mendo y Leonardo._
+
+DON MENDO.
+
+    ¿Qué es esto, suerte enemiga?
+    ¡Por tan falsas ocasiones,
+    tan verdadera mudanza
+    en voluntad tan conforme!
+    ¡Que pueda ser quien me ha dado
+    los más estrechos favores,
+    a mi acusación de cera,
+    y a mi descargo de bronce!
+    ¿A mis contrarios escuchas?
+    ¿A malos terceros oyes?
+    ¿A mí el oído me niegas?
+    ¿A mí la cara me escondes?
+
+LEONARDO.
+
+    Con la pasión no discurres;
+    ¿posible es que no conoces
+    que tan extraños efetos
+    a mayor causa responden?
+    No por las culpas que dice,
+    hay mudanza en sus amores;
+    antes por haber mudanza
+    aquestas culpas te pone.
+    Que si el enojo que ves
+    causaran tus sinrazones,
+    no tan resuelta negara
+    los oídos a tus voces;
+    que a quien obligan ofensas
+    de quien ama que se enoje,
+    las satisfacción desea
+    cuando la culpa propone.
+    Doña Ana no quiso oírte,
+    y así me espanta que ignores
+    que culpas ha menester,
+    pues huye satisfacciones;
+    y el que anda a caza de culpas
+    intención resuelta esconde,
+    y pretende dar color
+    de castigo a sus errores.
+
+DON MENDO.
+
+    Bien imaginas.
+
+LEONARDO.
+
+                   Señor,
+    ciego estás, pues no conoces
+    su desamor en su ausencia,
+    su engaño en sus dilaciones.
+    Dilató por las novenas
+    el matrimonio: engañote;
+    que no hay mujer que al amor
+    prefiera las devociones.
+    Con secreto caminaba
+    a otro fin su trato doble,
+    y por si no lo alcanzase
+    entretuvo tus amores.
+    Ya lo alcanzó, y te despide
+    sin que en descargo le informes,
+    que ha menester que tus culpas
+    su injusta mudanza abonen.
+
+DON MENDO.
+
+    Agudamente discurres;
+    mas por los celestes orbes
+    juro que me he de vengar
+    de su rigor esta noche.
+
+LEONARDO.
+
+    Poderoso eres, señor.
+
+DON MENDO.
+
+    De allá han salido dos hombres.
+
+LEONARDO.
+
+    Cocheros son de doña Ana.
+
+DON MENDO.
+
+    La fortuna me socorre.
+
+
+Escena XI.
+
+_Dichos, el Duque y don Juan._
+
+DUQUE.
+
+    Ni vi hermosura mayor,
+    ni tal discreción oí.
+
+DON JUAN.
+
+    ¿Luego a don Mendo vencí?
+
+DUQUE.
+
+    Pregúntaselo a mi amor.
+    Vive el cielo que estoy loco.
+
+DON JUAN.
+
+    (_Aparte_).
+    Mi invención es ya dichosa.
+
+DUQUE.
+
+    Será mi esposa.
+
+DON JUAN.
+
+    ¡Tu esposa!
+
+DUQUE.
+
+    Sí.
+
+DON JUAN.
+
+    (_Aparte_).
+        Ni tanto ni tan poco.
+
+DON MENDO.
+
+    Dios os guarde, buena gente.
+
+DUQUE.
+
+    ¿Quién va allá?
+
+DON MENDO.
+
+                    Don Mendo soy
+    de Guzmán.
+
+DUQUE.
+
+    (_Aparte_).
+               Por darle estoy
+    el castigo aquí.
+
+DON JUAN.
+
+                     Detente,
+    que es de doña Ana esta puerta.
+
+DUQUE.
+
+    ¿Qué mandáis?
+
+DON MENDO.
+
+                  Que me digáis,
+    pues a doña Ana lleváis,
+    ¿a qué hora se concierta
+    la partida?
+
+DUQUE.
+
+    A media noche.
+
+DON MENDO.
+
+    Una cosa habéis de hacer,
+    que me obligo a agradecer.
+
+DUQUE.
+
+    Decidla.
+
+DON MENDO.
+
+             Apartar el coche
+    en que fuere vuestro dueño,
+    de camino un trecho largo,
+    haciendo del yerro cargo
+    a la oscuridad o al sueño.
+
+DUQUE.
+
+    ¿Para qué fin?
+
+DON MENDO.
+
+                   Solamente
+    hablarla pretendo, amigos,
+    con espacio y sin testigos.
+
+DUQUE.
+
+    ¿Cosa que algún hecho intente
+    que nos cueste...?
+
+DON MENDO.
+
+                       No os dé pena,
+    cuando yo os amparo, el miedo;
+    la obligación en que os quedo
+    publique aquesta cadena,
+    que podéis los dos partir.
+
+DUQUE.
+
+    No, señor.
+
+DON MENDO.
+
+    Esto ha de ser.
+
+(_Dale una cadena, y tómala el Duque_).
+
+DUQUE.
+
+    Una cosa habéis de hacer,
+    si os habemos de servir.
+
+DON MENDO.
+
+    Hablad pues.
+
+DUQUE.
+
+                 Que a la ocasión
+    no vais más de dos amigos;
+    porque cuantos son testigos,
+    tantos enemigos son.
+
+DON MENDO.
+
+    Solos iremos los dos;
+    de esto la palabra os doy.
+
+DUQUE.
+
+    Con eso a serviros voy.
+
+DON MENDO.
+
+    Y yo a seguiros.
+
+DUQUE.
+
+                     Adiós,
+    que es hora ya de partir.
+
+DON JUAN.
+
+    ¿Dónde con tu intento vas?
+
+DUQUE.
+
+    Presto, don Juan, lo verás.
+
+(_Vanse los dos_).
+
+
+Escena XII.
+
+_Don Mendo y Leonardo._
+
+DON MENDO.
+
+    Manda luego apercibir,
+    Leonardo, los dos rocines
+    de campo, para alcanzar
+    esta fiera. Hoy he de dar
+    a esta caza dulces fines.
+
+LEONARDO.
+
+    No lo dudes, pues está
+    tan de tu parte el cochero.
+
+DON MENDO.
+
+    Como eso puede el dinero.
+
+LEONARDO.
+
+    Contra su dueño será,
+    si de su favor te ayudas.
+
+DON MENDO.
+
+    El primer cochero ahora
+    no será que a su señora
+    haya servido de judas.
+
+(_Vanse_).
+
+
+Escena XIII.
+
+Decoración de Campo.
+
+(_Cantan dentro:_)
+
+UN ARRIERO.
+    _Venta de Viveros,_
+    _¡dichoso sitio,_
+    _si el ventero es cristiano_
+    _y es moro el vino!_
+    _¡Sitio dichoso,_
+    _si el ventero es cristiano_
+    _y el vino es moro!_
+
+OTRO.
+
+    _Con mi albarda y mi burro_
+    _no envidio nada,_
+    _que son coches de pobres_
+    _burros y albardas._
+
+UNA MUJER.
+
+    _Tan gustosa yo vengo_
+    _de ver los toros,_
+    _que nunca se me quitan_
+    _de entre los ojos._
+
+TERCERO.
+
+    _Unos ojos que adoro,_
+    _llevo a las ancas;_
+    _¿quién ha visto los ojos_
+    _a las espaldas?_
+
+UN ARRIERO.
+
+    (_Dentro_).
+    ¿Gruñes, o gritas, o cantas?
+
+CUARTO.
+
+    Mis males espanto así.
+
+ARRIERO.
+
+    ¿Somos tus males aquí?,
+    porque también nos espantas.
+
+CUARTO.
+
+    Calla y toma mi consejo,
+    que no es la miel para ti.
+
+ARRIERO.
+
+    ¿Fuiste a ver los toros?
+
+CUARTO.
+
+                             Sí.
+
+ARRIERO.
+
+    ¿Pues no hay en tu casa espejo?
+
+ARRIERO SEGUNDO.
+
+    ¡Ah del coche! ¿Dónde bueno?
+    Del camino se han salido.
+
+PRIMERO.
+
+    O el cochero se ha dormido,
+    o han de hacer noche al sereno.
+
+SEGUNDO.
+
+    ¡Ah Faetón de los cocheros,
+    que te pierdes! Por acá.
+
+PRIMERO.
+
+    Por esos trigos se va.
+
+SEGUNDO.
+
+    Y tras él dos caballeros.
+
+PRIMERO.
+
+    De malas lenguas se quita
+    quien va al desierto a morar.
+
+SEGUNDO.
+
+    No van ellos a rezar,
+    que por allí no hay ermita.
+
+PRIMERO.
+
+    Arre, mula de Mahoma,
+    ella hace burla de mí;
+    dale, Francisco.
+
+SEGUNDO.
+
+                     Echa aquí.
+
+PRIMERO.
+
+    Arre, ¿qué diablo te toma?
+
+(_Vanse_).
+
+DON MENDO.
+
+    (_Dentro_).
+    Para, cochero.
+
+DOÑA ANA.
+
+                   ¿Quién es?
+
+DON MENDO.
+
+    Don Mendo soy.
+
+DOÑA ANA.
+
+                   ¡Anda!
+
+DON MENDO.
+
+                          ¡Para!
+
+
+Escena XIV.
+
+_Don Mendo, doña Ana, doña Lucrecia y Leonardo._
+
+DOÑA ANA.
+
+    ¿Quien sino tú se mostrara
+    conmigo tan descortés?
+
+DON MENDO.
+
+    Mi exceso y atrevimiento
+    disculpo con tu mudanza.
+
+DOÑA ANA.
+
+    Llámala justa venganza,
+    y cuerdo arrepentimiento.
+
+DON MENDO.
+
+    ¿Quien lo causó?
+
+DOÑA ANA.
+
+                     Tus traiciones.
+
+DON MENDO.
+
+    ¡Ah falsa! ¿Engañarme piensas?
+    ¿Acreditas mis ofensas
+    por abonar tus acciones?
+    Pues no lograrás tu intento.
+
+DOÑA ANA.
+
+    ¿Qué es esto?
+
+(_Llega don Mendo a pelear con doña Ana, doña Lucrecia a ayudarla, y
+Leonardo a tener a doña Lucrecia_).
+
+DON MENDO.
+
+                  Justo castigo
+    de tu mudanza.
+
+DOÑA ANA.
+
+                   ¿Conmigo
+    tan grosero atrevimiento?
+
+DOÑA LUCRECIA.
+
+    ¡Justicia de Dios!
+
+LEONARDO.
+
+                       ¡Teneos!
+
+DOÑA ANA.
+
+    ¿Hay excesos más extraños?
+
+DON MENDO.
+
+    A pesar de tus engaños
+    he de lograr mis deseos.
+
+
+Escena XV.
+
+_Dichos, el Duque y don Juan, de cocheros, que sacan las espadas y dan
+sobre ellos._
+
+DUQUE.
+
+    La venganza nos convida.
+
+DOÑA ANA.
+
+    ¿Dónde están mis escuderos?
+    Vendido me han los cocheros.
+
+DUQUE.
+
+    Por vos, señora, la vida
+    vuestros cocheros darán.
+
+DON MENDO.
+
+    ¿A don Mendo os atrevéis,
+    viles?
+
+LEONARDO.
+
+           Cocheros, ¿qué hacéis?,
+    que es don Mendo de Guzmán.
+    A vuestro coche os volved.
+
+DON MENDO.
+
+    Furias del infierno son.
+
+DOÑA LUCRECIA.
+
+    ¡Qué pena!
+
+DOÑA ANA.
+
+               ¡Qué confusión!
+
+(_Retíranse don Mendo y Leonardo, y el Duque y don Juan van tras
+ellos_).
+
+    Cocheros, tened, tened.
+
+(_Vase_).
+
+
+
+
+ACTO TERCERO.
+
+
+Escena primera.
+
+Sala en casa de doña Ana.
+
+_Doña Ana, Celia, el Duque y don Juan. (Todos como acabaron el segundo
+acto)._
+
+DOÑA ANA.
+
+    ¿No advertís lo que habéis hecho?
+    ¿Cómo tan despacio estáis?
+
+DUQUE.
+
+    Por nosotros no temáis,
+    quitad el hermoso pecho;
+    pues con probar la violencia
+    que intentó aquel caballero;
+    en nuestro favor espero,
+    que tendremos la sentencia.
+    Y por su reputación
+    le estará más bien callar;
+    no penséis que ha de tratar
+    de tomar satisfacción
+    por justicia un caballero.
+    ¿No veis lo mal que sonara,
+    que herido se confesara
+    del brazo vil de un cochero
+    un tan ilustre señor,
+    dueño de tantos vasallos?
+    De estos casos el callallos
+    es el remedio mejor.
+
+DOÑA ANA.
+
+    Siéntome tan obligada
+    de vuestro valor extraño,
+    que el temor de vuestro daño
+    toda me tiene turbada.
+
+DUQUE.
+
+    No temáis.
+
+DOÑA ANA.
+
+               El pecho fiel
+    el daño está previniendo.
+
+DUQUE.
+
+    Quien pudo herir a don Mendo,
+    podrá defenderse de él.
+
+CELIA.
+
+    (_A doña Ana al oído_).
+    En hablar tan cortesanos,
+    tan valientes en obrar,
+    mucho dan que sospechar
+    estos cocheros.
+
+DOÑA ANA.
+
+    (_A Celia al oído_).
+                    Las manos
+    les mira, que la verdad
+    nos dirán.
+
+CELIA.
+
+               Es gran razón
+    pagarles la obligación
+    que tienes a su lealtad,
+
+(_Toma las manos al Duque y vuélvese a hablar aparte a doña Ana_).
+
+    pues por otras manos queda
+    tu honestidad defendida.
+
+(_Aparte las dos_).
+
+    ¡Ay, señora de mi vida!
+    Blandas son como una seda,
+    y en llegando cerca, son
+    sus olores soberanos.
+
+DOÑA ANA.
+
+    ¿Buen olor y buenas manos?
+    Clara está la información.
+    Disimula.
+
+(_Don Juan se está escondiendo detrás del Duque_).
+
+CELIA.
+
+              El otro está
+    siempre cubierto y callado.
+
+(_Va Celia por detrás de todos a coger de cara a don Juan_).
+
+    Cogerelo descuidado,
+    pues la aurora alumbra ya,
+    lo que basta a conocerlo.
+
+DOÑA ANA.
+
+    Amigos, puesto que así
+    os arriesgasteis por mí,
+    sin obligación de hacerlo,
+    de esta casa y de mi hacienda
+    os valed.
+
+DUQUE.
+
+              Los pies os beso,
+    mas yo no paso por eso,
+    que no es razón que se entienda
+    que fue sin obligación
+    el serviros; pues de un modo
+    se le pone al mundo todo
+    vuestra rara perfección.
+    Porque a quien os llega a ver
+    dais gloria tan sin medida,
+    que aunque os pague con la vida,
+    os queda mucho a deber.
+
+CELIA.
+
+    (_Aparte a don Juan_).
+    Y vos, ¿sois mudo, cochero?
+    ¿De qué estáis triste? Volved;
+    alzar el rostro, aprended
+    ánimo del compañero.
+    ¿El que riñó sin temer,
+    teme sin reñir ahora?
+
+DUQUE.
+
+    En vano os cansáis, señora,
+    que es mudo.
+
+CELIA.
+
+                 Bien puede ser.
+    (_Aparte_).
+    (Mas yo don Juan de Mendoza
+    pienso que es... Él es, ¿qué dudo?
+    El triste se finge mudo
+    por no perder lo que goza
+    mientras encubierto está.)
+    ¿Quien dirá, señora, que es
+    el callado?
+
+DOÑA ANA.
+
+                Dilo pues.
+
+CELIA.
+
+    ¿Quién piensas tú que será?
+
+DOÑA ANA.
+
+    No lo sé.
+
+CELIA.
+
+              ¿Quién puede ser
+    quien, siendo gran caballero,
+    quisiese ser tu cochero,
+    solo por poderte ver?
+    ¿Quién el que con tal valor,
+    en un lance tan estrecho,
+    pusiese a la espada el pecho
+    por asegurar tu honor?
+    ¿Quién, el que en pensar se goza
+    por tu amor y tu desdén,
+    sigue enamorado? ¿Quién,
+    sino don Juan de Mendoza?
+
+DOÑA ANA.
+
+    Bien dices, solo él haría
+    finezas tan extremadas.
+
+CELIA.
+
+    Bien merecen ser premiadas.
+
+DOÑA ANA.
+
+    Que no las pierde, confía.
+
+DUQUE.
+
+    El sol sale, porque vos,
+    que sol al mundo habéis sido
+    en tanto que él ha dormido,
+    reposéis ahora; adiós.
+    Y así los cielos, que os dan
+    belleza, os den larga vida,
+    que no os inquiete la herida
+    de don Mendo de Guzmán.
+
+(_Vase_).
+
+
+Escena II.
+
+_Dichos, menos el Duque._
+
+DOÑA ANA.
+
+    Tras la ofensa que ha intentado,
+    no hay por qué inquietarme pueda,
+    que ni aun la ceniza queda
+    en mí del amor pasado.
+    Detén a don Juan, que quiero
+    hablarle.
+
+CELIA.
+
+    A servirte voy.
+
+DOÑA ANA.
+
+    Y mientras con él estoy,
+    entretén al compañero.
+
+CELIA.
+
+    Señor cochero fingido,
+    mi dueño os llama, esperad.
+
+DON JUAN.
+
+    Hum...
+
+CELIA.
+
+           No hay «Hum», volved y hablad,
+    que ya os hemos conocido.
+
+(_Vase_).
+
+
+Escena III.
+
+_Doña Ana y don Juan._
+
+DON JUAN.
+
+    ¡Eso debo a mi ventura!
+
+DOÑA ANA.
+
+    ¿Qué es esto, don Juan?
+
+DON JUAN.
+
+                            Amor.
+
+DOÑA ANA.
+
+    Locura, dirás mejor.
+
+DON JUAN.
+
+    ¿Cuándo amor no fue locura?
+
+DOÑA ANA.
+
+    Sí; mas los fines ignoro
+    de estos disfraces que veo.
+
+DON JUAN.
+
+    Así miro a quien deseo,
+    así sirvo a quien adoro.
+
+DOÑA ANA.
+
+    No; traidoras intenciones
+    encubren estos disfraces.
+
+DON JUAN.
+
+    Falsas conjeturas haces,
+    por negar obligaciones.
+
+DOÑA ANA.
+
+    El probarte lo que digo
+    no es difícil.
+
+DON JUAN.
+
+                   Ya lo espero.
+
+DOÑA ANA.
+
+    ¿Quién es ese caballero
+    y a qué fin viene contigo?
+    Traer quien me diga amores,
+    y escucharlos escondido,
+    ¿podrás decir que no ha sido
+    con pensamientos traidores?
+
+DON JUAN.
+
+    ¡Cuán lejos del blanco das,
+    pues si traidores los llamas,
+    la mayor fineza infamas
+    que ha hecho el amor jamás!
+
+DOÑA ANA.
+
+    Dila pues, que a agradecella,
+    si no a pagalla, me obligo.
+
+DON JUAN.
+
+    Por obedecer la digo,
+    no por obligar con ella.
+    Como mi mucha afición
+    y poco merecimiento
+    engendró en mi pensamiento
+    justa desesperación,
+    vino amor a dar un medio
+    en desventura tan fiera,
+    que a mi mal consuelo fuera,
+    ya que no fuera remedio:
+    y fue que te alcance quien
+    te merezca; tu bien quiero,
+    que el efecto verdadero
+    es este de querer bien.
+    A este fin, tus partes bellas
+    al duque Urbino conté,
+    si contar posible fue
+    en el cielo las estrellas;
+    él, de tu fama movido,
+    de tu recato obligado,
+    este disfraz ha ordenado
+    con que te ha visto y oído.
+    Y ojalá que conociendo
+    tu sujeto soberano,
+    dé, con pretender tu mano,
+    efecto a lo que pretendo;
+    que yo, con verte en estado
+    igual al merecimiento,
+    al fin quedaré contento,
+    ya que no quede pagado.
+    Esta ha sido mi intención,
+    y si escuchaba escondido,
+    fue porque el ser conocido
+    no estorbase la invención.
+    Que juzgues ahora quiero,
+    si he merecido o pecado,
+    pues de puro enamorado
+    vengo a servir de tercero.
+
+DOÑA ANA.
+
+    Tu voluntad agradezco,
+    pero condeno tu engaño,
+    que presumes por mi daño
+    más de mí que yo merezco.
+    Porque no es a la excelencia
+    del Duque igual mi valor;
+    que no engaña el propio amor
+    donde hay tanta diferencia.
+    Fue mi padre un caballero
+    ilustre, mas yo imagino
+    que pensara honrarle Urbino
+    si lo hiciera su escudero.
+    Y así, a tan locos intentos
+    tus lisonjas no me incitan,
+    que afrentosos precipitan
+    los soberbios pensamientos.
+
+DON JUAN.
+
+    Mucho, señora, te ofendes,
+    porque sin tu calidad,
+    digna es por sí tu beldad
+    de más bien que en esto emprendes.
+    No te merece gozar
+    el Duque, ni el Rey, ni...
+
+DOÑA ANA.
+
+                               Tente;
+    la fiebre de amor ardiente
+    te obliga a desatinar.
+    Tu amoroso pensamiento
+    encarece mi valor;
+    diérasle al Duque tu amor,
+    que yo le diera tu intento.
+
+DON JUAN.
+
+    ¿Quien podrá quererte menos,
+    en viendo tu perfección?
+
+DOÑA ANA.
+
+    Al fin, por tu corazón
+    quieres juzgar los ajenos;
+    y es engaño conocido,
+    que si el tuyo por mí muere,
+    no con una flecha hiere
+    todos los pechos Cupido;
+    y aunque el Duque tenga amor,
+    galán querrá ser, don Juan,
+    y honra más que un rey galán,
+    un marido labrador;
+    y aunque en el Duque es forzosa
+    la ventaja que le doy,
+    grande para dama soy
+    si pequeña para esposa.
+
+DON JUAN.
+
+    Nadie con tal pensamiento
+    ofende tu calidad.
+
+DOÑA ANA.
+
+    De mi consejo, dejad
+    de terciar en ese intento;
+    porque mayor esperanza
+    puede al fin tener de mí,
+    quien pretende para sí,
+    que quien para otro alcanza.
+
+(_Vase_).
+
+
+Escena IV.
+
+_Don Juan, y después Beltrán._
+
+DON JUAN.
+
+    ¿Posible es que tal favor
+    merecieron mis oídos?
+    ¡Dichosos males sufridos!
+    ¡Dulces victorias de amor!
+    Que tendrá más esperanza,
+    dijo, si bien lo entendí,
+    quien pretende para sí,
+    que quien para otro alcanza.
+    Que la pretenda mi amor
+    me aconseja claramente,
+    y la mujer que consiente
+    ser amada, hace favor.
+
+BELTRÁN.
+
+    Mira que el Duque te espera,
+    y no el padre de Faetón,
+    que a publicar tu intención,
+    apresura su carrera.
+
+DON JUAN.
+
+    En cas de mi amada bella
+    son los años puntos breves.
+
+BELTRÁN.
+
+    En la taberna no bebes,
+    pero te huelgas en ella.
+
+DON JUAN.
+
+    Bien lo entiendes.
+
+BELTRÁN.
+
+                       Alegría
+    vierten tus ojos, señor.
+
+DON JUAN.
+
+    Hacen fiestas a un favor.
+
+BELTRÁN.
+
+    Mucho alcanza la porfía.
+
+
+Escena V.
+
+_Dichos y Celia._
+
+DON JUAN.
+
+    Celia, amiga, Dios te guarde.
+
+CELIA.
+
+    Y te dé el bien que deseas.
+
+DON JUAN.
+
+    Como de mi parte seas,
+    no hay ventura que no aguarde.
+
+CELIA.
+
+    Si en mi mano hubiera sido,
+    tu dicha fuera la mía;
+    mas, don Juan, sirve y porfía,
+    que no va tu amor perdido.
+
+(_Vase don Juan_).
+
+
+Escena VI.
+
+_Celia y Beltrán._
+
+BELTRÁN.
+
+    ¿Y a mí me aprovecharía
+    el servir como a mi amo?
+
+CELIA.
+
+    ¿Pues amas también?
+
+BELTRÁN.
+
+                        Yo amo
+    por solo hacer compañía.
+
+
+Escena VII.
+
+_Dichos y doña Ana._
+
+DOÑA ANA.
+
+    Celia está con el criado
+    de don Juan, y no sosiego
+    hasta hablarle; ya está el fuego
+    en mi pecho declarado.
+
+CELIA.
+
+    Mi señora.
+
+BELTRÁN.
+
+               Voyme.
+
+DOÑA ANA.
+
+                      Hidalgo,
+    volved. ¿Quién sois?
+
+BELTRÁN.
+
+                         Soy Beltrán,
+    un criado de don Juan
+    de Mendoza.
+
+DOÑA ANA.
+
+                ¿Queréis algo?
+
+BELTRÁN.
+
+    Servirte solo quisiera;
+    aquí a Celia le decía
+    que amo por compañía.
+
+DOÑA ANA.
+
+    No es conclusión verdadera.
+    ¿Satirizas?
+
+BELTRÁN.
+
+                No conviene,
+    que eso puede solo hacer,
+    quien no tiene que perder,
+    o que le digan no tiene.
+    Pero yo, ¿cómo querías
+    que predique, sin ser santo?
+    ¿Qué faltas diré, si hay tanto
+    que remediar en las mías?
+
+DOÑA ANA.
+
+    Tu gusto desacreditas
+    con esa cuerda intención,
+    porque a la conversación
+    la mejor salsa le quitas.
+
+BELTRÁN.
+
+    Si ella es salsa, es muy costosa,
+    señora; que bien mirado,
+    ni hay más inútil pecado,
+    ni salsa más peligrosa.
+    Después que uno ha dicho mal,
+    ¿saca de hacerlo algún bien?
+    Los que le escuchan más bien,
+    esos lo quieren más mal;
+    que cada cual entre sí
+    dice, oyendo al maldiciente:
+    «Este, cuando yo me ausente,
+    lo mismo dirá de mí».
+    Pues si aquel de quien murmura
+    lo sabe, que es fácil cosa,
+    ¿qué mesa tiene gustosa?,
+    ¿qué cama tiene segura?
+    Viciosos hay de mil modos,
+    que no aborrecen la gente,
+    y solo del maldiciente
+    huyen con cuidado todos.
+    Del malo más pertinaz
+    lastima la desventura,
+    solamente al que murmura
+    lleva el diablo en haz y en paz.
+    En la corte hay un señor,
+    que muchas veces oí
+    (_Aparte_),
+    (esto encaja bien aquí
+    para quitarle el amor),
+    que está malquisto de modo,
+    por vicioso en murmurar,
+    que si lo vieran quemar
+    diera leña el pueblo todo.
+    ¿No conoces a don Mendo
+    de Guzmán?
+
+DOÑA ANA.
+
+               Beltrán, detente.
+    El vicio del maldiciente
+    has estado maldiciendo,
+    ¿y con tal desenvoltura
+    de don Mendo has murmurado?
+
+BELTRÁN.
+
+    Pienso que es exceptuado
+    murmurar del que murmura;
+    dicen que el que hurta al ladrón
+    gana perdones, señora.
+
+DOÑA ANA.
+
+    Dicen mal. Vete en buen hora.
+
+BELTRÁN.
+
+    Da a mi ignorancia perdón,
+    si acaso te he disgustado.
+    (_Aparte_).
+    (Mal disimula quien ama.)
+
+(_Vase_).
+
+
+Escena VIII.
+
+_Doña Ana y Celia._
+
+CELIA.
+
+    Apagado se ha la llama,
+    mas mucha brasa ha quedado
+    pues su ofensa te ofendió.
+    Sin duda que en tu memoria
+    ha borrado amor la historia
+    que esta noche te pasó.
+
+DOÑA ANA.
+
+    Celia, ten; cierra los labios,
+    mira que mi honor ofendes,
+    cuando de mi pecho entiendes
+    que olvida así sus agravios.
+    No los males he olvidado,
+    que ha dicho de mí don Mendo;
+    la infame hazaña estoy viendo
+    que hoy en el campo ha intentado,
+    en que claramente veo,
+    pues tan poco me estimaba,
+    que engañoso procuraba
+    solo cumplir su deseo.
+    Conque ya en mi pensamiento
+    no solo el fuego apagué,
+    pero cuanto el amor fue
+    es el aborrecimiento.
+    Mas esto no da licencia
+    para que un bajo criado
+    de hombre tan calificado
+    hable mal en mi presencia;
+    que no por la enemistad
+    que entre dos nobles empieza,
+    pierden ellos la nobleza,
+    ni el villano la humildad.
+    Esto, Celia, me ha obligado
+    a indignarme con Beltrán,
+    que no porque ya don Juan
+    no esté solo en mi cuidado.
+
+CELIA.
+
+    ¿Al fin su fe te ha vencido?
+
+DOÑA ANA.
+
+    Con lo que anoche pasó,
+    cuanto don Mendo bajó,
+    él en mi rueda ha subido.
+
+CELIA.
+
+    ¿Declarástele tu amor?
+
+DOÑA ANA.
+
+    ¿Tan liviana me has hallado?
+    ¿No basta haberle mostrado
+    resplandores de favor?
+
+CELIA.
+
+    ¡Liviana dices, después
+    de dos años que por ti
+    ha andado fuera de sí!
+    Bien parece que no ves
+    lo que en las comedias hacen
+    las infantas de León.
+
+DOÑA ANA.
+
+    ¿Cómo?
+
+CELIA.
+
+           Con tal condición
+    o con tal desdicha nacen,
+    que en viendo un hombre, al momento
+    le ruegan, y mudan traje,
+    y sirviéndole de paje,
+    van con las piernas al viento.
+    Pues tú, que obligada estás
+    de tanto tiempo y fe tanta,
+    si bien señora, no infanta,
+    honestamente podrás
+    decirle tu voluntad
+    con prevenciones discretas,
+    sin temer que a los poetas
+    les parezca impropiedad.
+
+DOÑA ANA.
+
+    ¿Poco a poco no es mejor?
+
+CELIA.
+
+    ¿Tú quiéreslo?
+
+DOÑA ANA.
+
+                   Celia, sí.
+
+CELIA.
+
+    ¿Sabes que él muere por ti?
+
+DOÑA ANA.
+
+    Bien cierta estoy de su amor.
+
+CELIA.
+
+    Pues cuando de esa verdad
+    hay certidumbre, yo hallo
+    más crueldad con dilatallo,
+    que en decillo liviandad;
+    que el tiempo sirve de dar
+    del amor información,
+    y es necia la dilación,
+    si no queda que probar.
+
+DOÑA ANA.
+
+    El sujetarme es forzoso,
+    Celia, a tu agudeza extraña.
+
+CELIA.
+
+    Es verdad que es poca hazaña
+    persuadir a un deseoso.
+
+(_Vanse_).
+
+
+Escena IX.
+
+Sala en casa de don Mendo.
+
+_Don Mendo con banda, sin espada, y el Conde._
+
+DON MENDO.
+
+    Mis cocheros me han vendido,
+    dijo mi enemiga apenas,
+    cuando en espadas y dagas
+    truecan azotes y riendas,
+    y como animosos, mudos,
+    indicio de su fiereza,
+    que da el valor a los pechos
+    lo que les quita las lenguas,
+    embistieron dos a dos
+    con tal ímpetu y violencia,
+    que pensé, viendo el exceso
+    de su valor y sus fuerzas,
+    que transformado en cochero,
+    Jove, por mi ingrata bella
+    vibraba rayos ardientes
+    para vengar sus ofensas;
+    porque sus valientes golpes
+    eran tantos, que no suenan
+    en la fragua de Vulcano
+    los martillos tan apriesa.
+    Al fin, primo, (que a vos solo
+    puedo confesar mi afrenta),
+    la espada de un hombre humilde
+    pudo herirme en la cabeza;
+    y tanta sangre corría,
+    con ser la herida pequeña,
+    que cegándome los ojos
+    puso fin a la pendencia.
+    Volví a curarme a Alcalá,
+    que estaba a cuarto de legua,
+    más con rabia de la causa,
+    que del efecto con pena.
+    Esto ha podido en doña Ana
+    una mal fundada queja,
+    y este es el premio que traigo
+    de celebrarla en las fiestas.
+
+CONDE.
+
+    ¡Hay suceso más extraño!
+    ¿Y habéis sabido quién eran
+    cocheros tan valerosos?
+
+DON MENDO.
+
+    Como se va con cautela
+    procurando, por mi honor,
+    que el suceso no se sepa,
+    no es averiguarlo fácil;
+    mas yo tengo una sospecha,
+    que siempre estas viudas mozas,
+    hipócritas y santeras,
+    tienen galanes humildes,
+    para que nadie lo entienda.
+    Tal valor en un cochero
+    los celos no más lo engendran,
+    que nunca así por leales
+    los hombres bajos se arriesgan.
+    Esto se viene rodado,
+    que si no, no lo dijera,
+    que ya sabéis que no suelo
+    meterme en vidas ajenas.
+
+CONDE.
+
+    (_Aparte_).
+    (¡Así tengas la salud!)
+    No vengo en esa sospecha.
+    El enojo os precipita
+    contra tan honradas prendas;
+    y no es justo hablar así
+    de quien puede ser que sea
+    vuestra esposa.
+
+DON MENDO.
+
+                    Ya he perdido
+    la esperanza y la paciencia.
+
+CONDE.
+
+    ¿Tan presto?
+
+DON MENDO.
+
+                 Volverme quiero
+    a mi constante Lucrecia.
+
+CONDE.
+
+    (_Aparte_).
+    (¡Malas nuevas te dé Dios!)
+    Indicios dais de flaqueza.
+    Si doña Ana está engañada,
+    procurad satisfacerla.
+
+DON MENDO.
+
+    Niega a mi voz los oídos.
+
+CONDE.
+
+    Entrad y habladle por fuerza,
+    porque quien el dueño ha sido,
+    siempre tiene esa licencia
+    mientras no se satisface
+    de que es la mudanza cierta.
+    Quizá enojada os castiga,
+    y no os despide resuelta;
+    o decid vuestras disculpas
+    en un papel.
+
+DON MENDO.
+
+                 Yo lo hiciera
+    si hubiera de recibirlo.
+
+CONDE.
+
+    Yo me obligo a que lo lea.
+
+DON MENDO.
+
+    ¿Cómo?
+
+CONDE.
+
+           Dádmelo, que yo
+    lo pondré en sus manos mesmas.
+
+DON MENDO.
+
+    Al punto voy a escribirlo.
+
+(_Vase_).
+
+
+Escena X.
+
+_El Conde._
+
+CONDE.
+
+    (_Aparte_).
+    Y yo a pedir a Lucrecia
+    que me cumpla su palabra,
+    pues ha visto sus ofensas;
+    que pues con doña Ana vino
+    de Alcalá en un coche, es fuerza
+    que viera lo que ha contado,
+    y su desengaño viera;
+    y este papel ha de ver,
+    para que negar no pueda;
+    que modo habrá de excusarme,
+    cuando don Mendo lo sepa
+    y consiga yo mi intento,
+    suceda lo que suceda;
+    que no mira inconvenientes
+    el que ciega amor de veras.
+
+(_Vase_).
+
+
+Escena XI.
+
+_Don Juan y Beltrán._
+
+BELTRÁN.
+
+    ¿Qué, llegó el tiempo?
+
+DON JUAN.
+
+                           Llegó
+    el fin de las ansias mías.
+
+BELTRÁN.
+
+    ¡Gracias a Dios, que en mis días
+    un milagro sucedió!
+    ¿Que a doña Ana le das pena?
+    ¿Que olvida al Guzmán Narciso?
+    Este es el tiempo que quiso
+    ver el Marqués de Villena.
+    Es verdad que de cada año
+    lo mismo decir he oído;
+    pero viene aquí nacido
+    con suceso tan extraño.
+    ¿Que te quiere bien?
+
+DON JUAN.
+
+                          Sin duda.
+    Ya lo dijo claramente,
+    y un ángel, Beltrán, no miente.
+
+BELTRÁN.
+
+    Todo, en efecto, se muda,
+    pues algún tiempo averiguo,
+    que fue ya la calva hermosa:
+    jamás el tiempo reposa.
+    ¿No dice un romance antiguo:
+    «Por mayo era por mayo,
+    cuando los grandes calores,
+    cuando los enamorados
+    a sus damas llevan flores?».
+    Pues ves aquí se ha pasado
+    a septiembre ya el calor;
+    pero sospecho, señor,
+    que tú también te has mudado.
+    ¿De qué tal melancolía
+    te ha cargado en un instante?
+    Tahúr parece el amante,
+    pues no dura su alegría.
+    Pero advierte que es flaqueza.
+
+DON JUAN.
+
+    Déjame con mi aflicción.
+
+BELTRÁN.
+
+    ¿Ello importa a la invención,
+    señor? Pues va de tristeza.
+
+DON JUAN.
+
+    Beltrán, la mudanza mía,
+    en mudarse todo está,
+    que también se mudará
+    la causa de mi alegría.
+    Que adora así su beldad
+    el duque Urbino, que creo
+    que, por lograr su deseo,
+    perderá la libertad.
+
+BELTRÁN.
+
+    ¿Que se case temes?
+
+DON JUAN.
+
+                        Sí.
+
+BELTRÁN.
+
+    Pues si tu querida alcanza
+    de vista aquesa esperanza,
+    bien pueden doblar por ti;
+    que por llamarse excelencia,
+    ¿qué no hará una mujer?
+
+DON JUAN.
+
+    Eso me obliga a perder
+    la esperanza y la paciencia.
+
+BELTRÁN.
+
+    Pues el remedio, señor.
+
+DON JUAN.
+
+    Dilo tú, si alguno ves.
+
+BELTRÁN.
+
+    Si él ama así, no lo es
+    el declararle tu amor.
+    Mas pues que tu amada bella
+    contigo está declarada,
+    antes que él la persuada,
+    cásate, señor, con ella.
+
+DON JUAN.
+
+    ¿Cómo la podré obligar
+    tan brevemente?
+
+BELTRÁN.
+
+                    Fingiendo
+    que la herida de don Mendo
+    se ha sabido en el lugar,
+    y con esto el vulgo toca
+    en la opinión de doña Ana,
+    que tengo por cosa llana,
+    que por taparle la boca,
+    si se ha de determinar
+    tarde, que quiera temprano
+    darte de esposa la mano;
+    con esto puedes mostrar
+    un desconfiado pecho
+    con recelos de su fe,
+    porque la mano te dé
+    para verte satisfecho.
+    Que pues dice claramente
+    que te quiere, y tú la quieres,
+    o ha de hacer lo que quisieres,
+    o ha de confesar que miente.
+
+DON JUAN.
+
+    Al jardín irá esta tarde,
+    allí la tengo de ver,
+    y seguir tu parecer.
+
+BELTRÁN.
+
+    Nunca ha vencido el cobarde.
+    El Duque es este.
+
+
+Escena XII.
+
+_Dichos, el Duque y Fabio._
+
+DON JUAN.
+
+                      ¿Señor?
+
+DUQUE.
+
+    Don Juan, amigo, yo muero.
+
+DON JUAN.
+
+    ¿Cómo?
+
+DUQUE.
+
+           En un combate fiero
+    de celos, desdén y amor.
+    Al ingrato como bello
+    ángel que adoro, escribí
+    hoy un papel.
+
+DON JUAN.
+
+    (_Aparte_).
+                  ¡Ay de mí!
+
+DUQUE.
+
+    Y no ha querido leello.
+
+DON JUAN.
+
+    (_Aparte_).
+    (El alma al cuerpo me ha vuelto.)
+    ¿Pues cómo tanto rigor?
+
+DUQUE.
+
+    Nacido es de ajeno amor
+    un disfavor tan resuelto.
+
+DON JUAN.
+
+    Yo a ser amada atribuyo
+    el mostrarse tan ingrata.
+
+DUQUE.
+
+    Cuando el efecto me mata,
+    sobre la causa no arguyo.
+    Lo que es cierto, es que yo muero;
+    vos, don Juan, me aconsejad.
+
+DON JUAN.
+
+    De tan resuelta crueldad
+    la mudanza desespero.
+    Dejarlo es mi parecer,
+    antes que crezca el amor.
+
+DUQUE.
+
+    Ya no puede ser mayor.
+
+DON JUAN.
+
+    Pues amad y padeced.
+
+
+Escena XIII.
+
+_Dichos y Marcelo, criado del Duque._
+
+MARCELO.
+
+    ¿Puedo hablarte?
+
+DUQUE.
+
+                     Sí, Marcelo.
+
+MARCELO.
+
+    Dame albricias.
+
+DUQUE.
+
+                    Tu tardanza
+    me mata.
+
+MARCELO.
+
+             Ya tu esperanza
+    ha hallado puerta en tu cielo.
+    Hoy va tu dueño crüel
+    al jardín, y un escudero
+    (que esto ha podido el dinero)
+    quiere darte entrada en él.
+
+DUQUE.
+
+    Abrázame.
+
+BELTRÁN.
+
+              ¡Qué doblones!
+
+DUQUE.
+
+    ¿No iréis conmigo, don Juan?
+
+DON JUAN.
+
+    Señor, los que solos van
+    gozan bien las ocasiones.
+
+DUQUE.
+
+    Bien decís; vedme después
+    que se esconda el sol dorado,
+    sabréis lo que me ha pasado.
+
+(_Vase_).
+
+DON JUAN.
+
+    ¡Mal haya el vil interés,
+    por quién ni honor ni opinión
+    podemos asegurar!
+
+BELTRÁN.
+
+    Lo que importa es madrugar
+    y hurtarle la bendición.
+
+(_Vanse_).
+
+
+
+Escena XIV.
+
+Decoración de jardín.
+
+_El Conde y doña Lucrecia._
+
+CONDE.
+
+    ¿Negarás, señora mía,
+    la palabra que me diste?
+
+DOÑA LUCRECIA.
+
+    Yo no la niego.
+
+CONDE.
+
+                    ¿Y que viste,
+    cuando doña Ana venía
+    de Alcalá, tu desengaño?
+
+DOÑA LUCRECIA.
+
+    Eso tampoco te niego;
+    mas aunque se apagó el fuego
+    quedan reliquias del daño.
+
+CONDE.
+
+    Pues porque arrojes del pecho
+    las cenizas que han quedado,
+    mira el papel que me ha dado
+    don Mendo, de amor deshecho,
+    para aplacar el rigor
+    de doña Ana de Contreras.
+    Si más agravios esperas,
+    será bajeza y no amor.
+
+(_Dale un papel y lee Lucrecia_).
+
+DOÑA LUCRECIA.
+
+    «El que sin oír condena,
+    oyendo ha de condenar;
+    y esto me obliga a pensar
+    que es sin remedio mi pena.
+    Ya que el cielo así lo ordena,
+    dadme solo un rato oído,
+    que si culpado lo pido,
+    para más pena ha de ser,
+    si no que os dañe saber
+    que jamás os he ofendido».
+
+CONDE.
+
+    ¿Conoces la letra?
+
+DOÑA LUCRECIA.
+
+                       Sí.
+
+CONDE.
+
+    ¿Ves tu engaño?
+
+DOÑA LUCRECIA.
+
+                    Ya lo veo,
+    Conde, y pagarte deseo
+    lo que padeces por mí;
+    que demás de que premiarte
+    es justo tan firme fe,
+    gusto a mi padre daré,
+    que es en esto de tu parte.
+    Hazme gusto de esconderte
+    por el jardín, no te vea
+    mi prima.
+
+CONDE.
+
+              El alma desea
+    por gloria el obedecerte.
+
+(_Vase_).
+
+
+Escena XV.
+
+_Doña Lucrecia, doña Ana y Celia._
+
+CELIA.
+
+    ¿Que de esa manera estás?
+
+DOÑA ANA.
+
+    Después que estoy declarada,
+    cuanto más resistí helada,
+    tanto voy ardiendo más.
+    ¡Quién detrás de este arrayán
+    súbitamente lo hallara!
+
+CELIA.
+
+    ¡Ay, Celia, y qué mala cara,
+    y mal talle de don Juan!
+    ¿Ves lo que en un hombre vale
+    el buen trato y condición?
+
+DOÑA ANA.
+
+    Tanto, que ya en mi opinión
+    no hay Narciso que le iguale.
+    Prima, ¿qué es eso que lees?
+
+DOÑA LUCRECIA.
+
+    Un billete de don Mendo,
+    y mostrártelo pretendo,
+    por si sus promesas crees.
+
+DOÑA ANA.
+
+    Ni le escucho, ni le creo,
+    bien puedes vivir segura.
+
+DOÑA LUCRECIA.
+
+    (_Da el papel a doña Ana, y ella se pone a leerlo_).
+    ¡No le dé Dios más ventura,
+    de la que yo le deseo!
+    Solo pretendo que dél
+    entiendas lo que te quiere.
+    (_Aparte_).
+    Harele el mal que pudiere
+    pues da ocasión el papel.
+
+
+Escena XVI.
+
+_Dichos y don Juan._
+
+CELIA.
+
+    Llega atrevido y dichoso.
+
+(_Don Juan que se llega por un lado a doña Ana_).
+
+DON JUAN.
+
+    (_Aparte_).
+    (Un papel está leyendo,
+    y la letra es de don Mendo.)
+    ¿Tendrá licencia un celoso,
+    a quien tu dueño has llamado
+    para ver ese papel?
+
+DOÑA ANA.
+
+    Don Juan, si ha nacido dél
+    ese celoso cuidado,
+    pide licencia primero
+    a mi prima, y lo verás.
+
+DON JUAN.
+
+    ¿Luego licencia me das
+    de decirle que te quiero?
+
+DOÑA ANA.
+
+    Sí, que este es lance forzoso,
+    puesto que el alma te adora.
+
+DON JUAN.
+
+    Dadme licencia, señora,
+    por amante, o por celoso,
+    para ver este papel.
+
+DOÑA LUCRECIA.
+
+    Mi gusto en doña Ana vive.
+
+DOÑA ANA.
+
+    Ahora sabe que escribe
+    don Mendo a Lucrecia en él.
+
+DON JUAN.
+
+    ¿Don Mendo a Lucrecia?
+
+DOÑA ANA.
+
+                           Sí;
+    decirlo puede mi prima.
+
+DON JUAN.
+
+    Si tanto tu gusto estima,
+    más que eso dirá por ti.
+    Pero aquí el mismo papel
+    es bien que el testigo sea.
+
+DOÑA LUCRECIA.
+
+    Satisfacerme desea,
+    y audiencia me pide en él.
+
+(_Toma don Juan el papel y lee_).
+
+DON JUAN.
+
+    «El que sin oír condena,
+    oyendo ha de condenar,
+    y esto me obliga a pensar,
+    que es sin remedio mi pena:
+    ya que el cielo así lo ordena
+    dadme solo un rato oído,
+    que si culpado lo pido,
+    para más pena ha de ser,
+    sino que os dañe saber
+    que jamás os he ofendido».
+    (_Prosigue don Juan_).
+    Doña Ana, ¿qué te ha obligado
+    a pretenderme a engañar?
+    ¿Qué te puedo yo importar
+    no querido y engañado?
+    A ti vienen dirigidas
+    las razones que he leído,
+    que sobre lo sucedido
+    son palabras conocidas.
+
+DOÑA ANA.
+
+    Cuando a mí venga el papel,
+    ¿da gracia de algún favor,
+    o quejas de mi rigor?
+    Luego te obligo con él.
+
+DON JUAN.
+
+    Mejor modo de obligar
+    fuera no haberlo leído,
+    que quien escucha ofendido,
+    no huye de perdonar.
+    ¿Ajeno papel recibes
+    cuando mía te has nombrado?
+    O poco me has estimado,
+    o livianamente vives.
+    De donde he ya conocido
+    que vivir me está más bien
+    desdichado en tu desdén
+    que en tu favor ofendido.
+    Yo me iré, donde jamás
+    pueda otra vez engañarme
+    tu favor.
+
+DOÑA ANA.
+
+              ¿Quieres matarme,
+    señor?
+
+DON JUAN.
+
+           Suelta.
+
+DOÑA ANA.
+
+                   No te irás
+    sin oírme. Prima mía,
+    ayúdamele a tener.
+
+DON JUAN.
+
+    Soltad.
+
+DOÑA LUCRECIA.
+
+            Ya es esto perder
+    la debida cortesía.
+
+CELIA.
+
+    Don Mendo está en el jardín.
+
+DOÑA ANA.
+
+    ¿Don Mendo?
+
+CELIA.
+
+                Por fuerza ha entrado.
+
+DOÑA ANA.
+
+    A coyuntura ha llegado
+    que daré a tus celos fin.
+    Los dos tras ese arrayán
+    os entrad, donde escondidos
+    los ojos y los oídos
+    satisfacción os darán.
+
+DON JUAN.
+
+    Sola tu mano ha de ser
+    quien me tenga satisfecho.
+
+DOÑA ANA.
+
+    Señor eres ya del pecho;
+    poco te queda que hacer.
+
+(_Escóndense don Juan y doña Lucrecia_).
+
+
+Escena XVII.
+
+_Dichos y don Mendo._
+
+DON MENDO.
+
+    Ni quiero que me perdones,
+    ni volver quiero a tu gracia,
+    y si tal pidiere, cierra
+    el oído a mis palabras.
+    Mis descargos solamente
+    quiero que escuches, doña Ana,
+    por volver por mi opinión,
+    no por culpar tu mudanza.
+    Si al duque Urbino de ti
+    dije una noche mil faltas,
+    fue temor de que en su pecho
+    engendrase amor tu fama;
+    porque don Juan de Mendoza
+    contaba tus alabanzas,
+    y a la pólvora de un mozo
+    la menor centella basta.
+    A tu prima le escribí
+    mil agravios por tu causa,
+    desengañando su amor
+    y encareciendo tus gracias.
+    Si ella te ha dicho otra cosa,
+    presto verás que te engaña,
+    que el traslado traigo aquí;
+    oye sus mismas palabras:
+    (_Lee_):
+    «Tu sentimiento encareces
+    sin escuchar mis disculpas:
+    cuanto sin razón me culpas,
+    tanto con razón padeces.
+    Verás cómo la pasión
+    si miras lo que mereces,
+    te obliga a que sin razón
+    agravies en tu locura,
+    con las dudas, la hermosura,
+    con los celos, la elección.
+    Lucrecia, de ti a doña Ana
+    ventaja hay más conocida
+    que de la muerte a la vida,
+    de la noche a la mañana.
+    ¿Quién a la hermosa Diana
+    trocará por una estrella?
+    Deja la injusta querella,
+    desengaña tus enojos,
+    que tengo una alma y dos ojos
+    para escoger la más bella».
+    (_Prosigue_).
+    Mira si más claramente,
+    pude yo desengañarla;
+    si ella lo entendió al revés,
+    en mí no estuvo la falta.
+    Que quise en el campo usar
+    de fuerza, dirás. ¡Ah, ingrata!
+    Como a esposa lo intenté,
+    si te ofendí como a extraña;
+    y delinquir en el campo
+    no fue mucho, si llevaba
+    anticipado el castigo
+    con mil flechas en el alma.
+    Tus quejas y mis disculpas
+    estas son, la furia amansa,
+    huya de tu hermoso cielo
+    la nube de mi desgracia;
+    que el cielo, el aire, la tierra
+    son testigos de mis ansias;
+    no hay quien dude mis verdades
+    sino tú, que eres la causa.
+    Esta es mi mano de esposo,
+    y con disculpa tan clara,
+    o no niegues mi firmeza,
+    o confiesa tu mudanza.
+
+DOÑA LUCRECIA.
+
+    Aquí se casan sin duda.
+
+DON JUAN.
+
+    Aquí sin duda se casan.
+    ¿Saldré, Celia?
+
+CELIA.
+
+                    No la enojes,
+    cuando te importa obligalla.
+
+
+Escena XVIII.
+
+_Dichos, el Duque con un escudero, y quédanse al paño._
+
+ESCUDERO.
+
+    De aquí podéis aguardar
+    a que don Mendo se vaya.
+
+DOÑA ANA.
+
+    Don Mendo, yo te confieso
+    que tu descargo es muy llano,
+    y que con darme la mano,
+    puede cerrarse el proceso;
+    pero tu intento no tiene
+    remedio: ya me has perdido,
+    y resuelto el ofendido,
+    tarde la disculpa viene.
+    Digo que fue la intención
+    con que hablaste mal de mí
+    al Duque, querer así
+    librarme de su afición;
+    mas fue público el hablar,
+    la intención oculta fue,
+    si por lo escrito juzgué,
+    no te me puedes quejar;
+    y ahora te desengaña
+    de cuán malo es hablar mal,
+    pues con ser la causa tal,
+    y el fin tan bueno, te daña.
+    Por el mal medio condeno
+    el buen fin; todo lo igualo,
+    en que verás que lo malo
+    aun para buen fin no es bueno.
+    Tu lengua te condenó
+    sin remedio a mi desdén;
+    a toda ley, hablar bien,
+    que a nadie jamás dañó.
+    Con esto si eres discreto,
+    mudar intento podrás.
+
+DON MENDO.
+
+    ¿Resuelta, en efecto, estás?
+
+DOÑA ANA.
+
+    Resuelta estoy en efeto.
+
+DON MENDO.
+
+    Mira lo que dices.
+
+DOÑA ANA.
+
+                       Digo
+    que es vana tu presunción,
+    porque esta, resolución
+    es, don Mendo, no castigo.
+
+DON MENDO.
+
+    Ya lo que dice de ti
+    la fama creer es justo,
+    que informa de tu mal gusto
+    el aborrecerme a mí.
+    Del cochero que me hirió
+    se habla mal, y mal sospecho,
+    que tal brío en bajo pecho
+    de tus favores nació.
+
+DOÑA ANA.
+
+    Tente, no me digas más,
+    yo estorbaré mis afrentas:
+    por donde obligarme intentas
+    del todo me perderás.
+    El cochero que te hirió,
+    don Mendo, mostrarte quiero.
+    Bien podéis salir, cochero.
+
+(_Salen al teatro, y empuñan todos las espadas_).
+
+DON JUAN.
+
+    Yo soy el cochero.
+
+DUQUE.
+
+                       Y yo.
+
+DOÑA ANA.
+
+    Caballeros, deteneos,
+    que a mí ese daño me hacéis.
+
+DUQUE.
+
+    Basta que vos lo mandéis.
+
+DON JUAN.
+
+    Serviros son mis deseos.
+
+DOÑA ANA.
+
+    Estos los cocheros son,
+    por quien mi opinión se infama;
+    y por quitar a la fama
+    de mi afrenta la ocasión,
+    le doy la mano de esposa
+    a don Juan.
+
+(_Danse las manos_).
+
+DON JUAN.
+
+                Y yo os la doy.
+
+CELIA.
+
+    ¡Buena pascua!
+
+BELTRÁN.
+
+                   ¡Loco estoy!
+
+DUQUE.
+
+    Vuestra amistad engañosa
+    castigaré.
+
+(_Empuña el Duque contra don Juan_).
+
+DON JUAN.
+
+               Deteneos,
+    que yo nunca os engañé;
+    recato y no engaño fue
+    encubriros mis deseos;
+    que si os queréis acordar,
+    solo os tercié para verla,
+    y en empezando a quererla,
+    os dejé de acompañar.
+
+DOÑA ANA.
+
+    Y en fin, si bien lo miráis,
+    el dueño fui de mi mano,
+    y sobre mi gusto en vano
+    sin mi gusto disputáis.
+    A don Juan la mano di,
+    porque me obligó diciendo
+    bien de mí, lo que don Mendo
+    perdió, hablando mal de mí.
+    Este es mi gusto, si bien
+    misterio del cielo ha sido,
+    con que mostrar ha querido
+    cuanto vale el hablar bien.
+
+DON MENDO.
+
+    Antes sospecho que fue
+    pena del loco rigor,
+    con que por ti el firme amor
+    de tu prima desprecié;
+    mas con llorar mi mudanza
+    y gozar su mano bella
+    estorbaré su querella,
+    y mi engaño, y tu venganza.
+
+DOÑA LUCRECIA.
+
+    ¿Quién os dijo que sustenta
+    hasta ahora el alma mía
+    vuestra memoria?
+
+BELTRÁN.
+
+                     Él hacía
+    sin la huéspeda la cuenta.
+
+DOÑA LUCRECIA.
+
+    Vos hablasteis, pretendiendo
+    a doña Ana, mal de mí.
+
+DON MENDO.
+
+    ¡Yo a doña Ana mal de ti!
+
+DOÑA LUCRECIA.
+
+    Las paredes oyen, Mendo.
+    Mas puesto que en vos es tal
+    la imprudencia, que queréis
+    ser mi esposo, cuando habéis
+    hablado de mí tan mal,
+    yo no pienso ser tan necia,
+    que esposa pretenda ser,
+    de quien quiere por mujer
+    a la misma que desprecia;
+    y porque con la esperanza
+    el castigo no aliviéis,
+    lo que por falso perdéis,
+    el Conde por firme alcanza.
+    Vuestra soy.
+
+(_Da la mano al Conde_).
+
+DON MENDO.
+
+                 ¡Todo lo pierdo!
+    ¿Para qué quiero la vida?
+
+CONDE.
+
+    Júzgala también perdida,
+    si en hablar no eres más cuerdo.
+
+BELTRÁN.
+
+    Y pues este ejemplo ven,
+    suplico a vuesas mercedes
+    miren que OYEN LAS PAREDES;
+    y a toda ley, hablar bien.
+
+
+F I N.
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK LAS PAREDES OYEN ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG™ LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg™ License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg
+
+Project Gutenberg is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 41 Watchung Plaza #516,
+Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

@@ -1,0 +1,3137 @@
+﻿The Project Gutenberg eBook of La web, una enciclopedia multilingüe
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+*** This is a COPYRIGHTED Project Gutenberg eBook. Details Below. ***
+***     Please follow the copyright guidelines in this file.      ***
+
+
+Title: La web, una enciclopedia multilingüe
+
+Author: Marie Lebert
+
+
+        
+Release date: February 5, 2013 [eBook #42023]
+                Most recently updated: October 23, 2024
+
+Language: Spanish
+
+Other information and formats: www.gutenberg.org/ebooks/42023
+
+Credits: Produced by Al Haines
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK LA WEB, UNA ENCICLOPEDIA MULTILINGÜE ***
+
+LA WEB, UNA ENCICLOPEDIA MULTILINGÜE
+
+MARIE LEBERT, 2012
+
+
+
+ÍNDICE
+
+
+  1974 > Los inicios del internet
+  1986 > Variantes del ASCII para algunos idiomas
+  1990 > La invención de la web
+  1990 > La LINGUIST List
+  1991 > El Unicode para codificar todos los idiomas
+  1994 > Travlang: lenguas para viajar
+  1995 > El Internet Dictionary Project
+  1995 > NetGlos: un glosario del internet
+  1995 > Varios idiomas en nuestra pantalla
+  1995 > Global Reach: para localizar sitios web
+  1996 > OneLook Dictionaries: un punto de acceso común
+  1997 > 82,3% de la web en inglés
+  1997 > Una lista de los idiomas europeos minoritarios
+  1997 > Una base de datos terminológica europea
+  1997 > Babel Fish: un software de traducción gratuito
+  1997 > Las herramientas de la empresa de traducción Logos
+  1997 > Bases de datos terminológicas especializadas
+  1998 > La necesidad de una «democracia lingüística»
+  1999 > Los diccionarios bilingües de WordReference.com
+  1999 > El internet, una herramienta para los traductores
+  1999 > La necesidad de una información bilingüe
+  2000 > El portal yourDictionary.com
+  2000 > El Proyecto Gutenberg y los idiomas
+  2001 > Wikipedia: una enciclopedia colectiva
+  2001 > El UNL: un proyecto de metalenguaje digital
+  2001 > Un mercado para los software de traducción
+  2004 > La web 2.0: comunidad e intercambio
+  2007 > La norma ISO 639-3 para identificar idiomas
+  2007 > Google Traducción
+  2009 > 6.909 idiomas vivos en el Ethnologue
+  2010 > Un atlas de la UNESCO para las lenguas en peligro
+
+
+
+INTRODUCCIÓN
+
+
+«La web será una enciclopedia del mundo, hecha por el mundo y para el
+mundo. Ya no habrá información o conocimientos útiles que no estén
+disponibles para la gente, de manera que se eliminará la barrera
+principal para la comprensión internacional e interpersonal, y para el
+desarrollo personal e institucional. Hará falta tener una imaginación
+más desbordante que la mía para predecir el efecto de este desarrollo
+sobre la humanidad.» (Robert Beard, creador del sitio A Web of Online
+Dictionaries, septiembre de 1998)
+
+Este libro contiene 31 capítulos ordenados cronológicamente que van
+desde 1974 hasta 2010. Muchas gracias a todas las personas que aparecen
+citadas aquí, por su tiempo y por su amistad. A menos que se indique lo
+contrario, las citas provienen de las entrevistas realizadas por la
+autora durante varios años y publicadas en esta misma colección.
+
+Muchas gracias a Alicia Simmross por la revisión de este libro en su
+versión española.
+
+
+
+1974 > LOS INICIOS DEL INTERNET
+
+
+[Resumen]
+El internet se crea en 1974, quince años antes de la invención de la
+web y después de la instauración —por Vinton Cerf y Bob Kahn— del
+protocolo TCP/IP (Transmission Control Protocol / Internet Protocol)
+para el intercambio de datos. El internet pone en contacto, en primer
+lugar, a los organismos gubernamentales con las universidades y los
+centros de investigación de los Estados Unidos, antes de tener un
+desarrollo internacional a partir de 1983. El internet cobra un nuevo
+aliento, en 1990, con la invención de la web por Tim Berners-Lee y con
+el lanzamiento del primer navegador público, Mosaic, en 1993. Vinton
+Cerf funda la Internet Society (ISOC) en 1992 para promover el
+desarrollo del internet. En enero de 1998, en una entrevista con el
+diario francés «Libération», explica: «La red permite dos cosas (...):
+como los libros, permite acumular conocimientos, pero sobre todo
+presenta este conocimiento de manera de relacionarlo con otra
+información. Mientras que en un libro, la información se queda aislada».
+
+***
+
+El internet se crea en 1974, quince años antes de la invención de la
+web y después de la instauración —por Vinton Cerf y Bob Kahn— del
+protocolo TCP/IP (Transmission Control Protocol / Internet Protocol)
+para el intercambio de datos.
+
+# La expansión
+
+El internet pone en contacto, en primer lugar, a los organismos
+gubernamentales con las universidades y los centros de investigación de
+los Estados Unidos, antes de tener un desarrollo internacional a partir
+de 1983. Cobra un nuevo aliento, en 1990, con la invención de la web
+por Tim Berners-Lee y con el lanzamiento del primer navegador público,
+Mosaic, en 1993.
+
+Vinton Cerf funda la Internet Society (ISOC) en 1992 para promover el
+desarrollo del internet. En enero de 1998, en una entrevista con el
+diario francés «Libération», explica: «La red permite dos cosas (...):
+como los libros, permite acumular conocimientos, pero sobre todo
+presenta este conocimiento de manera de relacionarlo con otra
+información. Mientras que en un libro la información se queda aislada.»
+
+Como la web es de uso fácil, gracias a los hipervínculos que permiten
+ir de un documento a otro, el internet se puede utilizar por todos y no
+solamente por los informáticos. Hay 100 millones de usuarios en
+diciembre de 1997, con un millón de nuevos usuarios al mes, y 300
+millones de usuarios en diciembre de 2000.
+
+# En Europa no es nada fácil
+
+Conectarse al internet no es barato en muchos sitios. En varios países
+europeos, el precio de la conexión se calcula por minuto, con una tasa
+alta durante el día y una tasa más barata por la loche, obligando así a
+los cibernautas a navegar por la noche para evitar que su «presupuesto
+internet» sea demasiado alto. A finales de 1998 y a principios de 1999,
+se ponen en marcha huelgas en Francia, en Italia y en Alemania, para
+presionar a los proveedores del internet para que reduzcan sus precios
+y ofrezcan «paquetes internet»; lo que hacen en los meses siguientes.
+
+Algunos años después, la conexión al internet resulta más fácil con un
+gran ancho de banda. Jean-Paul, webmaster del sitio hipermedia
+cotres.net, resume la situación en enero de 2007: «Tengo la impresión
+de que estamos viviendo un periodo “flotante”, situado entre los
+tiempos heroicos, en los que se trataba de avanzar esperando a que la
+tecnología nos alcanzara, y el futuro, en el que el gran ancho de banda
+liberará fuerzas que aún solamente se han desencadenado para los
+juegos».
+
+# El futuro del internet
+
+La próxima generación del internet será una red «pervasiva» —es decir,
+una red única y omnipresente— que permitirá conectarse en cualquier
+lugar y en cualquier momento a través de cualquier tipo de aparato.
+
+Rafi Haladjian, fundador de la compañía Ozone, explicaba en 2007 en su
+sitio web: «La nueva ola afectará en cualquier momento nuestro mundo
+físico, nuestro entorno real, nuestra vida cotidiana. Ya no accederemos
+a la red, sino que viviremos en ella. Los futuros componentes de esta
+red (cables, operadores, etc.) serán completamente transparentes para
+el utilizador final. La red estará siempre abierta, posibilitando así
+una conexión permanente en cualquier lugar. También será agnóstica en
+términos de aplicaciones, ya que estará fundada en los mismos
+protocolos del internet».
+
+En cuanto al contenido del internet, el filósofo y visionario Timothy
+Leary lo describe así en su libro «Chaos & Cyber Culture» (Caos y
+cibercultura), publicado en 1994: «Toda la información del mundo está
+en el interior. Y gracias al ciberespacio, todo el mundo puede tener
+acceso a ella. Todas las señales humanas contenidas hasta ahora en los
+libros han sido digitalizadas. Han sido guardadas y están disponibles
+en estos bancos de datos, sin contar todos los cuadros, todas las
+películas, todos los programas de televisión, todo, absolutamente todo».
+En 2010, este objetivo aún no se ha alcanzado, pero podríamos decir que
+las cosas van por buen camino.
+
+
+
+1986 > VARIANTES DEL ASCII PARA ALGUNOS IDIOMAS
+
+
+[Resumen]
+El primer sistema de codificación informática es el ASCII (American
+Standard Code for Information Interchange – Código Estadounidense
+Estándar para el Intercambio de Información), publicado en 1963 por el
+ANSI (American National Standards Institute – Instituto Estadounidense
+Nacional de Normas). El ASCII es un código de 128 caracteres traducidos,
+en el lenguaje binario, en siete bits (A se traduce por "1000001", B se
+traduce por "1000010", etc.). El ASCII no permite más que la lectura
+del inglés (y del latín). Con el desarrollo del internet, se vuelve
+insuficiente comunicarse solo en inglés con el ASCII original, y de ahí
+la necesidad de las variantes del ASCII para tener en cuenta los
+caracteres acentuados de otros idiomas europeos. Las variantes del
+ASCII en ocho bits son publicadas desde 1986, como por ejemplo la norma
+ISO 8859, también llamada ISO Latin, con ISO 8859-1 (ISO Latin-1) para
+el español, el francés y el alemán.
+
+***
+
+Con el desarrollo del internet, se vuelve insuficiente comunicarse solo
+en inglés con el ASCII original, y de ahí la necesidad de las variantes
+del ASCII para tener en cuenta los caracteres acentuados de otros
+idiomas europeos.
+
+# El ASCII en siete bits
+
+El primer sistema de codificación informático es el ASCII (American
+Standard Code for Information Interchange – Código Estadounidense
+Estándar para el Intercambio de Información), publicado en 1963 por el
+ANSI (American National Standards Institute – Instituto Estadounidense
+Nacional de Normas). El ASCII es un código de 128 caracteres traducidos,
+en el lenguaje binario, en siete bits (A se traduce por "1000001", B se
+traduce por "1000010", etc.). Los 128 caracteres incluyen 33 caracteres
+de control (que no representan símbolos escritos) y 95 caracteres
+imprimibles: las 26 letras sin acento en mayúsculas (A-Z) y en
+minúsculas (a-z), las cifras, los signos de puntuación y algunos
+símbolos; lo que corresponde a las teclas del teclado inglés o
+estadounidense.
+
+# El ASCII en ocho bits
+
+El ASCII no permite más que la lectura del inglés (y del latín). No
+permite tomar en cuenta las letras acentuadas presentes en varias
+lenguas europeas, así como los idiomas con alfabetos diferentes (como
+el árabe, el griego, el ruso, etc.) y aún menos los idiomas no
+alfabéticos (como el chino, el japonés, el coreano, etc.). Esto no
+plantea ningún problema realmente importante en los primeros años,
+cuando el intercambio de archivos electrónicos se limita esencialmente
+a Norteamérica. Pero el plurilingüismo pronto se convierte en una
+necesidad vital. Variantes del ASCII en ocho bits son publicadas desde
+1986, como por ejemplo la norma ISO 8859, también llamada ISO Latin,
+con la ISO 8859-1 (ISO Latin-1) para el español, el francés y el alemán.
+
+# Un rompecabezas
+
+El paso del ASCII original a sus diversas variantes no tarda en
+convertirse en un verdadero rompecabezas, incluso en la Unión Europea,
+donde se plantean problemas como la multiplicación de las variantes, la
+corrupción de los datos durante los intercambios informáticos o la
+incompatibilidad de los sistemas, ya que las páginas web solo pueden
+visualizarse en un idioma a la vez.
+
+Olivier Gainon, creador de CyLibris, una editorial literaria
+electrónica, explica en diciembre de 2000: «La primera etapa es el
+respeto de los particularismos a nivel técnico. Es preciso que la red
+respete las letras acentuadas, las letras específicas, etc. Me parece
+muy importante que los futuros protocolos permitan una transmisión
+perfecta de estos aspectos, y eso puede que no resulte sencillo (en las
+evoluciones futuras del HTML, o de los protocolos IP, etc.). Por lo
+tanto, es necesario que cada uno pueda sentirse a gusto con el internet
+y que esto no se limite a los individuos que dominan (más o menos) el
+inglés. No parece normal que actualmente la transmisión de los acentos
+plantee problemas en los correos electrónicos. Por eso me parece que el
+primer trámite es de orden técnico».
+
+# El Unicode
+
+Publicado por primera vez en enero de 1991, el Unicode es un sistema de
+codificación universal en 16 bits, que asigna un número único a cada
+carácter. Este número es legible desde cualquier plataforma, con
+cualquier programa y en cualquier idioma. El Unicode puede codificar
+65.000 caracteres únicos y tomar en cuenta todos los sistemas de
+escritura del planeta. Pero integrar este nuevo sistema de codificación
+en todos los software y navegadores es un trabajo titánico. Hay que
+esperar hasta diciembre de 2007 para que el Unicode suplante el ASCII
+en el internet.
+
+
+
+1990 > LA INVENCIÓN DE LA WEB
+
+
+[Resumen]
+Tim Berners-Lee, investigador del CERN (Centre Européen pour la
+Recherche Nucléaire – Centro Europeo para la Investigación Nuclear) en
+Ginebra (Suiza), inventa la World Wide Web en 1990. En 1989, crea un
+sistema de hipertexto para relacionar documentos. En 1990, crea el
+primer servidor HTTP (HyperText Transfer Protocol) y el primer
+navegador de la web. En 1991, la web ya está operativa y revoluciona la
+consulta del internet (que existe desde 1974). Vínculos hipertexto
+permiten enlazar textos e imágenes. La información se vuelve
+interactiva, y por lo tanto resulta más atractiva, lo que favorece el
+desarrollo exponencial del internet. Más tarde, vínculos hipermedia
+permiten enlazar textos o imágenes con imágenes animadas, vídeos,
+bandas sonoras y archivos de música. El World Wide Web Consortium (W3C)
+es fundado en octubre de 1994 para definir los protocolos comunes de la
+web.
+
+***
+
+Tim Berners-Lee, investigador del CERN (Centre Européen pour la
+Recherche Nucléaire – Centro Europeo para la Investigación Nuclear) en
+Ginebra (Suiza), inventa la World Wide Web en 1990. Gracias a la web,
+el internet se hace accesible para todos y a partir de ahí comienza su
+desarrollo exponencial.
+
+# Los inicios de la web
+
+En 1989, Tim Berners-Lee crea un sistema de hipertexto para relacionar
+documentos. En 1990, crea el primer servidor HTTP (HyperText Transfer
+Protocol) y el primer navegador de la web. En 1991, la web está
+operativa y revoluciona la consulta del internet (que existía desde
+1974). Los vínculos hipertexto permiten enlazar textos o imágenes. La
+información se vuelve interactiva, y por lo tanto resulta más atractiva.
+Más tarde, los vínculos hipermedia permitirán enlazar documentos
+textuales e imágenes con imágenes animadas, vídeos, bandas sonoras y
+archivos de música.
+
+Mosaic, el primer navegador público de la web, es desarrollado por el
+NCSA (National Center for Supercomputing Applications – Centro Nacional
+de Aplicaciones de Supercomputación) en la Universidad de Illinois
+(Estados Unidos). Distribuido gratuitamente desde noviembre de 1993,
+contribuye mucho al desarrollo rápido de la web. A principios de 1994,
+parte del equipo de Mosaic emigra hacia la Netscape Communications
+Corporation para desarrollar un nuevo software bajo el nombre de
+Nescape Navigator. En 1995, Microsoft lanza su propio navegador;
+Internet Explorer. Otros navegadores son, por ejemplo, Opera y Safari —
+el navegador de Apple—.
+
+El World Wide Web Consortium (W3C) es un consorcio internacional
+fundado en octubre de 1994 para definir los protocolos comunes de la
+web. Su director es Tim Berners-Lee. En 1997, una sección
+Internacionalización/Localización presenta los protocolos útiles para
+una web multilingüe: HTML (HyperText Markup Language), mapas (básicos)
+de caracteres, nuevos atributos, HTTP (HyperText Transfer Protocol),
+«negociación» del idioma, URL (Uniform Resource Locator), otros
+identificadores para incluir caracteres non-ASCII y consejos prácticos
+para crear un sitio web multilingüe.
+
+# El sueño de Tim Berners-Lee
+
+En diciembre de 1997, siete años después de la invención de la web,
+Pierre Ruetschi, periodista del diario suizo «Tribune de Genève»,
+pregunta a Tim Berners-Lee: «Han pasado siete años. ¿Está usted
+satisfecho de la manera en que la web ha evolucionado?». Él contesta
+que, si bien se alegra de que la información disponible sea tan rica y
+variada, la web aún no ha alcanzado la potencia prevista en su
+concepción original. Preferiría «que la web fuera más interactiva, que
+la gente pudiera juntar esfuerzos para crear información», en vez de
+limitarse a consumir la que se le ofrece. La web tiene que convertirse
+en «un medio de comunicación colaborativo, en un mundo de conocimientos
+que compartimos».
+
+En un ensayo publicado en abril de 1998 en su propia página web (en el
+sitio del World Wide Web Consortium), Tim Berners-Lee escribe que «el
+sueño que se esconde detrás de la web es un espacio de información
+común en donde nos comuniquemos compartiendo la información. Su
+universalidad es esencial, es decir que los vínculos hipertexto puedan
+enlazar con cualquier tipo de datos, personales, locales o mundiales,
+tanto esbozos como documentos sofisticados. La segunda parte de este
+sueño es que el acceso a la web se generalizaría hasta tal punto que
+acabaría convirtiéndose en un espejo realista (o de hecho en la
+encarnación más directa) de la manera en que trabajamos, jugamos y
+tramamos relaciones sociales. Una vez que estas interacciones estén en
+línea, podríamos utilizar los ordenadores para ayudarnos a analizarlas,
+dar sentido a lo que hacemos, y ver cómo cada uno encuentra un lugar
+que le corresponda y cómo podemos trabajar mejor juntos». (Fragmento de
+«The World Wide Web: A very short personal history» —«El World Wide Web:
+una muy corta historia personal»—)
+
+# La web 2.0
+
+La empresa Netcraft, especializada en estadísticas del internet, da el
+número de un millón de sitios web en abril de 1997; diez millones en
+febrero de 2000; 20 millones en septiembre de 2000; 30 millones en
+julio de 2001; 40 millones en abril de 2003; 50 millones en mayo de
+2004; 60 millones en marzo de 2005; 70 millones en agosto de 2005; 80
+millones en abril de 2006; 90 millones en agosto de 2006 y 100 millones
+en noviembre de 2006, un aumento rápido debido a la creación de muchos
+sitios personales y blogs.
+
+La noción de web 2.0 es acuñada por primera vez en 2004 por Tim
+O'Reilly, un editor de libros informáticos, quien escoge este título
+para una serie de conferencias que organiza. Con la web 2.0, basada en
+las nociones de comunidad e intercambio, quizás comienza a realizarse
+el sueño de Tim Berners-Lee.
+
+15 años después de la creación de la web, la revista «Wired»
+(California) observa en su número de agosto de 2005 que «solo menos de
+la mitad de la web es comercial, y el resto funciona con la pasión». En
+cuanto al internet, unos 30 años después de su lanzamiento, el diario
+«Le Monde» (Francia) observa que «gracias a sus tres poderes —ubicuidad,
+variedad e interactividad— su potencial de uso es casi infinito».
+
+Robert Beard, creador de un sitio web de diccionarios en línea, escribe
+en septiembre de 1998: «La web será una enciclopedia del mundo, hecha
+por el mundo y para el mundo. Ya no habrá información o conocimientos
+útiles que no estén disponibles, de manera que se eliminará la barrera
+principal para la comprensión internacional e interpersonal, y para el
+desarrollo personal e institucional. Hará falta tener una imaginación
+más desbordante que la mía para predecir el efecto de este desarrollo
+sobre la humanidad».
+
+
+
+1990 > LA LINGUIST LIST
+
+
+[Resumen]
+Anthony Rodrigues Aristar crea, en 1990, en la University of Western
+Australia, la LINGUIST List; una lista de difusión para lingüistas. Con
+60 personas registradas, la lista se traslada a la Texas A&M University
+(los Estados Unidos) en 1991, con la Eastern Michigan University como
+mayor editor. En 1997, la LINGUIST List tiene su propio sitio web. Los
+mensajes recibidos son clasificados en varias categorías: profesión
+(conferencias, asociaciones lingüísticas y programas), investigación y
+apoyo a la investigación (artículos, resúmenes de tesis, proyectos,
+bibliografías, temas y textos), publicaciones, pedagogía, recursos
+lingüísticos (idiomas, familias lingüísticas, diccionarios e
+información regional) y apoyo informático (fuentes de caracteres y
+programas). La LINGUIST List es una componente de la WWW Virtual
+Library para la lingüística.
+
+***
+
+Anthony Rodrigues Aristar crea, en 1990, en la University of Western
+Australia, la LINGUIST List; una lista de difusión para lingüistas.
+
+Con 60 personas registradas, la lista se traslada a la Texas A&M
+University (Estados Unidos) en 1991, con la Eastern Michigan University
+como mayor editor. En 1997, la LINGUIST List tiene su propio sitio web.
+Los mensajes recibidos son clasificados en varias categorías: profesión
+(conferencias, asociaciones lingüísticas y programas), investigación y
+apoyo a la investigación (artículos, resúmenes de tesis, proyectos,
+bibliografías, temas y textos), publicaciones, pedagogía, recursos
+lingüísticos (idiomas, familias lingüísticas, diccionarios e
+información regional) y apoyo informático (fuentes de caracteres y
+programas). La LINGUIST List es una componente de la WWW Virtual
+Library para la lingüística.
+
+Helen Dry, comoderadora de la LINGUIST List desde 1991, explica en
+agosto de 1998: «La LINGUIST List, que modero yo misma, tiene por
+política aceptar información en todos los idiomas, ya que es una lista
+para lingüistas. Sin embargo, no deseamos que un mensaje se publique en
+varios idiomas, simplemente por la carga de trabajo que eso
+representaría para nuestra redacción. (Nuestra lista no es una “bolsa
+de gatos”, sino una lista moderada. Así pues, antes de ser publicado,
+cada mensaje es clasificado por nuestros estudiantes–redactores en una
+sección específica que contiene todos los mensajes del mismo tipo.)
+Nuestra experiencia nos enseña que casi todo el mundo opta por publicar
+en inglés. Pero creamos enlaces a un sistema de traducción que presenta
+nuestras páginas en cinco idiomas. Así, un suscriptor lee la LINGUIST
+en inglés solo si lo desea. También tratamos de tener al menos un
+estudiante–redactor verdaderamente multilingüe, de modo que los
+lectores puedan comunicarse con nosotros en otros idiomas que el
+inglés».
+
+Helen Dry añade en julio de 1999: «Empezamos a reunir un gran cantidad
+de datos. Por ejemplo, tenemos bases de datos con un motor de búsqueda
+para los resúmenes de las tesis lingüísticas, las informaciones sobre
+los programas universitarios de lingüística y los datos profesionales
+de lingüistas individuales. Que yo sepa, el archivo de los resúmenes de
+las tesis es la única compilación electrónica que está disponible
+gratis en el internet».
+
+
+
+1991 > EL UNICODE PARA CODIFICAR TODOS LOS IDIOMAS
+
+
+[Resumen]
+Con la aparición del internet en el mundo entero, ya no se puede usar
+únicamente el ASCII, que codifica el inglés y sus variantes para
+algunos idiomas más; se necesita un sistema de codificación para todos
+los idiomas. Publicado por primera vez en enero de 1991, el Unicode es
+un sistema de codificación universal en 16 bits que asigna un número
+único a cada carácter. Este número es legible desde cualquier
+plataforma, con cualquier programa y en cualquier idioma. El Unicode
+puede codificar 65.000 caracteres únicos y tomar en cuenta todos los
+sistemas de escritura del planeta. El Unicode es mantenido por el
+Unicode Consortium. Es uno de los componentes de las especificaciones
+del World Wide Web Consortium (W3C), el organismo internacional
+encargado del desarrollo de la web. La utilización del Unicode se
+generaliza desde 1998, por ejemplo para los archivos de texto de la
+plataforma Windows, que hasta entonces estaban en ASCII. Habrá que
+esperar hasta diciembre de 2007 para que el Unicode suplante el ASCII
+en el internet.
+
+***
+
+A diferencia del ASCII, que codifica el inglés y sus variantes para
+algunos idiomas más, el Unicode es un sistema de codificación universal
+que tiene en cuenta todos los idiomas del planeta. Su primera versión
+es publicada en enero de 1991.
+
+# Del ASCII al Unicode
+
+El primer sistema de codificación informática es el ASCII (American
+Standard Code for Information Interchange – Código Estadounidense
+Estándar para el Intercambio de Información), publicado en 1963 por el
+ANSI (American National Standards Institute – Instituto Estadounidense
+Nacional de Normas). Con el desarrollo del internet en el mundo entero,
+se internacionaliza cada vez más el intercambio de datos y entonces ya
+no es posible conformarse con utilizar únicamente el inglés y algunos
+idiomas europeos más en un sistema de codificación de caracteres que
+data de los inicios de la informática.
+
+Publicado por primera vez en enero de 1991, el Unicode es un sistema
+universal de codificación de caracteres —en 16 bits— que asigna un
+número único a cada carácter. Este número es legible desde cualquier
+plataforma, con cualquier programa y en cualquier idioma. El Unicode
+puede reconocer 65.000 caracteres únicos y tomar en cuenta todos los
+sistemas de escritura del planeta. Para satisfacción de los lingüistas,
+el Unicode va sustituyendo al ASCII gradualmente, con variantes UTF-8,
+UTF-16 y UTF-32 (UTF: Unicode Transformation Format) según el número de
+bits utilizados para la codificación.
+
+El Unicode es mantenido por el Unicode Consortium. Es uno de los
+componentes de las especificaciones del World Wide Web Consortium (W3C),
+el organismo internacional encargado del desarrollo de la web.
+
+# No es tan fácil
+
+Patrick Rebollar es profesor de francés y de literatura francesa en
+Japón, así como moderador de la lista de difusión LITOR (Literatura e
+Informática). En enero de 2000, destaca: «El primer problema es un
+problema de software. Como se ve con Netscape o Internet Explorer, es
+posible fijar múltiples idiomas en la web. Pero no hay compatibilidad
+entre esos navegadores y otros software (el Office de Microsoft, por
+ejemplo). La adopción del Unicode debería resolver muchos problemas,
+pero esto supone volver a escribir la mayor parte de los software —lo
+que los productores de estos se muestran renuentes a hacer debido a los
+gastos—, para un rendimiento que no está garantizado, ya que estos
+software multilingües tienen menos interés para sus clientes que los
+software de navegación».
+
+La utilización del Unicode se generaliza en 2000, por ejemplo, para los
+archivos de texto bajo la plataforma Windows (Windows NT, Windows 2000,
+Windows XP y siguientes versiones) que hasta entonces estaban en ASCII.
+
+Luc Dall’Armellina, coautor y webmaster de oVosite, un espacio de
+escritura hipermedia, subraya en junio de 2000: «Los sistemas
+operativos se van dotando de fuentes Unicode capaces de representar
+todos los idiomas del mundo. Ojalá sigan el mismo rumbo todas las
+aplicaciones, desde el procesamiento de texto hasta el navegador web.
+Las dificultades son inmensas: nuestro teclado, con sus ± 250 teclas,
+deja ver sus insuficiencias siempre que es necesario digitalizar unos
+Katakana o Hiragana japoneses, y resulta aún peor con el chino. La gran
+variedad de los sistemas de escritura del mundo y el número de
+caracteres que abarcan constituyen un freno potente. Sin embargo, los
+obstáculos culturales no son menos importantes, pues son vinculados con
+los códigos y las modalidades de representación propios de cada cultura
+o etnia». De hecho, habrá que esperar hasta diciembre de 2007 para que
+el Unicode supere al ASCII en el internet.
+
+
+
+1994 > TRAVLANG: LENGUAS PARA VIAJAR
+
+
+[Resumen]
+Travlang es el primer sitio web que ofrece une lista de diccionarios en
+línea para viajeros. Michael C. Martin, un estudiante de física, crea
+una sección llamada «Foreign Languages for Travelers» (Idiomas
+extranjeros para viajeros), en 1994, en el sitio de su universidad en
+Nueva York. Un año después, Michael lanza Travlang, un sitio dedicado a
+los viajes y a los idiomas, que recibe el premio al mejor sitio de
+viajes en 1997. La sección «Foreign Languages for Travelers» da la
+oportunidad de aprender los fundamentos de 70 idiomas a través de la
+web. La sección «Translating Dictionaries» (Diccionarios de traducción)
+proporciona acceso a diccionarios gratuitos en 15 idiomas (afrikáans,
+alemán, checo, danés, español, esperanto, finlandés, francés, frisón,
+holandés, húngaro, italiano, latín, noruego y portugués). Estos
+diccionarios son a menudo breves y de calidad desigual. Otras de las
+secciones ofrecen enlaces a servicios de traducción, escuelas de
+idiomas, librerías multilingües, etc.
+
+***
+
+Travlang es el primer sitio web que ofrece una lista de diccionarios en
+línea para viajeros.
+
+Michael C. Martin, un estudiante de física, crea una sección llamada
+«Foreign Languages for Travelers» (Idiomas extranjeros para viajeros),
+en 1994, en el sitio de su universidad en Nueva York. Un año después,
+lanza Travlang, un sitio dedicado a los viajes y a los idiomas, que
+recibe el premio del mejor sitio de viajes en 1997. Cuando empieza a
+trabajar como investigador en el Lawrence Berkeley National Laboratory,
+en California, Michael sigue administrando este sitio tan popular.
+
+En 1998, la sección «Foreign Languages for Travelers» da la oportunidad
+de aprender los fundamentos de 70 idiomas a través de la web. La
+sección «Translating Dictionaries» (Diccionarios de traducción)
+proporciona acceso a diccionarios gratuitos en 15 idiomas (afrikáans,
+alemán, checo, danés, español, esperanto, finlandés, francés, frisón,
+holandés, húngaro, italiano, latín, noruego y portugués). Estos
+diccionarios son a menudo breves y de calidad desigual.
+
+Otras de las secciones ofrecen enlaces a servicios de traducción,
+escuelas de idiomas, librerías multilingües, etc. También se puede
+reservar un hotel, un coche o un billete de avión, consultar las tasas
+de conversión de dinero o navegar en un repertorio de 7.000 enlaces
+hacia otros sitios de idiomas o de viajes.
+
+Michael C. Martin escribe en agosto de 1998: «Pienso que la web es un
+lugar ideal para acercar a las culturas y las personas, y eso incluye
+que la web sea multilingüe. Nuestro sitio Travlang es muy popular por
+esta razón, y a la gente le encanta estar en contacto con otras partes
+del mundo. (...) Realmente, el internet es un instrumento importante
+para comunicarse con personas con las cuales no tendríamos la
+oportunidad de interactuar de otro modo. Agradezco la cooperación que
+ha hecho posible las páginas Foreign Languages for Travelers».
+
+¿Cómo ve Michael el futuro? «Creo que las traducciones integrales
+informatizadas se convertirán en algo común para comunicarse
+directamente con más gente. Esto también ayudará a que el internet
+llegue más a la gente que no habla inglés».
+
+La compañía GourmetMarket.com compra Travlang en febrero de 1999. La
+compañía ii Group recompra este sitio tan popular en enero de 2000. El
+sitio cuenta con dos millones de visitas al mes de julio de 2000. Es la
+fecha en la que buenos diccionarios aparecen en la red… pero en otros
+sitios. Travlang se hace muy comercial y se dedica solo a viajes.
+
+
+
+1995 > EL INTERNET DICTIONARY PROJECT
+
+
+[Resumen]
+El Internet Dictionary Project es un proyecto de diccionarios
+colaborativos gratuitos en línea. Tyler Chambers, informático, crea
+primero —en mayo de 1994— la Human-Languages Page (Página de las
+lenguas humanas), un catálogo de recursos lingüísticos. El año
+siguiente lanza su segundo proyecto, el Internet Dictionary Project
+(Proyecto de diccionarios en el internet), un proyecto colaborativo
+abierto a todos para la creación de diccionarios gratis en la web, del
+inglés a otros idiomas (alemán, español, francés, italiano, latín y
+portugués). El propósito de este proyecto es «la creación de
+diccionarios de traducción con la ayuda de usuarios del internet. Este
+sitio permite a gente del mundo entero consultarlos y participar en la
+traducción de términos ingleses a otros idiomas. Entonces las listas de
+términos en inglés y sus equivalentes en otros idiomas están a
+disposición de todos en este sitio web, sin ningún tipo de restricción».
+
+***
+
+En 1995, Tyler Chambers crea el Internet Dictionary Project (Proyecto
+de diccionarios en el internet) como un proyecto colaborativo abierto a
+todos para la creación de diccionarios gratis en la web, del inglés a
+otros idiomas (alemán, español, francés, italiano, latín y portugués).
+
+Un año antes, en mayo de 1994, Tyler, que es informático, creó la
+Human-Languages Page (Página de las lenguas humanas) para proponer un
+catálogo de recursos lingüísticos. Este catálogo hace el inventario de
+1.800 recursos en un centenar de lenguas, en octubre de 1998. Estos
+recursos son clasificados en varias secciones: lengua y literatura,
+escuelas e instituciones, productos y servicios, organismos de lenguas,
+empleo y formación, diccionarios y cursos de idiomas.
+
+¿Qué es exactamente el Internet Dictionary Project? Tyler explica en el
+sitio web que el propósito del proyecto es «la creación de diccionarios
+de traducción con la ayuda de los usuarios del internet. Este sitio
+permite a la gente de todo el mundo consultarlos y participar en la
+traducción de términos ingleses a otros idiomas. Así, las listas de
+términos en inglés y sus equivalentes en otros idiomas están a
+disposición de todos en este sitio web, sin restricción de ningún tipo.
+
+(...)
+
+El Internet Dictionary Project nació en 1995 para llenar un vacío y
+ofrecer diccionarios de traducción gratuitos a la comunidad del
+internet y a todas las personas que se interesan por la informática. No
+solo es muy útil tener acceso inmediato a los diccionarios en la World
+Wide Web, sino que esto también permite el desarrollo de programas que
+utilizan estos diccionarios, por ejemplo programas de traducción,
+correctores ortográficos o guías para el aprendizaje de idiomas. Al
+facilitar, por miles de voluntarios, la creación de estos diccionarios
+en línea y al ponerlos a disposición de todos gratuitamente, el
+Internet Dictionary Project espera imprimir su marca en el internet y
+suscitar otros proyectos que serán más beneficiosos que los proyectos
+generando ingresos puramente financieros».
+
+Tyler cuenta, en septiembre de 1998, en una entrevista por correo
+electrónico: «El multilingüismo en la web era inevitable mucho antes de
+que este medio se desarrollase verdaderamente. Mi primer verdadero
+contacto con la web fue en 1994, poco después de sus inicios, pero
+mucho antes de su expansión. 1994 fue también el año en que comencé mi
+primer proyecto web multilingüe, y existía ya un número significativo
+de recursos lingüísticos en línea. Eso fue antes de la creación de
+Netscape. Mosaic era el único navegador en la web y las páginas web
+eran principalmente documentos textuales enlazados con hipervínculos.
+Con la mejora de los navegadores y la experiencia adquirida por los
+usuarios, creo que ahora no hay una sola lengua viva que no esté
+presente en la web; ya se trate de la lengua de los indios americanos o
+de los dialectos medioorientales. Muchas lenguas muertas pueden también
+encontrar ahora una nueva audiencia con eruditos y otros expertos en
+línea.
+
+(…)
+
+Aunque yo no sea políglota, ni siquiera bilingüe, estoy consciente de
+que muy pocas áreas tienen una importancia comparable al área de las
+lenguas y del plurilingüismo. (…) En general, creo que la web es
+importante para la sensibilización a las lenguas y a los temas
+culturales. ¿En qué otro lugar se puede navegar al azar durante veinte
+minutos y encontrar información útil en tres lenguas o más?
+
+(…)
+
+Decir que el internet estimula el multilingüismo me parece una opinión
+falsa. Es la comunicación la que estimula el multilingüismo y el
+intercambio cultural. El internet es solo el modo de comunicación más
+reciente accesible para la gente más o menos ordinaria. (…) Los idiomas
+serán aún más importantes de lo que son ahora cuando todo el mundo
+pueda comunicarse a escala planetaria (a través de la web, del chat, de
+los juegos, del correo electrónico o de cualquier otra aplicación que
+todavía pertenece al futuro)».
+
+En la primavera de 2001, la Human-Languages Page se fusiona con el
+Languages Catalog (Catálogo de lenguas), una sección de la WWW Virtual
+Library, para convertirse en el nuevo sitio iLoveLanguages. En
+septiembre de 2003, iLoveLanguages hace el inventario de 2.000 recursos
+lingüísticos en un centenar de idiomas. En cuanto al Internet
+Dictionary Project, Tyler pone fin a este proyecto en enero de 2007,
+por falta de tiempo, dejando los diccionarios existentes tal y como
+están en la web para su visualización o descarga.
+
+
+
+1995 > NETGLOS: UN GLOSARIO DEL INTERNET
+
+
+[Resumen]
+NetGlos —compendio de «Multilingual Glossary of Internet Terminology»—
+es un glosario colaborativo multilingüe de la terminología del internet.
+NetGlos es lanzado en 1995 por iniciativa del WorldWide Language
+Institute (Instituto de Idiomas del Mundo Entero), un instituto que
+enseña idiomas por el internet. Tres años después, este proyecto
+colaborativo está disponible en trece idiomas (alemán, chino, croata,
+español, francés, griego, hebreo, flamenco, inglés, italiano, maorí,
+noruego y portugués), y en él participan muchos traductores y otros
+profesionales de las lenguas del mundo entero. Brian King explica en
+septiembre de 1998: «Antes de que un nuevo término sea aceptado como
+término correcto, hay un período de inestabilidad con varios
+“candidatos” en competencia. A menudo, un término tomado del inglés es
+el punto de partida y, en muchos casos, también es el punto de llegada.
+Finalmente surge un ganador, que luego se utiliza tanto en los
+diccionarios técnicos como en el vocabulario cotidiano de los usuarios
+no técnicos».
+
+***
+
+NetGlos —compendio de «Multilingual Glossary of Internet Terminology»—
+es un glosario colaborativo multilingüe de la terminología del internet
+que fue lanzado en 1995 por iniciativa del WorldWide Language Institute
+(Instituto de Idiomas del Mundo Entero).
+
+
+Tres años después, este proyecto colaborativo está disponible en 13
+idiomas (alemán, chino, croata, español, francés, griego, hebreo,
+flamenco, inglés, italiano, maorí, noruego y portugués), con la
+participación de muchos traductores y otros profesionales de las
+lenguas del mundo entero.
+
+Brian King, director del WorldWide Language Institute (WWLI), explica
+en septiembre de 1998: «Gran parte de la terminología técnica en la web
+todavía no está traducida a otros idiomas [más que en inglés]. Y como
+nos damos cuenta en NetGlos, la traducción de estos términos no es
+siempre fácil. Antes de que un nuevo término sea aceptado como el
+término correcto, hay un período de inestabilidad con varios
+“candidatos” en competencia. A menudo, un término tomado del inglés es
+el punto de partida y, en muchos casos, también es el punto de llegada.
+Finalmente surge un ganador, que luego se utiliza tanto en los
+diccionarios técnicos como en el vocabulario cotidiano del usuario no
+especialista. La última versión de NetGlos es la versión rusa, y
+debería estar disponible pronto. Será sin duda un excelente ejemplo del
+proceso dinámico en curso para la “rusificación” de la terminología de
+la web».
+
+¿Cuáles son las perspectivas? «La tecnología está cambiando a un ritmo
+frenético. La formación durante toda la vida es una estrategia que
+debemos todos adoptar si queremos seguir adelante y ser competitivos.
+Esta tarea ya es bastante difícil en el contexto del habla inglesa. Si
+a esto le añadimos la complejidad llevada por la comunicación a un
+ciberespacio multicultural y multilingüe, la tarea se hace aún más
+exigente. Ahora probablemente aún más que antes, la cooperación es tan
+esencial como la competencia. Las semillas de una cooperación a través
+del internet ya existen. Nuestro proyecto NetGlos depende de la buena
+voluntad de traductores voluntarios de muchos países: Canadá, los
+Estados Unidos, Austria, Noruega, Bélgica, Israel, Portugal, Rusia,
+Grecia, Brasil, Nueva Zelanda, etc. Creo que los cientos de usuarios
+que visitan diariamente las páginas de NetGlos son un excelente
+testimonio del éxito de este tipo de relaciones de trabajo. Las
+relaciones de cooperación crecerán en el futuro, pero no necesariamente
+sobre la base del voluntariado».
+
+
+
+1995 > VARIOS IDIOMAS EN NUESTRA PANTALLA
+
+
+[Resumen]
+¿Cómo leer varios idiomas en la pantalla de un ordenador? Yoshi Mikami,
+informático en Fujisawa (Japón), crea una página web en diciembre de
+1995 para explicar esto antes de escribir el primer libro sobre el tema
+en agosto de 1997. Yoshi crea en primer lugar la página web bilingüe
+inglés–japonés The Languages of the World by Computers and the Internet
+(Los idiomas del mundo por ordenadores y el internet), conocida
+comúnmente como la Logos Home Page o Kotoba Home Page. Su página web
+presenta un breve historial de cada idioma con sus características; su
+fonética; su mapa de caracteres y su codificación informática. Yoshi
+luego coescribe (junto con Kenji Sekine y Nobutoshi Kohara) la «Guía
+para una web multilingüe», publicada en japonés en agosto de 1997 por
+las ediciones O'Reilly, y traducida al inglés, al alemán y al francés
+el año siguiente.
+
+***
+
+¿Cómo leer varios idiomas en la pantalla de un ordenador? Yoshi Mikami,
+informático en Fujisawa (Japón), crea una página web en diciembre de
+1995 para explicar esto antes de escribir el primer libro sobre el tema
+en agosto de 1997.
+
+Yoshi crea en primer lugar la página web bilingüe inglés–japonés The
+Languages of the World by Computers and the Internet (Los idiomas del
+mundo por ordenadores y el internet), conocida comúnmente como la Logos
+Home Page o Kotoba Home Page. Su página web presenta un breve historial
+de cada idioma con sus características; su fonética; su mapa de
+caracteres y su codificación informática.
+
+Yoshi luego coescribe (junto con Kenji Sekine y Nobutoshi Kohara) la
+«Guía para una web multilingüe», publicada en japonés por las ediciones
+O'Reilly en agosto de 1997 y traducida al inglés, al alemán y al
+francés el año siguiente.
+
+Yoshi explica en diciembre de 1998: «Mi lengua materna es el japonés.
+Como hice mis estudios de tercer ciclo en los Estados Unidos y trabajé
+en informática, he llegado a ser bilingüe japonés–inglés americano.
+Siempre he estado interesado en otras lenguas y culturas, lo que me
+llevó a aprender ruso, francés y chino mientras tanto. A finales de
+1995, creé en la web el sitio The Languages of the World by Computers
+and the Internet e intenté proponer —en inglés y en japonés— un breve
+historial de los seis idiomas más usados en el internet, así como de
+las características de cada lengua, de su fonética, de su mapa de
+caracteres y de su codificación informática. Avalado por la experiencia
+adquirida, instigué a mis dos socios a que escribiéramos un libro sobre
+la concepción, la creación y la presentación de sitios web multilingües;
+un libro que se publicó en agosto de 1997 en su edición en japonés —el
+primer libro del mundo sobre semejante tema—».
+
+¿Cómo se imagina un internet multilingüe? «Miles de años atrás, en
+Egipto, en China y en otros lugares, la gente era más sensible a la
+necesidad de comunicar sus leyes y reflexiones en varios idiomas y no
+en uno solo. En nuestra sociedad moderna, cada estado ha adoptado más o
+menos una sola lengua para la comunicación. A mi parecer, el internet
+permitirá un uso más amplio de varios idiomas y de páginas multilingües
+(y no solo una gravitación alrededor del inglés americano) y un uso más
+creativo de la traducción informática multilingüe. ¡99% de los sitios
+web creados en Japón están redactados en japonés!».
+
+
+
+1995 > GLOBAL REACH: PARA LOCALIZAR SITIOS WEB
+
+
+[Resumen]
+Fundada por Bill Dunlap en 1995, Global Reach es una compañía
+especializada en la internacionalización y la localización de sitios
+web. Bill Dunlap crea, en 1985, en primer lugar, Euro-Marketing
+Associates (Socios para un Marketing en Europa), una empresa consultora
+con sede en San Francisco (California) y en París (Francia). En 1995,
+la reestructura para convertirla en una consultora en línea llamada
+Global Reach (Alcance Global), que tiene como objetivo promover en
+otros países los sitios web de empresas estadounidenses para así atraer
+a más visitantes y aumentar las ventas. Este método incluye la
+traducción de los sitios web a varios idiomas, la promoción activa de
+estos sitios y el uso de banderas de publicidad en los mismos. Bill
+Dunlap destaca en diciembre de 1998: «La promoción de un sitio web es
+tan importante como su creación, si no más. Una empresa debe estar
+dispuesta a dedicar por lo menos tanto tiempo y a gastar tanto dinero
+para promocionar su sitio como para crearlo. El programa Global Reach
+ayuda a promover un sitio en países de habla no inglesa para llegar a
+un público más amplio... y así conseguir más ventas».
+
+***
+
+Fundada por Bill Dunlap en 1995, Global Reach es una compañía
+especializada en la internacionalización y la localización de sitios
+web.
+
+Bill Dunlap crea, en 1985, en primer lugar, Euro-Marketing Associates
+(Socios para un Marketing en Europa), una empresa consultora con sede
+en San Francisco (Estados Unidos) y en París (Francia).
+
+En 1995, reestructura su empresa en una consultora en línea llamada
+Global Reach (Alcance Global), que tiene como objetivo promover en
+otros países los sitios web de empresas estadounidenses para atraer a
+más visitantes y así aumentar las ventas. Este método incluye la
+traducción de los sitios web a varios idiomas, la promoción activa de
+estos sitios y el uso de banderas de publicidad en los mismos.
+
+Bill Dunlap destaca en diciembre de 1998: «Hay muy pocas personas en
+los Estados Unidos que se interesan por comunicar en varios idiomas.
+Mucha gente sigue pensando que el mundo entero habla inglés. Al
+contrario, en Europa los países son suficientemente pequeños para que
+una perspectiva internacional haya sido necesaria desde hace siglos.
+
+(...)
+
+Desde 1981, cuando empezó mi vida profesional, estuve involucrado en
+traer compañías estadounidenses a Europa. Esto es en gran medida un
+problema de idioma, ya que su información tiene que estar disponible en
+lenguas europeas para ser útil tanto aquí como en Europa. Cuando la web
+se hizo popular en 1995, dio a mis actividades una dimensión en línea,
+y empezó promoviendo el comercio electrónico europeo entre mis
+conciudadanos estadounidenses. Recientemente, en la conferencia
+Internet World en Nueva York, hablé del cibercomercio europeo y sobre
+cómo utilizar un sitio web para llegar a los diferentes mercados
+europeos.
+
+(...)
+
+La promoción de un sitio web es tan importante como su creación, si no
+más. Una empresa debe estar dispuesta a dedicar por lo menos tanto
+tiempo y a gastar tanto dinero para promocionar su sitio como para
+crearlo. El programa Global Reach ayuda a promover un sitio en países
+de habla no inglesa para llegar a un público más amplio... y así
+conseguir más ventas. Una empresa tiene muchas buenas razones para
+tomar en serio el asunto del mercado internacional. Global Reach ofrece
+un método para ampliar su sitio a muchos países, presentárselo a los
+visitantes en línea en su propio idioma, y penetrar la red comercial de
+estos».
+
+Bill añade en julio de 1999: «Cuando la página principal de un sitio
+web está disponible en varios idiomas, el siguiente paso es el
+desarrollo del contenido en cada idioma. Un webmaster notará cuáles
+idiomas atraen a más visitantes —y por lo tanto generan más ventas—.
+Estos serán los idiomas en los que se iniciará una campaña de promoción
+plurilingüe en la web. Mientras tanto, siempre es bueno que siga
+aumentando el número de idiomas en los que un sitio web está disponible.
+Al principio, basta con que solo la página principal sea traducida a
+varios idiomas, pero es deseable que se establezca un verdadero sector
+para cada idioma».
+
+
+
+1996 > ONELOOK DICTIONARIES: UN PUNTO DE ACCESO COMÚN
+
+
+[Resumen]
+Robert Ware, informático, lanza en abril de 1996 OneLook Dictionaries
+(Diccionarios en una Mirada) como punto de acceso común para una
+búsqueda rápida en cientos de diccionarios generales y en diccionarios
+especializados en negocios, informática, medicina, religión, ciencia y
+tecnología, deportes y argot. Explica en septiembre de 1998:
+«Personalmente, estoy en contacto casi únicamente con personas que solo
+hablan inglés. (…) El hecho de que yo esté ahora en contacto con el
+mundo entero cambia el enfoque, ¡y lo cambia para mejor! (...) Yo tardé
+un poco en incluir diccionarios de lengua no inglesa —en parte porque
+soy monolingüe— pero ahora se pueden encontrar algunos». OneLook
+Dictionaries da acceso a 2 millones de términos de 425 diccionarios en
+1998; a 2,5 millones de términos de 530 diccionarios en 2000; a 5
+millones de términos de 910 diccionarios en 2003; y a 19 millones de
+términos de 1.060 diccionarios en 2010.
+
+***
+
+Robert Ware, informático, lanza en abril de 1996 OneLook Dictionaries
+(Diccionarios en una Mirada) como punto común para una búsqueda rápida
+en cientos de diccionarios generales y en diccionarios especializados
+en negocios, informática, medicina, religión, ciencia y tecnología,
+deportes y argot.
+
+Robert explica en septiembre de 1998: «Personalmente, estoy en contacto
+casi únicamente con personas que solo hablan inglés y que no tienen
+mucho incentivo para desarrollar sus habilidades lingüísticas. El hecho
+de que yo esté ahora en contacto con el mundo entero cambia el enfoque,
+¡y lo cambia para mejor! (...) Yo tardé un poco en incluir diccionarios
+de lengua no inglesa —en parte porque soy monolingüe— pero ahora se
+pueden encontrar algunos».
+
+Robert cuenta en la misma entrevista: «Ocurrió algo muy interesante e
+instructivo para mí. En 1994, trabajé para una escuela y trataba de
+instalar un software en determinado tipo de ordenador. Conocí a un
+persona que tenía el mismo problema que yo, y empezamos a intercambiar
+correos electrónicos. Súbitamente, fue impresionante... El software
+había sido escrito a 40 kilómetros de distancia, pero la persona que me
+estaba ayudando era una persona que se encontraba en otra parte del
+mundo. ¡Las distancias geográficas ya no importaban! Bueno, esto era
+genial, pero ¿qué hacer con eso? Podía comunicarme solo en inglés
+aunque, afortunadamente, mi correspondiente podía escribir tanto en
+inglés como en alemán, que era su lengua materna. El internet había
+eliminado una barrera, la de la distancia, pero seguía existiendo una
+barrera muy real, la del idioma.
+
+Me parece que el internet impulsa a la gente simultáneamente hacia dos
+direcciones diferentes. El internet, de habla inglesa al principio,
+conecta a la gente en el mundo entero. De esta manera, promueve un
+idioma común para comunicar. Pero también suscita contactos entre
+personas de diferentes idiomas y puede desarrollar un interés por el
+multilingüismo. Un idioma común es importante, pero de ninguna manera
+puede reemplazar la necesidad de muchos idiomas. Así, el internet
+promueve tanto un idioma común como el multilingüismo, y eso es un
+factor que contribuye a encontrar soluciones. El creciente interés por
+los idiomas y la necesidad de utilizarlos estimulan en el mundo la
+creación de cursos de idiomas y de herramientas lingüísticas, y el
+internet ofrece la oportunidad de ponerlos a disposición de todos en la
+web de forma rápida y barata».
+
+OneLook Dictionaries da acceso a 2 millones de términos de 425
+diccionarios en 1998; a 2,5 millones de términos de 530 diccionarios en
+2000; a 5 millones de términos de 910 diccionarios en 2003; y a 19
+millones de términos de 1.060 diccionarios en 2010.
+
+
+
+1997 > 82,3% DE LA WEB EN INGLÉS
+
+
+[Resumen]
+En sus inicios, casi 100% del internet está en inglés, a consecuencia
+de haber partido en los Estados Unidos gracias a sustanciales
+inversiones del gobierno para conectar a los organismos públicos con
+las universidades y los centros de investigación. Veinte años después,
+Babel, una iniciativa conjunta de la Internet Society y de Alis
+Technologies, realiza el primer estudio sobre la distribución de las
+lenguas en la web. Publicada en junio de 1997 y disponible en siete
+idiomas, la página Palmarés de las lenguas en la web da los porcentajes
+de 82,3% para el inglés, 4% para el alemán, 1,6% para el japonés, 1,5%
+para el francés, 1,1% para el español, 1,1% para el sueco y 1% para el
+italiano. Tres años después, en el verano de 2000, 50% de los usuarios
+no son anglófonos (pero 78% de las páginas web siguen estando en
+inglés).
+
+***
+
+82,3% de la web todavía está en inglés en junio de 1997, según Babel,
+una iniciativa conjunta de la Internet Society y de Alis Technologies.
+
+En sus inicios, casi 100% del internet está en inglés, como
+consecuencia de haber partido en 1974 en los Estados Unidos gracias a
+sustanciales inversiones del gobierno para conectar a los organismos
+públicos con las universidades y los centros de investigación.
+
+Después de la invención de la web por Tim Berners-Lee en 1990 y del
+lanzamiento del primer navegador Mosaic en noviembre de 1993, el
+internet se desarrolla rápidamente en el mundo entero.
+
+«Hacia la comunicación en el internet en todas las lenguas...». Este es
+el subtítulo del sitio web Babel, un proyecto conjunto de la Internet
+Society y de Alis Technologies para contribuir a la
+internacionalización del internet. Recordemos que la Internet Society
+se funda en 1992 por Vinton Cerf para promover el desarrollo del
+internet y que Alis Technologies es una compañía especializada en el
+procesamiento automático de las lenguas.
+
+En 1997, el sitio plurilingüe Babel (alemán, español, francés, inglés,
+italiano, portugués y sueco) ofrece dos sectores: (a) un sector
+«Idiomas» con tres secciones: lenguas del mundo, glosario tipográfico y
+lingüístico, y comunidad hispanohablante (para la versión en español);
+(b) un sector «Internet y el multilingüismo» con dos secciones:
+desarrollo de un sitio web multilingüe y codificación de las escrituras
+del mundo.
+
+Babel hace el primer estudio sobre la distribución de las lenguas en la
+web y lo publica en junio de 1997 en siete idiomas. La página Palmarés
+de las lenguas en la web da los siguientes porcentajes: 82,3% para el
+inglés, 4% para el alemán, 1,6% para el japonés, 1,5% para el francés,
+1,1% para el español, 1,1% para el sueco y 1% para el italiano.
+
+El porcentaje de 82,3% para el inglés se puede explicar por varios
+factores: (a) el uso del inglés como el idioma principal de intercambio
+internacional; (b) la creación de muchos sitios web en los Estados
+Unidos y en Canadá desde los inicios de la web en 1990; (c) una
+proporción de usuarios particularmente alta en América del Norte con
+respecto al resto del mundo, con ordenadores más baratos y una tarifa
+mensual de bajo costo para la conexión al internet.
+
+Según Global Reach, una empresa especializada en la
+internacionalización de los sitios web, los usuarios que no son
+anglófonos son 56 millones en julio de 1998, habiendo además 22,4% de
+usuarios hispanos, 12,3% de usuarios japoneses, 14% de usuarios
+germánicos y 10% de usuarios francófonos. Para los 500 millones de
+europeos, 15% son de lengua materna inglesa, 28% no habla inglés y 32%
+consulta páginas web en inglés.
+
+Randy Hobler, consultor en marketing en el internet para productos y
+servicios de traducción, escribe en septiembre de 1998: «El aumento de
+páginas web en otros idiomas que el inglés no solo es debido al hecho
+que hay más sitios y usuarios en países no anglófonos, sino también al
+hecho que empresas y organismos localizan más sus sitios web y a que se
+utiliza más la traducción automática para ofrecer sitios desde o hacia
+otros idiomas». La localización es la traducción y la adaptación de un
+sitio en varios idiomas, para varios países o varias comunidades
+lingüísticas.
+
+Randy Hobler explica también que, «como el internet no tiene fronteras
+nacionales, los cibernautas se organizan según otros criterios propios
+de este medio de comunicación. En términos de plurilingüismo, existen
+comunidades virtuales, por ejemplo lo que suelo llamar las “naciones de
+los idiomas”, que son los cibernautas que comparten la misma lengua
+materna, cualquiera que sea su entorno geográfico. Así pues, la nación
+de habla hispana no abarca solo a los cibernautas de España y de
+Latinoamérica, sino también a todos los hispanohablantes que viven en
+los Estados Unidos o en Marruecos».
+
+En el verano de 1999, 50% de los usuarios viven fuera de los Estados
+Unidos. En el verano de 2000, el número de usuarios que no son de habla
+inglesa alcanza también 50%. Según Global Reach, este porcentaje se
+eleva a 52,5% en el verano de 2001, a 57% en diciembre de 2001, a 59,8%
+en abril de 2002, a 64,4% en septiembre de 2003 (de los cuales 34,9%
+son europeos de habla no inglesa y 29,4% son asiáticos) y a 64,2% en
+marzo de 2004 (de los cuales 37,9% son europeos de habla no inglesa y
+33% son asiáticos).
+
+
+
+1997 > UNA LISTA DE LOS IDIOMAS EUROPEOS MINORITARIOS
+
+
+[Resumen]
+Caoimhín Ó Donnaíle es profesor de informática en el Instituto Sabhal
+Mòr Ostaig, en la isla de Skye (Escocia). Imparte sus clases en gaélico
+escocés. También es el webmaster del sitio web de dicho instituto, un
+sitio trilingüe (en gaélico escocés, en gaélico irlandés y en inglés)
+que resulta ser la principal fuente de información del mundo entero
+sobre el gaélico escocés. En este sitio mantiene al día la página web
+European Minority Languages (Idiomas europeos minoritarios), una lista
+trilingüe de los idiomas europeos minoritarios, con una clasificación
+de estos por orden alfabético y por familia lingüística. Según Caoimhín,
+entrevistado en agosto de 1998, «el internet puede ayudar mucho a los
+idiomas minoritarios. Esto no se hará solo, sino que se llevará a cabo
+a condición de que la gente quiera defender su idioma».
+
+***
+
+Caoimhín Ó Donnaíle es profesor de informática en el Instituto Sabhal
+Mòr Ostaig, en la isla de Skye (Escocia). Imparte sus clases en gaélico
+escocés. También es el webmaster del sitio web del instituto, un sitio
+trilingüe (en gaélico escocés, en gaélico irlandés y en inglés) que
+resulta ser la principal fuente de información del mundo sobre el
+gaélico escocés. En este sitio mantiene al día la página web European
+Minority Languages, una lista trilingüe de los idiomas europeos
+minoritarios, con una clasificación de estos por orden alfabético y por
+familia lingüística.
+
+En agosto de 1998, Caoimhín destaca cuatro puntos importantes para un
+internet multilingüe: «(a) El internet ha contribuido y contribuirá al
+desarrollo rápido del inglés como lengua global. (b) El internet
+también puede ayudar mucho a los idiomas minoritarios. Esto no se hará
+solo, sino que se llevará a cabo a condición de que la gente quiera
+defender su idioma. (c) La web es muy útil para dispensar cursos de
+lengua y la demanda es grande. (d) La norma Unicode (ISO 10646) para
+los mapas de caracteres es muy importante y va a favorecer mucho el
+multilingüismo en la web».
+
+¿Cuál es la situación para el gaélico? Caoimhín escribe en mayo de 2001:
+«Nuestros estudiantes utilizan un corrector ortográfico en gaélico y
+una base terminológica en línea también en gaélico. (...) Ahora es
+posible escuchar la radio en gaélico (escocés e irlandés) continuamente
+en el internet, en cualquier lugar del mundo. Uno de los logros más
+importantes ha sido la traducción al gaélico del navegador Opera. Es la
+primera vez que un software tan voluminoso está disponible en gaélico».
+
+¿Y para los idiomas en peligro? «El internet tiende a acelerar las
+cosas en ambas direcciones. Si la gente no se preocupa por preservar
+estos idiomas, el internet y la globalización que lo acompaña
+acelerarán considerablemente su desaparición. Pero si la gente se
+preocupa verdaderamente por preservarlos, el internet constituirá una
+ayuda irremplazable».
+
+
+
+1997 > UNA BASE DE DATOS TERMINOLÓGICA EUROPEA
+
+
+[Resumen]
+La base de datos terminológica Eurodicautom —de acceso libre en la web
+desde 1997— está administrada por el Servicio de Traducción de la
+Comisión Europea. Esta base de datos multilingüe de términos económicos,
+científicos, técnicos y jurídicos permite combinar entre sí las 11
+lenguas oficiales de la Unión Europea (alemán, danés, español,
+finlandés, francés, griego, holandés, inglés, italiano, portugués y
+sueco) además del latín, tiene una media 120.000 visitas al día en 2003.
+A finales de 2003, Eurodicautom anuncia su integración a una base de
+datos más amplia, fusionando el contenido de todas las bases de datos
+de las instituciones europeas, la cual se podrá consultar en una
+veintena de idiomas. Esta nueva base, IATE (InterActive Terminology for
+Europe), se lanza para su uso interno en las instituciones europeas en
+la primavera de 2004 y en acceso libre en la web en junio de 2007.
+
+***
+
+Eurodicautom es una base de datos terminológica multilingüe de términos
+económicos, científicos, técnicos y jurídicos que permite combinar
+entre sí las 11 lenguas oficiales de la Unión Europea y el latín.
+
+Eurodicautom está administrado por el Servicio de Traducción de la
+Comisión Europea. Originalmente concebida para uso interno de los
+traductores, la base de datos está en la web en 1997 con acceso libre
+para los funcionarios de la Unión Europa y los profesionales de la
+lengua del mundo entero. Eurodicautom está disponible en las 11 lenguas
+oficiales de aquel entonces de la Unión Europea (alemán, danés, español,
+finlandés, francés, griego, holandés, inglés, italiano, portugués y
+sueco) además del latín, en respuesta a las necesidades de los países
+miembros.
+
+En 1999 se idea el proyecto de una base de datos nueva fusionando el
+contenido de todas las bases de las instituciones europeas, con el fin
+de mejorar la cooperación interinstitucional. Además de la Comisión
+Europea, los socios del proyecto son el Parlamento Europeo, el Consejo
+de la Unión Europea, el Tribunal de Justicia de las Comunidades
+Europeas, el Tribunal de Cuentas Europeo, el Comité de las Regiones, el
+Banco Europeo de Inversiones, el Banco Central Europeo y el Centro de
+Traducción de los Órganos de la Unión Europea.
+
+Con 120.000 visitas al día, Eurodicautom anuncia a finales de 2003 su
+integración en una base de datos más amplia que ya no solo incluiría 12
+sino una veintena de idiomas debido a la ampliación de la Unión Europea
+planificada para el año siguiente (con 25 países miembros en mayo de
+2004 y 27 países miembros en enero de 2007).
+
+La nueva base de datos terminológica, IATE (InterActive Terminology for
+Europe – Terminología InterActiva para Europa), se lanza en la
+primavera de 2004 para uso interno de las instituciones europeas y en
+marzo de 2007 en acceso libre en la web, con 1,4 millones de términos
+en los 23 idiomas oficiales de la Unión Europea (alemán, búlgaro, checo,
+danés, eslovaco, esloveno, español, estonio, finlandés, francés, griego,
+húngaro, inglés, irlandés, italiano, letón, lituano, maltés, neerlandés,
+polaco, portugués, rumano y sueco) además del latín.
+
+La base de datos IATE es gestionada por el Centro de Traducción de los
+Órganos de la Unión Europea para los participantes en el proyecto. El
+folleto de IATE, también disponible en los 23 idiomas oficiales,
+explica que «los términos son introducidos en la base de datos por
+terminólogos y traductores de la UE sobre la base de información
+procedente de traductores, administradores, juristas-lingüistas,
+expertos y otras fuentes fiables». Según el mismo folleto, IATE incluye
+8,4 millones de términos en 2010, incluidas 540.000 abreviaturas y
+130.000 frases.
+
+
+
+1997 > BABEL FISH: UN SOFTWARE DE TRADUCCIÓN GRATUITO
+
+
+[Resumen]
+En diciembre de 1997, el buscador AltaVista lanza Babel Fish; el primer
+servicio gratuito de traducción automática de la web —traducción del
+inglés a cinco idiomas (alemán, español, francés, italiano y portugués)
+y viceversa—, con la página original y la traducción que aparecen una
+al lado de la otra en la pantalla. También llamado AltaVista
+Translation, Babel Fish es la obra de Systran, una empresa pionera en
+el procesamiento automático de las lenguas. El software se alimenta con
+diccionarios multilingües de dos millones y medio de términos. Aunque
+tenga sus límites, con unas traducciones bastante acertadas, este
+servicio se hace muy popular inmediatamente entre los 12 millones de
+usuarios del internet, entre los cuales se observa un creciente número
+de usuarios que no son de habla inglesa, y contribuye mucho de esta
+manera al plurilingüismo de la red.
+
+***
+
+En diciembre de 1997, el buscador AltaVista lanza Babel Fish, también
+llamado AltaVista Translation; el primer servicio gratuito de
+traducción automática de la web, del inglés a otros cinco idiomas, y
+viceversa.
+
+En esta fecha, el directorio web de Yahoo! todavía propone una interfaz
+en siete idiomas (inglés, alemán, coreano, francés, japonés, noruego y
+sueco), con una clasificación en 63 grandes categorías más precisas que
+las listas completamente automatizadas de AltaVista. Cuando una
+búsqueda no produce resultados en Yahoo!, automáticamente va a
+AltaVista y viceversa.
+
+Babel Fish puede traducir una página web del inglés a otros cinco
+idiomas (alemán, español, francés, italiano y portugués) y viceversa,
+apareciendo la página original y la traducción una al lado de la otra
+en la pantalla. También te permite traducir un texto corto realizando
+un «copiar y pegar». Aunque tenga sus límites, con traducciones
+bastante acertadas, este servicio se hace de inmediato muy popular
+entre los 12 millones de usuarios del internet, entre los cuales se
+observa un creciente número de usuarios que no son de habla inglesa, y
+contribuye así mucho al plurilingüismo de la red.
+
+Babel Fish es la obra de Systran, una empresa pionera en el
+procesamiento automático de las lenguas. El software se alimenta de
+diccionarios multilingües con dos millones y medio de términos. Según
+el sitio web de Systran, se trata de «un software de traducción
+automática que traduce de una lengua natural a otra. La traducción
+automática tiene en cuenta la estructura gramatical de cada lengua y
+utiliza reglas para transferir la estructura gramatical de la lengua de
+origen (texto a traducir) a la lengua meta (texto traducido). La
+traducción automática no sustituye ni está destinada a sustituir al
+traductor humano».
+
+El sitio web de la Asociación Europea de Traducción Automática (EAMT:
+European Association for Machine Translation) propone la definición
+siguiente: «La traducción automática consiste en usar un ordenador para
+traducir textos de una lengua natural a otra. Fue una de las primeras
+áreas de investigación en la informática. Resultó que este objetivo era
+difícil de lograr. Sin embargo, existen hoy en día unos cuantos
+sistemas que producen resultados cuya calidad —aunque no sea perfecta—
+es suficientemente útil para ciertas aplicaciones específicas, en
+general en el campo de la documentación técnica. Además, los programas
+de traducción, destinados esencialmente a ayudar al traductor humano a
+generar traducciones, gozan de una creciente popularidad entre los
+organismos de traducción profesionales».
+
+Otros software de traducción automática son desarrollados por Alis
+Technologies, Lernout & Hauspie, Globalink y Softissimo, con versiones
+de pago y/o gratuitas disponibles en la web. En cuanto a Babel Fish, se
+muda al sitio web de Yahoo! en mayo de 2008.
+
+
+
+1997 > LAS HERRAMIENTAS DE LA EMPRESA DE TRADUCCIÓN LOGOS
+
+
+[Resumen]
+En diciembre de 1997, la empresa de traducción Logos, situada en Módena
+(Italia), con servicios en 35 idiomas, decide colgar en la web —en
+acceso libre— sus herramientas profesionales para que les sean útiles a
+todo el mundo. El Logos Dictionary (Diccionario Logos) es un
+diccionario multilingüe de siete millones y medio de términos (en
+septiembre de 1998). La Wordtheque es una base de datos multilingüe de
+328 millones de términos, compilada a partir de miles de traducciones,
+incluyendo novelas y documentos técnicos, con posibles búsquedas por
+idioma, término, autor o título. Linguistic Resources (Recursos
+Lingüísticos) ofrece un punto de acceso único a 553 glosarios. El
+Universal Conjugator (Conjugador Universal) proporciona tablas de
+conjugación en 17 idiomas. En 2007, la Wordtheque, rebautizada Logos
+Library (Biblioteca Logos), contiene 710 millones de términos.
+Linguistic Resources (que no cambia su nombre) proporciona un punto de
+acceso único a 1.215 glosarios. El Universal Conjugador, rebautizado
+Conjugation of Verbs (Conjugación de Verbos), ofrece tablas de
+conjugación en 36 idiomas.
+
+***
+
+A finales de 1997, la empresa de traducción Logos decide colgar en la
+web —en acceso libre— sus herramientas profesionales para que les sean
+útiles a todo el mundo.
+
+Logos es creado en 1979 por Rodrigo Vergara en Módena (Italia). Ofrece
+servicios de traducción en 35 idiomas en 1997, con 300 traductores que
+trabajan en la sede y una red mundial de 2.500 traductores externos. La
+producción media es de 200 textos al día.
+
+
+El Logos Dictionary (Diccionario Logos) es un diccionario multilingüe
+de siete millones y medio de términos (en septiembre de 1998). La
+Wordtheque es una base de datos multilingüe de 328 millones de términos,
+compilada a partir de miles de traducciones, incluyendo novelas y
+documentos técnicos, con posibles búsquedas por idioma, término, autor
+o título. Linguistic Resources (Recursos Lingüísticos) ofrece un punto
+de acceso único a 553 glosarios. El Universal Conjugator (Conjugador
+Universal) proporciona tablas de conjugación en 17 idiomas.
+
+En una entrevista citada en «Les mots pour le dire» (La palabras para
+decirlo), un artículo del diario francés «Le Monde» del 7 de diciembre
+de 1997, Rodrigo Vergara relata: «Queríamos que todos nuestros
+traductores tuvieran acceso a las mismas herramientas de traducción.
+Entonces las hemos puesto a su disposición en el internet, y ya que
+estábamos lanzados, abrimos el sitio web al público. Esto nos hizo muy
+populares y nos ha hecho mucha publicidad. Esto también ha atraído a
+muchos clientes a nuestra empresa y nos ha permitido expandir nuestra
+red de traductores a través de contactos establecidos debido a esta
+iniciativa».
+
+Annie Kahn, la autora del artículo, explica: «El sitio de Logos es
+mucho más que un diccionario o un directorio de enlaces hacia otros
+diccionarios en línea. Uno de los pilares del sistema es un programa de
+búsqueda documental en un corpus de textos literarios disponibles
+gratuitamente en el internet. Cuando uno busca la definición o la
+traducción de un término, por ejemplo “didactique” [didáctico],
+encuentra no solo el resultado de la búsqueda, sino también una frase
+de una obra literaria que usa esta palabra (en este caso, un ensayo de
+Voltaire). Un simple clic permite tener acceso al texto íntegro de la
+obra o encargar el libro a través de nuestra cooperación con Amazon.com,
+la librería en línea más conocida. Lo mismo sucede con las traducciones
+extranjeras. Si no se encuentra ningún texto que contenga este término,
+el sistema actúa como un buscador hacia otros sitios usando el mismo.
+Para algunos términos, se propone escuchar la pronunciación. Si le
+falta una traducción, el sistema recurre a los usuarios del sitio. Cada
+uno puede contribuir a la base de datos. Después los traductores
+profesionales validan o no las traducciones propuestas».
+
+Diez años después, en 2007, la Wordtheque, rebautizada Logos Library
+(Biblioteca Logos), contiene 710 millones de términos. Linguistic
+Resources (que no cambia su nombre) proporciona un punto de acceso
+único a 1.215 glosarios. El Conjugador Universal, rebautizado
+Conjugation of Verbs (Conjugación de Verbos), ofrece tablas de
+conjugación en 36 idiomas.
+
+
+
+1997 > BASES DE DATOS TERMINOLÓGICAS ESPECIALIZADAS
+
+
+[Resumen]
+En 1997 y 1998, varias organizaciones internacionales ponen sus bases
+de datos terminológicas en acceso libre en la web, para que sean útiles
+para todo el mundo, por ejemplo: la base de datos ILOTERM, de la
+Organización Internacional del Trabajo (OIT); la base de datos TERMITE,
+de la Unión Internacional de las Telecomunicaciones (UIT); y la base de
+datos WHOTERM, de la Organización Mundial de la Salud (OMS). WHOTERM —
+acrónimo de «WHO Terminology Information System» (Sistema de
+Información Terminológica de la OMS)— es una base de datos
+terminológica trilingüe (en inglés, español y francés) cuyo objetivo es
+«mejorar el rigor y la coherencia de los textos redactados o traducidos.
+También permite a todas las personas que trabajan en los programas
+técnicos de la OMS desarrollar nuevas terminologías, promover su
+normalización y garantizar su difusión».
+
+***
+
+En 1997 y 1998, varias organizaciones internacionales ponen sus bases
+de datos terminológicas en acceso libre en la web, para que sean útiles
+para todo el mundo.
+
+Es el caso, por ejemplo, de la base de datos ILOTERM, de la
+Organización Internacional del Trabajo (OIT); de la base de datos
+TERMITE, de la Unión Internacional de las Telecomunicaciones (UIT); y
+de la base de datos WHOTERM, de la Organización Mundial de la Salud
+(OMS).
+
+ILOTERM es una base terminológica cuatrilingüe (inglés, francés,
+español y alemán) administrada por la Unidad de Terminología y de
+Referencia del Servicio de Documentos Oficiales (OFFDOC) de la
+Organización Internacional del Trabajo (OIT). Según su sitio web, «su
+objetivo principal es proporcionar soluciones, de acuerdo con el uso
+común, a los problemas terminológicos en el campo de los temas
+laborales y sociales. Los términos aparecen en inglés con sus
+equivalentes en francés, español y/o alemán. La base de datos también
+incluye (en uno a cuatro idiomas) artículos sobre la estructura y los
+programas de la OIT, los nombres oficiales de instituciones
+internacionales, organismos nacionales y organizaciones nacionales de
+empleadores y trabajadores, y los títulos de las reuniones y de los
+instrumentos internacionales».
+
+TERMITE —acrónimo de «ITU Telecommunication Terminology Database» (Base
+de Datos Terminológica de la UIT sobre las Telecomunicaciones)— es
+también cuatrilingüe (inglés, español, francés y ruso) y está
+administrada por la Sección de Traducción de la Unión Internacional de
+Telecomunicaciones (UIT). Según su sitio web, «TERMITE incluye todos
+los términos que aparecen en todos los glosarios impresos de la UIT
+desde 1980 y los términos más recientes en relación con las diferentes
+actividades de la Unión (en total unos 59.000 términos). Normalmente,
+los colaboradores implicados en la mejora y la actualización de esta
+base de datos son traductores o editores técnicos. TERMITE es sobre
+todo usada por traductores internos, pero también por usuarios externos
+que trabajan en el campo de las telecomunicaciones».
+
+WHOTERM —acrónimo de «WHO Terminology Information System» (Sistema de
+Información Terminológica de la OMS)— es la base de datos terminológica
+trilingüe (inglés, español y francés) de la Organización Mundial de la
+Salud (OMS), cuyo objetivo es el de «mejorar el rigor y la coherencia
+de los textos redactados o traducidos. También permite a todas las
+personas que trabajan en los programas técnicos de la OMS desarrollar
+nuevas terminologías, promover su normalización y garantizar su
+difusión».
+
+
+
+1998 > LA NECESIDAD DE UNA «DEMOCRACIA LINGÜÍSTICA»
+
+
+[Resumen]
+Brian King, director del WorldWide Language Institute (WWLI),
+desarrolla el concepto de «democracia lingüística» en septiembre de
+1998: «En un informe de la UNESCO a principios de los 1950, la
+educación en lengua materna era considerada como un derecho fundamental
+para todos los niños del mundo. En la era de la información, esto
+equivaldría a darles la oportunidad de navegar en la web en su lengua
+materna. Si el internet quiere convertirse realmente en la red global
+que pretende ser, todos los usuarios deberían tener acceso a él sin el
+problema del idioma. Considerar el internet como propiedad exclusiva de
+la gente que, por accidente histórico, necesidad práctica o privilegio
+político, habla inglés, es injusto para la gente que no habla este
+idioma».
+
+***
+
+Brian King, director del WorldWide Language Institute (WWLI),
+desarrolla el concepto de «democracia lingüística» en septiembre de
+1998.
+
+Explica en una entrevista por correo electrónico: «En un informe de la
+UNESCO a principios de los 1950, la educación en lengua materna era
+considerada como un derecho fundamental para todos los niños del mundo.
+En la era de la información, esto equivaldría a darles la oportunidad
+de navegar en la web en su lengua materna. Si el internet quiere
+convertirse realmente en la red global que pretende ser, todos los
+usuarios deberían tener acceso a él sin el problema del idioma.
+Considerar el internet como propiedad exclusiva de la gente que, por
+accidente histórico, necesidad práctica o privilegio político, habla
+inglés, es injusto para la gente que no habla este idioma».
+
+Para él, un factor del desarrollo de una red multilingüe es la
+«competencia entre las grandes empresas para conseguir una parte del
+mercado mundial (…) en la exportación de las tecnologías de la
+información en el mundo entero. El inglés ya no es necesariamente la
+lengua del usuario. Ahora ya no hay realmente una lengua indispensable,
+sino idiomas propios de los usuarios. Una cosa es cierta: ya no es
+necesario entender el inglés para utilizar un ordenador, igual que ya
+no es necesario tener un diploma en informática. Las exigencias de los
+usuarios que no son de lengua inglesa —y el esfuerzo de las empresas de
+tecnología que compiten para conseguir mercados mundiales— han hecho de
+la localización un sector de rápida expansión en el desarrollo de los
+programas y del material informático».
+
+Otro factor es el desarrollo del comercio electrónico. «Aunque una web
+multilingüe sea deseable por motivos morales y éticos, tal ideal no es
+suficiente para convertirlo en una realidad a gran escala. Así como el
+usuario que no habla inglés ahora puede tener acceso a la tecnología en
+su propio idioma, el impacto del comercio electrónico puede ser una
+fuerza importante para que el multilingüismo acabe siendo la vía más
+natural hacia al ciberespacio. Los vendedores de productos y servicios
+en el mercado virtual mundial en el que se está convirtiendo el
+internet deben prepararse para tratar con un mundo virtual tan
+multilingüe como el mundo físico. Si quieren tener éxito, ¡tienen que
+asegurarse de que están hablando el idioma de sus clientes!»
+
+Un ejemplo es el trabajo de Bill Dunlap, que funda en 1985 Euro-
+Marketing Associates, una firma consultora en marketing con sede en
+París y en San Francisco. En 1995, reestructura la empresa en un
+servicio de asesoramiento en línea llamado Global Reach, con el
+objetivo de promover en Europa los sitios web de compañías
+estadounidenses para atraer más visitantes y por lo tanto aumentar sus
+ventas. Este método incluye la localización de un sitio (es decir, la
+traducción de un sitio web en varios idiomas), la promoción activa de
+los sitios traducidos y, por último, el aumento del tráfico local a
+través de banderas publicitarias.
+
+Bill Dunlap escribe en diciembre de 1998: «Hay muy pocas personas en
+los Estados Unidos que estén interesadas en comunicarse en varios
+idiomas. Mayoritariamente, siguen pensando que el mundo entero habla
+inglés. Al contrario, en Europa, los países son pequeños, y por lo
+tanto, desde hace siglos, un punto de vista internacional ha sido
+necesario», de ahí la importancia de su trabajo en los dos continentes.
+
+Steven Krauwer, coordinador de ELSNET (European Network of Excellence
+in Human Language Technologies – Red Europea de Excelencia en las
+Tecnologías para las Lenguas Humanas), explica en septiembre de 1998:
+«Como ciudadano europeo, me parece que el multilingüismo en la web es
+absolutamente esencial. En mi opinión, no es una situación sana a largo
+plazo que solo la gente que entiende el inglés pueda aprovechar
+plenamente los beneficios de la web. Como científico (que se ha
+especializado en la traducción automática), veo el multilingüismo como
+un gran reto: garantizar que la información en la web sea accesible
+para todos, independientemente de las diferencias lingüísticas».
+
+Steven sugiere varias soluciones prácticas: «(a) en lo que se refiere a
+los autores: una mejor formación de los autores de los sitios web para
+explotar las posibles combinaciones que permitan mejorar la
+comunicación superando la barrera del idioma (y no solo de manera
+superficial); (b) en lo que se refiere a los usuarios: programas de
+traducción del tipo AltaVista Translation [Babel Fish], cuya calidad no
+es excepcional, pero que tiene el mérito de existir; (c) en lo que se
+refiere a los software de navegación: software de traducción integrados,
+especialmente para los idiomas no dominantes, y diccionarios integrados
+más rápidos para consultar».
+
+Para llegar a un amplio público, necesitamos sitios web bilingües o
+trilingües, si no plurilingües, al adaptar su contenido a un público
+específico, ya sea para un país o para una comunidad lingüística. De
+ahí la necesidad de la internacionalización y de la localización de los
+sitios, que se hace esencial en los años siguientes, con empresas y
+organizaciones anglófonas que proponen sus sitios tanto en inglés como
+en otros idiomas, y empresas y organizaciones no anglófonas que
+proponen sus sitios tanto en su(s) propia(s) lengua(s) como en inglés.
+
+
+
+1999 > LOS DICCIONARIOS BILINGÜES DE WORDREFERENCE.COM
+
+
+[Resumen]
+Michael Kellogg crea el sitio web WordReference.com en 1999. Escribe
+más tarde en este: «Empezó este sitio en 1999 como un esfuerzo para
+proporcionar diccionarios bilingües gratuitos en línea y herramientas
+para todos. Desde entonces el sitio ha ido creciendo poco a poco hasta
+convertirse en uno de los sitios de diccionarios en línea más usados, y
+en el primer diccionario para los pares de idiomas inglés–español,
+inglés–francés, inglés–italiano, español–francés y español–portugués.
+Este sitio siempre figura entre los 500 más visitados de la red».
+WordReference.com también proporciona foros lingüísticos muy activos y
+diccionarios para dispositivos móviles.
+
+***
+
+Michael Kellogg crea en 1999 el sitio web WordReference.com para
+ofrecer diccionarios bilingües gratuitos en línea.
+
+Michael explica más tarde en su sitio web: «El internet ha sido una
+herramienta increíble en los últimos años para unir a la gente del
+mundo entero. Sin embargo, el idioma sigue siendo uno de los mayores
+obstáculos. El contenido del internet está en gran parte en inglés, y
+para muchos usuarios que leen esas páginas web, el inglés es un segundo
+idioma y no su lengua materna. Mi propia experiencia con el idioma
+español me ha enseñado que muchos usuarios entienden mucho de lo que
+leen, pero no todo.
+
+Este sitio partió en 1999 como un esfuerzo para proporcionar
+diccionarios bilingües gratuitos en línea y herramientas para todos en
+el internet. Entonces el sitio ha crecido poco a poco hasta convertirse
+en uno de los diccionarios más usados en línea, y en el primer
+diccionario para los pares de idiomas inglés–español, inglés–francés,
+inglés–italiano, español–francés y español–portugués. Este sitio
+siempre figura entre los 500 más visitados de la red. Hoy me complace
+seguir trabajando para mejorar estos diccionarios, sus herramientas y
+los foros de lenguas».
+
+En 2010, además de estos diccionarios, WordReference.com propone para
+la lengua española un diccionario monolingüe, un diccionario de
+sinónimos, un diccionario español–francés y otro español–portugués.
+Para la lengua inglesa, el sitio ofrece un diccionario monolingüe y
+diccionarios del inglés a otros idiomas (árabe, checo, chino, coreano,
+griego, japonés, polaco, portugués, rumano y turco) y viceversa. Tablas
+de conjugación están disponibles para el español, el francés y el
+italiano. Hay un diccionario monolingüe para el alemán y el ruso.
+
+WordReference Mini es una versión del sitio en miniatura para su
+integración en otros sitios, por ejemplo en sitios de aprendizaje de
+idiomas. Una versión para dispositivos móviles está disponible para
+varios diccionarios, del inglés al español, al francés y al italiano y
+viceversa, con más pares de idiomas en el futuro.
+
+
+
+1999 > EL INTERNET, UNA HERRAMIENTA PARA LOS TRADUCTORES
+
+
+[Resumen]
+El internet se convierte en una herramienta importante para los
+traductores y en «una fuente indispensable e inagotable de información»,
+explica Marcel Grangier, el responsable de la sección francesa de los
+servicios lingüísticos centrales de la Administración Federal Suiza. En
+enero de 1999, escribe: «Trabajar sin el internet se ha hecho
+simplemente imposible. Más allá de todas las herramientas utilizadas
+(correo electrónico, consulta de la prensa electrónica, actividades de
+servicios en beneficio de los traductores profesionales), el internet
+es para nosotros una fuente indispensable e inagotable de información
+en lo que yo llamaría el “sector informal” de la red. Para ilustrar
+este punto, recordemos que cuando ningún sitio con información
+organizada nos puede dar una respuesta a un problema de traducción, los
+buscadores pueden —en la mayoría de los casos— encontrar el eslabón
+perdido en algún lugar de la red». El servicio de Marcel Grangier
+gestiona, por ejemplo, el directorio Dictionnaires électroniques
+(Diccionarios electrónicos), un directorio muy completo de los
+diccionarios disponibles en línea.
+
+***
+
+El internet se convierte en una herramienta importante para los
+traductores y en «una fuente indispensable e inagotable de información»,
+explica Marcel Grangier, responsable de la sección francesa de los
+servicios lingüísticos centrales de la Administración Federal Suiza.
+
+Marcel Grangier escribe en enero de 1999: «Trabajar sin el internet se
+ha hecho simplemente imposible. Más allá de todas las herramientas
+utilizadas (correo electrónico, consulta de la prensa electrónica,
+actividades de servicios en beneficio de los traductores profesionales),
+el internet es para nosotros una fuente indispensable e inagotable de
+información en lo que yo llamaría el “sector informal” de la red. Para
+ilustrar este punto, recordemos que cuando ningún sitio con información
+organizada nos puede dar una respuesta a un problema de traducción, los
+buscadores pueden —en la mayoría de los casos— encontrar el eslabón
+perdido en algún lugar de la red».
+
+En general, «el multilingüismo en el internet puede ser considerado
+como una fatalidad feliz y sobre todo irreversible. En esta perspectiva,
+tenemos que cavar la tumba de los aguafiestas cuyo único discurso
+consiste en quejarse de la supremacía del inglés. Esta supremacía no es
+nefasta en sí, en la medida en que resulta de realidades esencialmente
+estadísticas (más PC por vecino, más usuarios de este idioma, etc.). La
+respuesta adecuada no es “luchar contra el inglés” y tampoco basta con
+lamentarse, sino que hace falta multiplicar los sitios web en otros
+idiomas. Cabe añadir que en calidad de servicio de traducción, también
+preconizamos el plurilingüismo en los mismos sitios web. La
+multiplicación de los idiomas presentes en el internet es inevitable, y
+solo puede hacerse en beneficio de los intercambios multiculturales.
+Para que esos intercambios tengan lugar en un ambiente óptimo, ya
+conviene desarrollar herramientas que mejoren su compatibilidad. La
+gestión completa de los diacríticos solo es un ejemplo de lo que aún
+puede llevarse a cabo».
+
+El servicio de Marcel Grangier gestiona, por ejemplo, el directorio
+Dictionnaires électroniques (Diccionarios electrónicos), que es un
+directorio muy completo de diccionarios en línea —incluyendo
+diccionarios monolingües (alemán, español, francés, inglés e italiano),
+bilingües y multilingües—, así como de directorios de abreviaturas y
+acrónimos, y de repertorios geográficos incluyendo atlas.
+
+Marcel Grangier explica en enero de 2000: «Los “Dictionnaires
+électroniques” son solo una parte de nuestro sitio web. Otras partes
+están relacionadas con la administración, el derecho, la lengua
+francesa, etc. Proponemos también mucha información general. (…)
+Diseñado en primer lugar como un servicio intranet, nuestro sitio está
+destinado principalmente a los traductores suizos, que trabajan a
+menudo de la misma manera que los traductores de la Administración
+Federal. Pero ciertas partes de nuestro sitio pueden ser útiles a
+cualquier otro traductor en cualquier lugar».
+
+Unos años después, Dictionnaires électroniques se transfiere al nuevo
+sitio web de la Conferencia de Servicios de Traducción de los Estados
+Europeos (COTSOES: Conference of Translation Services of European
+States).
+
+Maria Victoria Marinetti, traductora de nacionalidad mexicana, es
+doctora en ingeniería. Relata en agosto de 1999: «Tengo acceso a una
+gran cantidad de información a nivel mundial, por lo tanto es muy
+interesante. Tengo también la oportunidad de poder transmitir y recibir
+archivos, con un constante “va y viene” de información. Por medio del
+internet puedo hacer traducciones de cualquier tipo, del francés al
+español y viceversa, así como también enviar y recibir correcciones al
+respecto. Dentro del área técnica o química, propongo ayuda y consejos
+técnicos, así como información para la exportación de equipos de alta
+tecnología hacia México u otro país de América Latina».
+
+Respecto a los idiomas en la red, «es muy importante poder comunicar a
+través del internet en diferentes lenguas; es más bien obligatorio. Ya
+que la información la tenemos a nivel mundial, ¿por qué no podríamos
+tenerla en el idioma que hablamos o que deseamos? ¿Acaso no es
+contradictorio?»
+
+En 2000, el internet es multilingüe, con la mitad de los usuarios que
+no son de habla materna inglesa, aunque la barrera del idioma está
+lejos de haber desaparecido. Si bien todos los idiomas están presentes
+en la web, olvidamos a veces que muchos usuarios son monolingües, y que
+incluso los políglotas no pueden conocer todos los idiomas. Quedan por
+construir puentes entre las comunidades lingüísticas para favorecer el
+flujo de los textos de un idioma a otro, con software de traducción de
+mejor calidad, y tener en cuenta cada lengua, y no solo las lenguas
+dominantes.
+
+
+
+1999 > LA NECESIDAD DE UNA INFORMACIÓN BILINGÜE
+
+
+[Resumen]
+En la web, siendo esta un medio a vocación mundial, necesitamos más
+información bilingüe, como explica Henk Slettenhaar, profesor en
+tecnologías de la comunicación en la Webster University de Ginebra
+(Suiza). Henk insiste en la necesidad de sitios de información
+bilingües, en su idioma original y en inglés. Escribe, en 1999: «Las
+comunidades locales presentes en la web deberían utilizar antes que
+nada su propio idioma para difundir información. Si desean presentar
+esta información a la comunidad mundial, esta información deberá estar
+disponible también en inglés. Pienso que los sitios web bilingües son
+verdaderamente necesarios. (...) A mi parecer, existen dos tipos de
+búsquedas en la web. En el primer caso, se trata de una búsqueda global
+en el campo de los negocios y de la información. El segundo tipo de
+búsqueda concierne información local de todo tipo de lugares remotos».
+
+***
+
+En la web, siendo esta un medio a vocación mundial, necesitamos más
+información bilingüe, como lo explica Henk Slettenhaar, profesor en
+tecnologías de la comunicación en la Webster University de Ginebra
+(Suiza).
+
+Henk insiste en la necesidad de sitios web bilingües, en su idioma
+original y en inglés. Este escribe, en diciembre de 1998: «Las
+comunidades locales presentes en la web deberían utilizar antes que
+nada su propio idioma para difundir información. Si desean presentar
+esta información a la comunidad mundial, esta información deberá estar
+disponible también en inglés. Pienso que los sitios web bilingües son
+verdaderamente necesarios. (...) Pero estoy encantado de que ahora
+existan tantos documentos disponibles en su lengua original. Prefiero —
+y de lejos— leer el original con cierta dificultad antes que una
+traducción mediocre».
+
+Henk añade, en agosto de 1999: «A mi parecer, existen dos tipos de
+búsquedas en la web. En el primer caso, se trata de una búsqueda global
+en el campo de los negocios y de la información. Para llevarla a cabo,
+el primer idioma es el inglés, con versiones locales si es necesario.
+El segundo tipo de búsqueda concierne información local de todo tipo de
+lugares remotos. Si la información se dirige a una etnia o a un grupo
+lingüístico, debe aparecer primero en el idioma de dicha etnia o de
+dicho grupo, con quizás un resumen en inglés».
+
+Guy Antoine crea el sitio web Windows on Haiti, en abril de 1998, para
+promover la cultura haitiana y su idioma. También cree en la necesidad
+del inglés como lengua común. En noviembre de 1999, escribe: «Por
+razones prácticas, el inglés seguirá dominando la red. No pienso que
+sea una cosa mala, a pesar de los sentimientos regionales que se oponen
+a eso, porque necesitamos una lengua común que permita favorecer la
+comunicación a nivel internacional. (…) El internet puede reunir
+información útil para las lenguas minoritarias, que de otra manera
+correrían el riesgo de desaparecer sin dejar rastro. Además, en mi
+opinión, el internet incita a la gente a aprender las lenguas asociadas
+a las culturas que les interesan. Estas personas se dan cuenta
+rápidamente que la lengua de un pueblo constituye un elemento
+fundamental de su cultura. (…) En Windows on Haiti, la lengua principal
+es el inglés, pero también hay un foro de discusión animado en “Kreyól”
+[criollo haitiano]. Yo proporciono también documentos sobre Haití en
+francés y en criollo antiguo colonial, y estoy dispuesto a publicar
+otros documentos en español y en otras lenguas. No propongo
+traducciones, pero el plurilingüismo es palpable en mi sitio, y me
+parece que esto no tardará en convertirse cada vez más en una norma en
+la red».
+
+Bakayoko Bourahima, bibliotecario en la Escuela Nacional Superior de
+Estadística y de Economía Aplicada (ENSEA: École Nationale Supérieure
+de Statistique et d’Économie Appliquée) de Abiyán (Costa de Marfil),
+escribe en julio de 2000: «Para nosotros, los africanos de habla
+francesa, la imposición del inglés en el internet representa para las
+masas una doble desventaja para acceder a los recursos de la red.
+Primero por culpa del problema de alfabetización, que aún dista mucho
+de estar resuelto y que el internet enfatizará mucho más; luego se
+plantea el problema del dominio de una segunda lengua extranjera y de
+su adecuación al entorno cultural. (…) A nuestros sistemas educativos
+ya les cuesta mucho trabajo optimizar sus prestaciones debido al uso
+del francés como lengua de instrucción básica, según dicen algunos
+especialistas. Por lo tanto, cada vez se evoca más la posibilidad de
+recurrir a las lenguas vernáculas para la instrucción básica, para
+“desenclavar” el colegio en África e implicarlo —de la mejor manera
+posible— en la valorización de los recursos humanos. ¿Cómo proceder? En
+mi opinión, no cabe la posibilidad para nosotros de hacer prevalecer
+cualquier clase de excepción cultural en la red, pues esto sería una
+reacción absolutamente gregaria. Entonces, es preciso que los
+diferentes bloques lingüísticos se impliquen mucho para promover su
+propio idioma en la red, sin olvidar sus especificidades internas».
+
+Bruno Didier, webmaster de la biblioteca del Instituto Pasteur en París,
+escribe en agosto de 1999: «El internet no es una propiedad ni nacional
+ni lingüística. Es un vector de cultura, y el primer soporte de la
+cultura es la lengua. Cuantas más lenguas estén representadas en toda
+su diversidad, más culturas estarán representadas en el internet. No
+pienso que tengamos que ceder a la tentación sistemática de traducir
+las páginas a una lengua más o menos universal. Los intercambios
+culturales suponen una voluntad de ponerse al alcance de la persona a
+quien queremos encontrar. Y este esfuerzo pasa por la comprensión de su
+lengua. Por supuesto, mis palabras son muy utópicas. Porque
+concretamente, mi actividad de vigilancia en la red me incita más bien
+a “echar pestes” contra algunos sitios noruegos o brasileños que no dan
+ninguna información en inglés, por más mínima que sea».
+
+Alain Bron, consultor en sistemas de información y escritor, explica en
+noviembre de 1999: «Se seguirán usando diferentes lenguas, y eso por
+mucho tiempo; tanto mejor para el derecho a la diferencia. El riesgo es
+—por supuesto— la invasión de una lengua en perjuicio de otras, y por
+lo tanto la nivelación cultural en detrimento de esas otras. Pienso que
+poco a poco van a crearse servicios en línea para paliar esta
+dificultad. Al principio, algunos traductores podrán traducir y
+comentar textos a petición de los usuarios, y sobre todo los sitios más
+frecuentados invertirán en versiones en varias lenguas, como lo hace la
+industria audiovisual».
+
+En el verano de 2000, los usuarios no anglófonos del internet alcanza
+50%. Falta diversificar los idiomas en una red en la cual 78% de las
+páginas web todavía están en inglés en el otoño de 2000.
+
+
+
+2000 > EL PORTAL YOURDICTIONARY.COM
+
+
+[Resumen]
+Robert Beard, profesor de lenguas en la Universidad Bucknell (Estados
+Unidos), crea en primer lugar, en 1995, el sitio A Web of Online
+Dictionaries (Una web de diccionarios en línea), un directorio de los
+diccionarios en línea en varios idiomas (800 diccionarios en el otoño
+de 1998), con otras secciones para diccionarios multilingües,
+diccionarios especializados de lengua inglesa, tesauros, vocabularios,
+gramáticas, glosarios y métodos de enseñanza de lenguas. La sección
+llamada Linguistic Fun (Diversión Lingüística) tiene elementos de
+lingüística para los que no son especialistas. Robert Beard cofunda
+luego, en febrero de 2000, el portal yourDictionary.com, que integra su
+sitio precedente. yourDictionary.com hace el inventario de 1.800
+diccionarios en 250 idiomas en septiembre de 2003, y de 2.500
+diccionarios en 300 idiomas en abril de 2007. Como pretende ser el
+portal de referencia para todos los idiomas, sin excepción alguna,
+también propone una sección dedicada a las lenguas en peligro de
+extinción, llamada Endangered Language Repository (Repositorio de
+idiomas amenazados).
+
+***
+
+Antes de cofundar en febrero de 2000 el portal yourDictionary.com como
+el portal de todos los idiomas, sin excepción, Robert Beard crea el
+sitio A Web of Online Dictionaries, en 1995.
+
+Robert Beard es profesor de lenguas en la Universidad Bucknell (Estados
+Unidos). A Web of Online Dictionaries (Una web de diccionarios en línea)
+es un directorio de los diccionarios en línea en varios idiomas (800
+diccionarios en el otoño de 1998), con otras secciones para
+diccionarios multilingües, diccionarios especializados de la lengua
+inglesa, tesauros, vocabularios, gramáticas, glosarios y métodos de
+enseñanza de lenguas. La sección llamada Linguistic Fun (Diversión
+lingüística) tiene elementos de lingüística para los que no son
+especialistas.
+
+Robert Beard destaca en septiembre de 1998: «Al principio se temió que
+la web representara una amenaza para el multilingüismo, dado que el
+lenguaje HTML y otros lenguajes de programación se basan en el inglés,
+y que hay más sitios web en inglés que en cualquier otro idioma. Sin
+embargo, el sitio web que administro muestra que el multilingüismo está
+muy presente y que la web puede ayudar a preservar las lenguas en
+peligro de extinción. Ahora propongo enlaces hacia diccionarios en 150
+idiomas y gramáticas en 65 idiomas. Por otro lado, la gente que
+desarrolla navegadores se interesa más por la diversidad de los idiomas
+del mundo, promoviendo así la presencia de un número aún mayor de
+sitios web en varios idiomas».
+
+Cinco años después de la creación de su primer sitio web, Robert Beard
+cofunda el portal yourDictionary.com, que integra su sitio precedente,
+y lanza este nuevo portal en febrero de 2000. Explica, en enero de 2000:
+«Tenemos muchas ideas nuevas. Planeamos trabajar con el Endangered
+Language Fund [Fondo para lenguas en peligro], en los Estados Unidos y
+en Gran Bretaña, para recaudar fondos para esta fundación, y
+publicaremos los resultados en nuestro sitio web. Tendremos grupos de
+discusión y boletines de información sobre los idiomas. Tendremos
+juegos de lengua para entretenerse y para aprender los fundamentos de
+la lingüística. La página web Linguistic Fun [Diversión lingüística] se
+convertirá en un diario en línea con fragmentos breves, interesantes e
+incluso divertidos en varios idiomas, seleccionados por expertos del
+mundo entero».
+
+yourDictionary.com pretende ser el portal de referencia para todos los
+idiomas, sin excepción alguna. También propone una sección dedicada a
+las lenguas en peligro de extinción, llamada Endangered Language
+Repository (Repositorio de idiomas amenazados). Robert Beard explica:
+«Las lenguas en peligro son esencialmente aquellas que no tienen
+tradición escrita. Solo un tercio de los 6.000 idiomas que existen en
+el mundo tienen a la vez tradición escrita y hablada. Pero no pienso
+que la web contribuya a la pérdida de la identidad de los idiomas. Al
+contrario, me da la impresión de que a largo plazo la web irá
+reforzando esta identidad. Por ejemplo, cada vez hay más indios
+americanos que contactan a lingüistas para pedirles que escriban la
+gramática de su idioma y les ayuden a elaborar diccionarios. Para ellos
+la web representa un instrumento de expresión cultural accesible y a la
+vez muy valioso».
+
+En septiembre de 2003, yourDictionary.com es un directorio de 1.800
+diccionarios en 250 idiomas y otras herramientas lingüísticas:
+vocabularios, gramáticas, glosarios, métodos de enseñanzas de lenguas,
+etc. En abril de 2007, el directorio incluye 2.500 diccionarios y
+gramáticas en 300 idiomas.
+
+Robert Beard escribió de manera profética en septiembre de 1998: «La
+web será una enciclopedia del mundo, hecha por el mundo y para el mundo.
+Ya no habrá información o conocimientos útiles que no estén disponibles,
+de manera que se eliminará la barrera principal a la comprensión
+internacional e interpersonal, y al desarrollo personal e institucional.
+Hará falta tener una imaginación más desbordante que la mía para
+predecir el efecto de este desarrollo sobre la humanidad».
+
+
+
+2000 > EL PROYECTO GUTENBERG Y LOS IDIOMAS
+
+
+[Resumen]
+El Proyecto Gutenberg es un proyecto visionario, lanzado por Michael
+Hart en julio de 1971, que pretende crear versiones electrónicas
+gratuitas de obras literarias y difundirlas por todo el mundo. En 2010,
+el Proyecto Gutenberg cuenta con más de 33.000 ebooks de alta calidad y
+decenas de miles de descargas al día. Tiene sitios web en los Estados
+Unidos, en Australia, en Europa y en Canadá, con 40 sitios espejo
+repartidos por todo el planeta. El Proyecto Gutenberg ofrece ebooks en
+su mayoría en inglés, pero el multilingüismo es una de sus prioridades
+desde finales de los años 1990. El francés es el segundo idioma del
+proyecto. Las colecciones reúnen libros en 60 idiomas —incluso en
+español— en diciembre de 2010, gracias a la labor paciente de
+Distributed Proofreaders, un sitio web creado en 2000 para compartir la
+revisión de los libros entre centenares de voluntarios de diversos
+países.
+
+***
+
+El Proyecto Gutenberg es un proyecto visionario, lanzado por Michael
+Hart en 1971, que pretende crear versiones electrónicas gratuitas de
+obras literarias y difundirlas por todo el mundo. En el siglo 15,
+Gutenberg había hecho posible para cualquier persona poder tener libros
+impresos por un precio relativamente módico. En el siglo 21, el
+Proyecto Gutenberg va a permitir a cada una disponer de una biblioteca
+digital gratuita.
+
+Michael trabaja desde Illinois (Estados Unidos), tecleando libros del
+dominio público, por ejemplo la Biblia y la obra completa de
+Shakespeare, primero él solo y luego con la ayuda de algunos
+voluntarios.
+
+Su proyecto cobra nuevo aliento con la aparición de la web en 1990. 95%
+de los usuarios del internet son de lengua materna inglesa a mediados
+de 1990; entonces, los libros digitales están en inglés en su gran
+mayoría.
+
+El Proyecto Gutenberg también inspiró otras bibliotecas digitales en
+Europa. El Projekt Runeberg es creado en Suecia en 1992 para
+digitalizar la literatura nórdica (escandinava) clásica. El Projekt
+Gutenberg-DE es creado en Alemania, en 1994, para digitalizar la
+literatura alemana clásica.
+
+El francés llegó a ser la segunda lengua del Proyecto Gutenberg, y
+siguió siéndolo en 2010. Los primeros libros en francés son seis obras
+de Stendhal y dos obras de Julio Verne, todas disponibles a principios
+de 1997. En aquella fecha, tres novelas de Julio Verne ya estaban
+disponibles en inglés desde 1994. Desde esta fecha, Julio Verne siempre
+ha sido parte de los autores más descargados.
+
+En octubre de 1997, Michael Hart anuncia su intención de aumentar la
+producción de libros en otros idiomas aparte del inglés. A principios
+de 1998, además de diez libros en francés, el catálogo incluye obras en
+alemán, español, italiano y latín. Disponible en mayo de 1999, el ebook
+#2000 es Don Quijote (1605), en castellano, su idioma original. En
+julio de 1999, Michael escribe en una entrevista por correo electrónico:
+«Ahora añado un nuevo idioma cada mes, y voy a seguir haciéndolo todo
+el tiempo mientras sea posible».
+
+El Proyecto Gutenberg cobra nuevo aliento con el lanzamiento de
+Distributed Proofreaders, un sitio creado en octubre de 2000 por
+Charles Franks para compartir la revisión de los libros entre
+centenares de voluntarios de diferentes países.
+
+Disponible en abril de 2002, el ebook #5000 es The Notebooks of
+Leonardo da Vinci (Los cuadernos de Leonardo da Vinci), en una
+traducción del italiano al inglés de estos cuadernos escritos a
+comienzos del siglo 16. Desde su puesta en línea, este ebook ha
+figurado siempre en el Top 100 de los libros más descargados.
+
+El Proyecto Gutenberg ofrece obras en 25 idiomas a principios de 2004,
+en 42 idiomas en julio de 2005, incluyendo el sánscrito y las lenguas
+mayas, y en 59 idiomas en octubre de 2010. Los diez principales idiomas
+son el inglés (con 28.441 ebooks el 7 de octubre 2010), el francés
+(1.659 ebooks), el alemán (709 ebooks), el finlandés (536 ebooks), el
+holandés (496 ebooks), el portugués (473 ebooks), el chino (405 ebooks),
+el español (295 ebooks), el italiano (250 ebooks) y el griego (101
+ebooks). Los idiomas siguientes son el latín, el esperanto, el sueco y
+el tagalo.
+
+Cuando la traducción automática haya logrado un porcentaje de
+fiabilidad de 99%, quizás podremos leer estas obras literarias en una
+gran variedad de idiomas. Los libros traducidos por un software de
+traducción automática no van a competir con el trabajo de los
+traductores literarios y sus esfuerzos talentosos durante días y meses,
+si no años, pero van a permitir al lector captar lo esencial de obras
+literarias que nunca antes habían sido traducidas —o traducidas solo a
+unos pocos idiomas por razones comerciales—.
+
+Un libro traducido por un software de traducción podrá a continuación
+ser corregido por traductores (seres humanos) mediante el uso de una
+interfaz similar a la que utilizan ahora los voluntarios de Distributed
+Proofreaders para la corrección de un libro digital producido por un
+software de OCR (reconocimiento óptico de caracteres). Así pues, quizás
+veremos la creación de Distributed Translators para compartir la
+revisión de las traducciones, como un socio de Distributed Proofreaders
+y del Proyecto Gutenberg.
+
+
+
+2001 > WIKIPEDIA: UNA ENCICLOPEDIA COLECTIVA
+
+
+[Resumen]
+Wikipedia es creada en enero de 2001 por Jimmy Wales y Larry Sanger
+(Larry dimitirá más tarde) como una enciclopedia colectiva gratuita en
+línea cuyo contenido puede reutilizarse libremente. La redactan miles
+de voluntarios, con la posibilidad de escribir, corregir o completar
+los artículos, tanto los propios como los de otros contribuidores. Los
+artículos siguen siendo propiedad de sus autores, y su libre
+utilización es regida por la licencia GFDL (GNU Free Documentation
+License) y la licencia Creative Commons. En diciembre de 2006,
+Wikipedia llega a ser uno de los diez sitios más visitados de la web,
+conteniendo 6 millones de artículos en 250 idiomas. En mayo de 2007,
+Wikipedia cuenta con 7 millones de artículos en 192 idiomas, de los
+cuales 1,8 millones están en inglés, 589.000 en alemán, 500.000 en
+francés, 260.000 en portugués y 236.000 en español. En 2009, Wikipedia
+es uno de los cinco sitios más visitados de la web. En enero de 2011,
+Wikipedia cuenta con 17 millones de artículos en 270 idiomas y 400
+millones de visitas al mes en sus sitios.
+
+***
+
+Creada en enero de 2001, Wikipedia es una enciclopedia colectiva
+gratuita en línea cuyo contenido puede reutilizarse libremente.
+
+¿Qué es exactamente un wiki? Un wiki (palabra hawaiana que significa
+«rápido») es un sitio web que permite a varios usuarios colaborar
+juntos en línea redactando el contenido del wiki, modificándolo y
+enriqueciéndolo en cualquier momento. Se usa el wiki, por ejemplo, para
+crear y gestionar sitios de información, diccionarios y enciclopedias.
+El software utilizado para estructurar la interfaz de un wiki puede ser
+más o menos elaborado. Un software sencillo permite administrar textos
+e hipervínculos. Un software complejo permite incluir imágenes,
+gráficos, tablas, etc.
+
+Wikipedia es creada por Jimmy Wales y Larry Sanger (Larry dimitirá más
+tarde). Inmediatamente adquiere una gran popularidad. No alberga
+publicidad y es financiada gracias a donaciones. La redactan miles de
+voluntarios —que se registran con un seudónimo— con la posibilidad de
+escribir, corregir o completar los artículos, tanto los propios como
+los de otros contribuidores. Los artículos siguen siendo propiedad de
+sus autores. Su libre utilización es regida por la licencia GFDL (GNU
+Free Documentation License) y la licencia Creative Commons.
+
+Fundada en junio de 2003, la Wikimedia Foundation no administra solo
+Wikipedia, sino también Wiktionary, un diccionario y tesoro multilingüe
+lanzado en diciembre de 2002, y después Wikibooks (libros y manuales en
+proceso de redacción) lanzado en junio de 2003, a los que se añaden más
+adelante Wikiquote (repertorio de citas), Wikisource (textos del
+dominio público), Wikimedia Commons (fuentes multimedia), Wikispecies
+(repertorio de especies animales y vegetales), Wikinews (sitio web de
+noticias) y Wikiversity (material didáctico), lanzado en agosto de 2006.
+
+En diciembre de 2004, Wikipedia cuenta con 1,3 millones de artículos
+redactados por 13.000 contribuidores en un centenar de idiomas. En
+diciembre de 2006, cuenta con 6 millones de artículos en 250 idiomas, y
+llega a ser uno de los diez sitios más visitados de la web. En mayo de
+2007, Wikipedia cuenta con siete millones de artículos en 192 idiomas,
+de los cuales 1,8 millones de artículos en inglés, 589.000 artículos en
+alemán, 500.000 artículos en francés, 260.000 artículos en portugués y
+236.000 artículos en español. En 2009, Wikipedia es uno de los cinco
+sitios más visitados de la web. En septiembre de 2010, Wikipedia cuenta
+con 14 millones de artículos en 272 idiomas, de los cuales 3,4 millones
+de artículos están en inglés, 1,1 millón en alemán y 1 millón en
+francés. En enero de 2011, Wikipedia celebra sus diez años de
+existencia con 17 millones de artículos en 270 idiomas y 400 millones
+de visitas al mes en sus sitios.
+
+Wikipedia también inspira muchos otros proyectos a lo largo de los años,
+por ejemplo Citizendium, lanzado en marzo de 2007 como una enciclopedia
+colaborativa experimental de contenido verificado por expertos, o la
+Encyclopedia of Life, un proyecto mundial lanzado en mayo de 2007 para
+hacer el inventario de todas las especies animales y vegetales
+conocidas.
+
+
+
+2001 > EL UNL: UN PROYECTO DE METALENGUAJE DIGITAL
+
+
+[Resumen]
+La Fundación UNDL (Universal Networking Digital Language – Lenguaje
+Digital Universal de Conexión) es creada en enero de 2001 en Ginebra
+(Suiza) para desarrollar y promover el proyecto UNL (Universal
+Networking Language – Lenguaje Universal de Conexión). Desarrollado
+desde 1996 en Tokio (Japón) por el Instituto de Estudios Avanzados (IAS:
+Institute of Advanced Studies) de la Universidad de las Naciones Unidas
+(UNU), el proyecto UNL es un proyecto de metalenguaje digital —o
+interlenguaje— destinado a ser un puente entre un idioma de origen y
+uno de destino para ofrecer una solución a la barrera del idioma. Como
+se explica en 2010 en un wiki del proyecto, «el UNL es una lengua
+artificial creada para tener en cuenta la información y los
+conocimientos transmitidos por las lenguas humanas. Tiene componentes
+léxicos, gramaticales y semánticos, como las lenguas naturales.
+Acoplado a la inteligencia artificial, el UNL facilita la comunicación
+entre el ser humano y la máquina y, a través de la máquina, entre todos
+los pueblos en la lengua materna de cada cual».
+
+***
+
+El proyecto UNL (Universal Networking Language – Lenguaje Universal de
+Conexión) es un proyecto de metalenguaje digital para la codificación,
+el almacenamiento, la búsqueda y la comunicación de la información
+multilingüe.
+
+Este interlenguaje está destinado a ser un puente entre un idioma de
+origen y uno de destino para ofrecer una solución a la barrera del
+idioma. Es desarrollado desde 1996 en Tokio (Japón) por el Instituto de
+Estudios Avanzados (IAS: Institute of Advanced Studies) de la
+Universidad de las Naciones Unidas (UNU) dentro del UNL Programme —un
+programa internacional con la participación de numerosos colaboradores
+en varias comunidades lingüísticas—. En 1998, 120 investigadores de
+todo el mundo trabajan sobre un proyecto plurilingüe que incluye 16
+idiomas (alemán, árabe, brasileño, chino, español, francés, hindi,
+indonesio, inglés, italiano, japonés, letón, mongol, ruso, swahili y
+tailandés).
+
+Dentro del IMAG (Institut d’Informatique et de Mathématiques Appliquées
+de Grenoble – Instituto de Informática y de Matemáticas Aplicadas de
+Grenoble) en Francia, el GETA (Groupe d’Étude pour la Traduction
+Automatique – Grupo de Estudio para la Traducción Automática) participa
+en el UNL Programme. Christian Boitet, su director, explica en
+septiembre de 1998: «No se trata de un TAO [traducción asistida por
+ordenador] sino de comunicación y búsqueda de información multilingüe.
+14 grupos han empezado su trabajo sobre 12 idiomas (y dos idiomas
+anexos) desde el comienzo de 1997. La idea es: (a) desarrollar un
+estándar llamado UNL, que sería el HTML del contenido lingüístico; (b)
+para cada idioma, desarrollar un generador (llamado “deconvertor’”),
+accesible en uno o más servidores, y un “enconvertor”».
+
+Las aplicaciones posibles son el correo electrónico en varios idiomas,
+la información multilingüe, los diccionarios en línea para la lectura
+de idiomas extranjeros en la web y la traducción automática para
+navegar en la web y para el «monitoreo informático».
+
+¿Y cuáles son las perspectivas? Según Christian Boitet, «el plan
+general es abrir el proyecto a otros idiomas de la ONU en 2000. Tenemos
+que llegar a un estado satisfactorio para los otros 12 idiomas antes
+que eso. Desde un punto de vista político y cultural, este proyecto es
+muy importante, porque demuestra por primera vez una vía posible para
+elaborar varias herramientas apoyando el uso de todos los idiomas en el
+internet, tanto de los mayoritarios como de los minoritarios».
+
+Este programa continúa bajo los auspicios de la Fundación UNDL
+(Universal Networking Digital Language – Lenguaje Digital Universal de
+Conexión), creada en enero de 2001 en Ginebra (Suiza) para desarrollar
+y promover el proyecto UNL, en asociación con las Naciones Unidas.
+
+Según un wiki del proyecto en 2010, «el UNL es una lengua artificial
+creada para tomar en cuenta la información y los conocimientos
+transmitidos por los idiomas humanos. Tiene componentes léxicos,
+gramaticales y semánticos, como las lenguas naturales. Acoplado a la
+inteligencia artificial, el UNL facilita la comunicación entre el ser
+humano y la máquina, y a través de la máquina, entre todos los pueblos
+en la lengua materna de cada uno. Nuestra primera tarea es la de
+completar el sistema UNL antes de ponerlo al servicio de todas las
+naciones».
+
+
+
+2001 > UN MERCADO PARA LOS SOFTWARE DE TRADUCCIÓN
+
+
+[Resumen]
+En marzo de 2001, IBM se lanza en el creciente mercado de la traducción
+con un producto profesional de alto nivel, el WebSphere Translation
+Server. Este software traduce al instante a varios idiomas (alemán,
+chino, coreano, español, francés, inglés, italiano y japonés) las
+páginas web, los correos electrónicos y los diálogos en línea (los
+chats). Puede interpretar 500 palabras por segundo y permite añadir
+vocabularios específicos. Los software de traducción asistida por
+ordenador son desarrollados para traductores profesionales. Incluyen
+una «memoria de traducción» con gestión de la terminología en tiempo
+real y control tipográfico, por ejemplo Wordfast, creado en 1999 por
+Yves Champollion y compatible con otros grandes software del mercado
+como el WebSphere Translation Server de IBM y los software de SDL
+Trados. Disponible para cualquier plataforma (Windows, Mac, Linux),
+Wordfast cuenta con 14.000 clientes alrededor del mundo en 2010, como
+por ejemplo las Naciones Unidas, Coca-Cola y Sony.
+
+***
+
+La generalización del internet como fuente de información mundial y el
+desarrollo del comercio electrónico favorecen el mercado creciente de
+los software de traducción.
+
+Empresas especializadas como Systran, Alis Technologies, Lernout &
+Hauspie, Globalink o Softissimo desarrollan software, productos y
+servicios dirigidos a tres tipos de clientes: el público en general,
+los profesionales de la lengua y las empresas, localizando sus sitios
+web para ampliar su audiencia y atraer nuevos clientes.
+
+En marzo de 2001, IBM se lanza en el mercado de la traducción con un
+producto profesional de alto nivel, el WebSphere Translation Server.
+Este software traduce al instante a varios idiomas (alemán, chino,
+coreano, español, francés, inglés, italiano y japonés) las páginas web,
+los correos electrónicos y los diálogos en línea (chats). Puede
+interpretar 500 palabras por segundo y permite añadir vocabularios
+específicos.
+
+Un software de traducción automática (TA) analiza el texto en la lengua
+de salida (texto origen) y genera automáticamente el texto
+correspondiente en la lengua de llegada (texto meta), aplicando reglas
+precisas para la transferencia de la estructura gramatical. El ser
+humano no interviene en el proceso, a diferencia de lo que pasa con la
+traducción asistida por ordenador (TAO), que se basa en la interacción
+entre el ser humano y la máquina.
+
+Los software de traducción asistida por ordenador son desarrollados
+para los traductores profesionales. Estos incluyen una «memoria de
+traducción» con gestión de la terminología en tiempo real y control
+tipográfico. Es el caso, por ejemplo, de Wordfast, creado en 1999 por
+Yves Champollion, y compatible con otros grandes software del mercado
+como el WebSphere Translation Server de IBM y los software de SDL
+Trados. Disponible para cualquier plataforma (Windows, Mac o Linux),
+Wordfast cuenta con 14.000 clientes alrededor del mundo en 2010, por
+ejemplo las Naciones Unidas, Coca-Cola y Sony.
+
+Tim McKenna, escritor y filósofo, escribe en octubre de 2000: «Cuando
+la calidad de los software sea suficiente para que la gente converse
+por escrito y verbalmente en la web en varios idiomas y en tiempo real,
+veremos un nuevo mundo abrirse ante nosotros. Científicos, políticos,
+empresarios y muchos otros grupos podrán comunicar directamente entre
+ellos sin la intervención de mediadores o traductores».
+
+Según Randy Hobler, consultor en marketing internet de productos y
+servicios de traducción, el siguiente paso será «la transparencia
+transcultural y transnacional».
+
+Explica en septiembre de 1998: «Pronto alcanzaremos el punto en que
+será tan habitual obtener una traducción tan fiel del texto y del habla
+que esta funcionalidad podrá formar parte de las plataformas o incluso
+de los chips. En esta etapa, cuando el desarrollo del internet haya
+alcanzado su velocidad de crucero, cuando la fidelidad de la traducción
+supere el 98% y cuando las diferentes combinaciones de idiomas posibles
+hayan cubierto la gran mayoría del mercado, la transparencia de la
+lengua —es decir, cualquier comunicación de un idioma a otro— será una
+visión demasiado restrictiva para los que venden esta tecnología. El
+desarrollo siguiente será la “transparencia transcultural y
+transnacional” en la cual los otros aspectos de la comunicación humana,
+el comercio y las transacciones más allá del idioma entrarán en juego.
+Por ejemplo, los gestos tienen un significado, los movimientos faciales
+tienen un significado, y esto varía en función de las normas sociales
+de un país a otro.
+
+(…)
+
+Las culturas difieren en miles de formas, y la mayoría de sus códigos
+podrán ser modificados por vía informática al pasar de uno a otro. Esto
+incluye las leyes, las costumbres, los hábitos de trabajo, la ética, el
+cambio monetario, las maneras de indicar las tallas en la ropa, las
+diferencias entre el sistema métrico y el sistema no métrico anglófono,
+etc. Las empresas dinámicas catalogarán y programarán estas diferencias,
+y venderán productos y servicios para ayudar a los habitantes del
+planeta a comunicarse mejor entre ellos. Una vez que estos productos y
+servicios se hayan generalizado, contribuirán realmente a una mejor
+comprensión a escala internacional».
+
+
+
+2004 > LA WEB 2.0: COMUNIDAD E INTERCAMBIO
+
+
+[Resumen]
+La expresión «web 2.0» es inventada en 2004 por Tim O’Reilly, un editor
+de libros informáticos que escoge este título para una serie de
+conferencias que organiza. La web 2.0 se caracteriza por las nociones
+de comunidad e intercambio, con un surgimiento de sitios cuyo contenido
+es suministrado por los usuarios, como por ejemplo los blogs, los wikis,
+las redes sociales y las enciclopedias colaborativas: Wikipedia,
+Facebook y Twitter, obviamente, y también decenas de miles de otros.
+Con la web 2.0 empieza a realizarse el sueño de Tim Berners-Lee,
+inventor de la web en 1990, quien había escrito en un ensayo en 1998:
+«El sueño que se esconde detrás de la web es un espacio de información
+común en donde nos comuniquemos compartiendo la información. Su
+universalidad es esencial, es decir que los vínculos hipertexto puedan
+enlazar con cualquier tipo de datos, personales, locales o mundiales,
+tanto esbozos como documentos sofisticados».
+
+***
+
+La expresión «web 2.0» es inventada en 2004 por Tim O'Reilly, editor de
+libros informáticos, quien escoge este título para una serie de
+conferencias que organiza.
+
+La web 2.0 se caracteriza por las nociones de comunidad e intercambio,
+con un surgimiento de sitios cuyo contenido es suministrado por los
+usuarios, como por ejemplo los blogs, los wikis, las redes sociales y
+las enciclopedias colaborativas: Wikipedia, Facebook y Twitter,
+obviamente, y también decenas de miles de otros.
+
+# Los blogs invaden la red
+
+El blog aparece por primera vez en 1997, como si fuese el diario en
+línea de una persona o de un grupo. Este diario se ordena
+cronológicamente —casi siempre de lo más reciente a lo más antiguo— y
+se actualiza cada minuto o una vez al mes. En julio de 2005, llegarían
+a existir 14 millones de blogs en el mundo, con 80.000 nuevos al día.
+En diciembre de 2006, Technorati, un sitio especializado en blogs,
+menciona 65 millones de blogs, y 175.000 nuevos al día. Algunos blogs
+se dedican a las fotos (fotoblogs), otros a la música (audioblogs o
+podcasts) y otros a los vídeos (videoblogs o vlogs).
+
+# Los wikis, sitios colaborativos
+
+El wiki (palabra hawaiana que significa «rápido») se hace muy popular
+en 2000. El wiki es un sitio web que permite a varios usuarios
+colaborar en línea sobre un mismo proyecto. Los usuarios pueden
+contribuir con la redacción del contenido, modificándolo y
+enriqueciéndolo en cualquier momento. Se usa el wiki, por ejemplo, para
+crear y gestionar sitios de información, diccionarios y enciclopedias.
+El software utilizado para estructurar la interfaz de un wiki puede ser
+más o menos elaborado. Un software sencillo permite administrar textos
+e hipervínculos; un software complejo permite incluir imágenes,
+gráficos, tablas, etc. La enciclopedia wiki más conocida es Wikipedia.
+
+# Facebook, una red social
+
+Facebook es una red social fundada en febrero de 2004 por Mark
+Zuckerberg y sus compañeros, todos estudiantes. Diseñada originalmente
+para los estudiantes de la Universidad de Harvard, se abre luego a los
+estudiantes de todas las universidades estadounidenses, antes de
+abrirse al mundo entero en septiembre de 2006, para conectar a la gente
+con su familia, amigos y colegas, así como para conectar a desconocidos
+que comparten los mismos intereses. En junio de 2010, Facebook se
+convierte en el segundo sitio más visitado del mundo después de Google,
+con 500 millones de usuarios. Pero aún así quedan preguntas sobre el
+respeto a la privacidad dentro de la red social.
+
+# Twitter, la información en 140 caracteres
+
+Lanzado en 2006 en California por Jack Dorsey y Biz Stone, Twitter es
+una herramienta para redes sociales y micro-blogging que permite a los
+usuarios enviar mensajes cortos (tweets) de 140 caracteres como máximo,
+gratuitamente, a través del internet, de la mensajería instantánea o de
+SMS. A veces descrito como el SMS del internet, Twitter gana
+popularidad en el mundo entero, con 106 millones de usuarios en abril
+de 2010 y 300.000 usuarios nuevos al día. En cuanto a los tweets, se
+envían 5.000 tweets al día en 2007, 300.000 en 2008, 2,5 millones en
+2009, 50 millones en enero de 2010 y 55 millones en abril de 2010, con
+un archivo de los tweets de carácter público en la Biblioteca del
+Congreso, como reflejo de las tendencias de nuestro tiempo.
+
+# El sueño de Tim Berners-Lee
+
+Como se puede ver, la web 2.0 empieza a ir por el camino del sueño
+formulado por Tim Berners-Lee —el inventor de la web— quien escribió en
+un ensayo con fecha de abril de 1998: «El sueño que se esconde detrás
+de la web es un espacio de información común en donde nos comuniquemos
+compartiendo la información. Su universalidad es esencial; es decir que
+los vínculos hipertexto puedan enlazar con cualquier tipo de datos,
+personales, locales o mundiales, tanto borradores como documentos
+sofisticados. La segunda parte de este sueño es que el acceso a la web
+se generalizaría hasta tal punto que acabaría convirtiéndose en un
+espejo realista (o de hecho en la encarnación más directa) de la manera
+en la que trabajamos, jugamos y tramamos relaciones sociales. Una vez
+que estas interacciones estén en línea, podríamos utilizar los
+ordenadores para ayudarnos a analizarlas, dar sentido a lo que hacemos
+y ver cómo cada uno encuentra su lugar y cómo podemos trabajar mejor
+juntos». (Fragmento de «The World Wide Web: A very short personal
+history» — «El World Wide Web: una muy corta historia personal»—)
+
+
+
+2007 > LA NORMA ISO 639-3 PARA IDENTIFICAR IDIOMAS
+
+
+[Resumen]
+El primer estándar es la norma ISO 639-1, adoptada por la Organización
+Internacional de Normalización (ISO) en 1988, la cual identifica cada
+idioma con dos letras. La norma ISO 639-2 es publicada en 1998 para
+identificar 400 idiomas con tres letras. El Ethnologue, un catálogo
+enciclopédico de lenguas vivas publicado por SIL International, también
+desarrolla sus propios códigos de tres letras en su base de datos a
+partir de 1971, con su inclusión en la enciclopedia desde 1984. En 2002,
+a la invitación de la Organización Internacional de Normalización, SIL
+International prepara una nueva norma que permite armonizar los
+identificadores utilizados en el Ethnologue con los de la norma ISO
+639-2, y también integrar los identificadores de las lenguas muertas y
+artificiales usados en la LINGUIST List, una gran lista de difusión
+para lingüistas. Publicada en 2007, la norma ISO 639-3 asigna un
+identificador de tres letras a 7.589 lenguas. SIL International es el
+organismo responsable de la gestión del ciclo anual de modificaciones y
+actualizaciones.
+
+***
+
+Publicada en 2007, la norma ISO 639-3 asigna un código de tres letras a
+7.589 lenguas.
+
+El primer estándar es la norma ISO 639-1, adoptada por la Organización
+Internacional de Normalización (ISO) en 1988, la cual identifica cada
+idioma con dos letras.
+
+Diez años después, se publica la norma ISO 639-2 en 1998 para
+identificar 400 idiomas con tres letras. Esta norma es una convergencia
+de la norma ISO 639-1 con la norma ANSI Z39.53 (ANSI: American National
+Standards Institute – Instituto Estadounidense Nacional de Normas). La
+norma ANSI corresponde a los códigos MARC (Machine Readable Cataloging
+– Catalogación Legible por Máquina), códigos de tres letras
+desarrollados por las bibliotecas estadounidenses y adoptados como
+norma nacional en 1987.
+
+El Ethnologue, un catálogo enciclopédico de lenguas vivas publicado por
+SIL International, también desarrolla sus propios códigos de tres
+letras (por ejemplo, «spa» para el español) en su base de datos desde
+1971, con su inclusión en la enciclopedia desde la 10ª edición (1984).
+
+La norma ISO 639-2 se hace rápidamente insuficiente debido al número
+reducido de idiomas considerados. En 2002, a la invitación de la
+Organización Internacional de Normalización, SIL International prepara
+una nueva norma que permite armonizar los identificadores utilizados en
+el Ethnologue con los de la norma ISO 639-2, y también integrar los
+identificadores de las lenguas muertas y artificiales usados en la
+LINGUIST List, una gran lista de difusión para lingüistas.
+
+Aprobada en 2006 y publicada en 2007, la norma ISO 639-3 asigna un
+código de tres letras a 7.589 lenguas, con una lista de idiomas de lo
+más completa: de idiomas vivos o muertos, antiguos o artificiales,
+mayoritarios o minoritarios, y escritos o verbales. SIL International
+es el organismo responsable de la gestión del ciclo anual de las
+modificaciones y actualizaciones.
+
+
+
+2007 > GOOGLE TRADUCCIÓN
+
+
+[Resumen]
+Lanzado por Google en octubre de 2007, Google Traducción es un servicio
+en línea gratuito que traduce instantáneamente un texto, un documento o
+una página web a otro idioma. Los usuarios pueden copiar cualquier
+texto en la interfaz web o incluso dar una dirección web para que sea
+traducida completamente. El servicio de traducción automática de Google
+se basa en un análisis estadístico más que en un análisis tradicional
+basado en reglas. Antes de esta fecha, Google utiliza un traductor de
+Systran del mismo tipo que Babel Fish en Yahoo! Como cualquier software
+de traducción automática, Google Traducción puede ayudar al usuario a
+comprender el sentido general de un texto en un idioma extranjero, pero
+no propone traducciones exactas. En 2009, el texto puede ser leído por
+un programa sintetizador de voz, con la inclusión de nuevos idiomas en
+los meses siguientes. Disponible en julio de 2009, Google Translator
+Toolkit es un servicio web que permite que los traductores (humanos)
+revisen las traducciones generadas por Google Traducción. En enero de
+2011, los usuarios pueden elegir varias traducciones para la misma
+palabra.
+
+***
+
+Lanzado por Google en octubre de 2007, Google Traducción es un servicio
+en línea gratuito que traduce instantáneamente un texto, un documento o
+una página web a otro idioma.
+
+Los usuarios pueden copiar un texto en la interfaz web o incluso dar
+una dirección web para que sea traducida completamente. El servicio de
+traducción automática de Google se basa en un análisis estadístico más
+que en un análisis tradicional basado en reglas.
+
+Como cualquier software de traducción automática, Google Traducción
+puede ayudar al usuario a comprender el sentido general de un texto en
+un idioma extranjero, pero no propone traducciones exactas.
+
+Antes de esta fecha, Google utiliza un traductor de Systran del mismo
+tipo que Babel Fish en Yahoo!, con varios pasos para los pares de
+idiomas disponibles:
+
+Primer paso: del inglés al francés, al alemán y al español, y viceversa.
+Segundo paso: del inglés al portugués y al holandés, y viceversa.
+Tercer paso: del inglés al italiano, y viceversa.
+Cuarto paso: del inglés al chino simplificado, al japonés y al coreano,
+y viceversa.
+Quinto paso (abril de 2006): del inglés al árabe, y viceversa.
+Sexto paso (diciembre de 2006): del inglés al ruso, y viceversa.
+Séptimo paso (febrero de 2007): del inglés al chino tradicional y del
+chino simplificado al chino tradicional, y viceversa.
+
+He aquí los primeros pasos utilizados en el sistema de traducción de
+Google:
+
+Primer paso (octubre de 2007): todos los idiomas disponibles hasta hoy,
+en todas las combinaciones posibles.
+Segundo paso: del inglés al hindi, y viceversa.
+Tercer paso (mayo de 2008): búlgaro, checo, croata, danés, finlandés,
+griego, noruego, polaco, rumano y sueco, en todas las combinaciones
+posibles.
+Cuarto paso (septiembre de 2008): catalán, eslovaco, esloveno, filipino,
+hebreo, indonesio, letón, lituano, serbio, ucraniano y vietnamita.
+Quinto paso (enero de 2009): albanés, estonio, gallego, húngaro, maltés,
+tailandés y turco.
+Sexto paso (junio de 2009): persa.
+Séptimo paso (agosto de 2009): afrikáans, bielorruso, galés, irlandés,
+islandés, macedonio, malayo, swahili y yidis.
+Octavo paso (enero de 2010): criollo haitiano.
+Noveno paso (mayo de 2010): armenio, azerí, euskera, georgiano y urdu.
+Décimo paso (octubre de 2010): latín.
+Etc.
+
+En 2009, el texto puede ser leído por un programa sintetizador de voz,
+con la inclusión de nuevos idiomas en los meses siguientes. En enero de
+2011, los usuarios pueden elegir varias traducciones para una misma
+palabra.
+
+Google Translator Toolkit es un servicio web que permite a los
+traductores (humanos) que revisen las traducciones generadas por Google
+Traducción. Los traductores también pueden utilizar traducciones
+compartidas, glosarios y memorias de traducción. Después de haber
+empezado en junio de 2009 con el inglés como idioma de origen y 47
+idiomas de destino, Google Translator Toolkit llega a proponer 100.000
+pares de idiomas en mayo de 2011, con 345 idiomas de origen y 345
+idiomas de destino.
+
+
+
+2009 > 6.909 IDIOMAS VIVOS EN EL ETHNOLOGUE
+
+
+[Resumen]
+La 16ª edición del Ethnologue (2009) es un repertorio muy completo de
+los 6.909 idiomas vivos de nuestro planeta. Este catálogo enciclopédico
+tiene dos versiones: una versión web gratis desde 1996 y una versión
+impresa de pago desde 1950. Una versión CD-ROM de pago también está
+disponible a partir de los años 1990. Publicada por SIL International
+(SIL: Summer Institute of Linguistics), esta obra de referencia, cuyo
+título completo es The Ethnologue: Languages of the World (El
+Ethnologue: las lenguas del mundo), hace un inventario de los idiomas
+según varios criterios (nombre del idioma, familia lingüística, país
+donde se habla el idioma, código de tres letras, etc.), con un buscador
+único así como con índices y mapas. Un pequeño grupo de investigadores
+ubicado en Dallas (Texas) coordina el trabajo de miles de lingüistas
+que recogen y verifican informaciones del mundo entero. Una nueva
+edición del Ethnologue se publica, aproximadamente, cada cuatro años.
+
+***
+
+La 16ª edición del Ethnologue (2009) es un repertorio muy completo de
+los 6.909 idiomas vivos de nuestro planeta. Este catálogo enciclopédico
+tiene dos versiones: una versión web gratis desde 1996 y una versión
+impresa de pago desde 1950.
+
+Publicada por SIL International (SIL: Summer Institute of Linguistics –
+Instituto de Lingüística de Verano), esta obra de referencia, cuyo
+título completo es The Ethnologue: Languages of the World (El
+Ethnologue: las lenguas del mundo), hace un inventario de los idiomas
+según varios criterios (nombre del idioma, familia lingüística, país
+donde se habla el idioma, código oficial de tres letras, etc.), con un
+buscador único así como con índices y mapas. Una nueva edición de The
+Ethnologue se publica aproximadamente cada cuatro años.
+
+Esta obra de referencia fue primero un catálogo de los idiomas
+minoritarios mantenido desde 1950 antes de expandirse a todos los
+idiomas vivos del mundo. Este trabajo se lleva a cabo con el auspicio
+de un pequeño grupo de investigadores ubicado en Dallas (Texas). Este
+grupo reúne y organiza los datos obtenidos y verificados uno a uno, en
+el terreno, por miles de lingüistas que trabajan en equipos nacionales
+y/o de lingüísticas presentes en todos los continentes.
+
+Barbara Grimes, editora de la 8ª a la 14ª edición (1971-2000), destaca
+en agosto de 1998: «Se trata de una lista de los idiomas del mundo, con
+información sobre dónde se hablan, una estimación del número de
+personas que habla cada uno, la familia lingüística a la que pertenecen,
+los demás nombres utilizados para designar esos idiomas, los nombres de
+los dialectos, otro tipo de información sociolingüística y demográfica,
+las fechas de las Biblias publicadas, un índice de los nombres de
+idiomas [Ethnologue Name Index], un índice de las familias lingüísticas
+[Ethnologue Language Family Index] y mapas geográficos para los
+idiomas».
+
+Además de una versión web gratis y de una versión impresa de pago en un
+volumen, una versión CD-ROM de pago también esta disponible en los años
+1990.
+
+¿Pero qué es exactamente una lengua? En la introducción de su 16ª
+edición (2009), el Ethnologue define así una lengua : «Cómo uno elige
+definir una lengua depende de los propósitos que tiene al identificar
+dicha lengua como diferente de otra. Algunas personas basan su
+definición en aspectos puramente lingüísticos. Otras reconocen que los
+factores sociales, culturales o políticos también deben tenerse en
+cuenta. Además, los hablantes de una lengua tienen a menudo sus propias
+perspectivas sobre la apropiación de una lengua como siendo la suya.
+Estos criterios se relacionan a menudo mucho más con cuestiones de
+patrimonio y de identidad que con rasgos lingüísticos del idioma o de
+los idiomas en cuestión».
+
+Como se explica en la introducción, desde 1971, una característica de
+la base de datos del Ethnologue es un sistema de códigos de tres letras
+para cada lengua (por ejemplo «spa» para el español), con inclusión de
+los códigos en la misma enciclopedia a partir de la 10ª edición (1984).
+A la invitación de la Organización Internacional de la Normalización
+(ISO) en 2002, SIL International prepara una nueva norma ISO que
+permite armonizar los identificadores usados en el Ethnologue con los
+de la norma ISO 639-2 (1998), que codifica solo 400 lenguas, y también
+integra los identificadores de las lenguas muertas y artificiales
+usados en la LINGUIST List, una gran lista de difusión para lingüistas.
+Publicada en 2007, la nueva norma ISO 639-3 asigna un código de tres
+letras a 7.500 lenguas. SIL International también es el organismo
+responsable de la gestión del ciclo anual de las modificaciones y
+actualizaciones.
+
+
+
+2010 > UN ATLAS DE LA UNESCO PARA LAS LENGUAS EN PELIGRO
+
+
+[Resumen]
+En 2010, la UNESCO (Organización de las Naciones Unidas para la
+Educación, la Ciencia y la Cultura) lanza en su sitio web un atlas
+interactivo gratis de las lenguas en peligro a nivel mundial. La
+versión en línea es un complemento de la versión impresa de pago (3ª
+edición, 2010), editada por Christopher Moseley, y disponible en
+español, en francés y en inglés, con ediciones anteriores de 1996 y
+2001. El directorio de las lenguas en peligro cuenta con 2.473 lenguas
+el 4 de junio de 2011, con un motor de búsqueda por país o por área,
+por nombre de la lengua, por número de locutores, por vitalidad y por
+código ISO 639-3. Los nombres de las lenguas son indicados en sus
+transcripciones al inglés, al francés y al español. Los nombres
+alternativos (variantes de pronunciación, dialectos o nombres en
+alfabetos no romanos) también están disponibles en muchos casos.
+
+***
+
+En 2010, la UNESCO (Organización de las Naciones Unidas para la
+Educación, la Ciencia y la Cultura) lanza en su sitio web un atlas
+interactivo gratis de las lenguas en peligro a nivel mundial.
+
+La versión en línea es un complemento de la versión impresa de pago (3ª
+edición, 2010), editada por Christopher Moseley y disponible en español,
+en francés y en inglés, con ediciones anteriores de 1996 y 2001.
+
+El directorio de las lenguas en peligro cuenta con 2.473 lenguas el 4
+de junio de 2011, con un motor de búsqueda por país o por área, por
+nombre de la lengua, por número de locutores, por vitalidad y por
+código ISO 639-3.
+
+Los nombres de las lenguas son indicados en sus transcripciones al
+inglés, al francés y al español. Los nombres alternativos (variantes de
+pronunciación, dialectos o nombres en alfabetos no romanos) también
+están disponibles en muchos casos.
+
+# La vitalidad de las lenguas
+
+El informe de la UNESCO sobre la vitalidad y el peligro de extinción de
+las lenguas ha establecido seis niveles de vitalidad: a salvo,
+vulnerable, en peligro, seriamente en peligro, en situación crítica,
+extinta.
+
+«A salvo» significa que todas las generaciones hablan la lengua y que
+su transmisión de una generación a otra es continua. El atlas no
+incluye estas lenguas.
+
+«Vulnerable» significa que la mayoría de los niños habla la lengua,
+pero que su uso puede estar restringido a determinados ámbitos, por
+ejemplo al hogar familiar.
+
+«En peligro» significa que los niños ya no aprenden la lengua en sus
+familias como lengua materna.
+
+«Seriamente en peligro» significa que los abuelos y las personas de las
+viejas generaciones hablan la lengua pero que los miembros de la
+generación parental, si bien pueden comprenderla, no la hablan entre sí,
+ni tampoco con sus hijos.
+
+«En situación crítica» significa que los únicos hablantes son los
+abuelos y las personas de las viejas generaciones, pero que únicamente
+usan la lengua de manera parcial y con escasa frecuencia.
+
+«Extinta» significa que no quedan hablantes. El atlas contiene las
+lenguas extintas desde los años 1950.
+
+# Cómo definir una lengua en peligro
+
+¿Cuándo está una lengua en peligro de extinción? Según el sitio del
+atlas interactivo, «una lengua corre el peligro de desaparecer cuando
+sus hablantes dejan de utilizarla, cuando van restringiendo su uso a
+ámbitos cada vez más reducidos, cuando recurren cada vez menos a sus
+registros y estilos idiomáticos, o cuando dejan de transmitirla a la
+generación siguiente. Un solo factor no es determinante para afirmar
+que una lengua se halla en peligro de desaparición».
+
+Según los expertos de la UNESCO, nueve factores deben considerarse en
+su conjunto: (1) la transmisión del idioma de una generación a otra; (2)
+el número absoluto de sus hablantes; (3) la proporción de sus hablantes
+con respecto a la población total; (4) los cambios en los ámbitos de
+utilización del idioma; (5) la capacidad de reacción de la lengua ante
+los nuevos ámbitos de actividad y los medios; (6) la disponibilidad de
+material destinado a la alfabetización en el idioma y la enseñanza de
+este; (7) la actitud ante el idioma y la política lingüística de las
+autoridades gubernamentales y las instituciones, comprendida la
+cuestión de su reconocimiento y uso oficiales; (8) la actitud de los
+miembros de la comunidad de hablantes hacia su propio idioma; (9) la
+cantidad y calidad de documentos en el idioma.
+
+¿Qué determina la desaparición de una lengua? «Una lengua desaparece
+cuando se extinguen sus hablantes, o cuando estos dejan de utilizarla
+para expresarse en otra que, con frecuencia, está más extendida y es
+hablada por un grupo preponderante. La supervivencia de una lengua
+puede verse amenazada por factores externos, como por ejemplo con una
+dominación de índole militar, económica, religiosa, cultural o
+educativa; y también por factores internos, como por ejemplo por la
+actitud de rechazo de una comunidad hacia su propio idioma. Hoy en día,
+el aumento de los fenómenos migratorios y la celeridad de la
+urbanización suelen acarrear una desaparición de los modos de vida
+tradicionales, así como una fuerte presión para hablar la lengua
+predominante que es necesaria —o se percibe como tal— para participar
+plenamente en la vida de la sociedad y progresar en el plano económico».
+
+
+Copyright © 2012 Marie Lebert
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK LA WEB, UNA ENCICLOPEDIA MULTILINGÜE ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG™ LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
+
+This particular work is one of the few individual works protected
+by copyright law in the United States and most of the remainder of the
+world, included in the Project Gutenberg collection with the
+permission of the copyright holder. Information on the copyright owner
+for this particular work and the terms of use imposed by the copyright
+holder on this work are set forth at the beginning of this work.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg™ License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg
+
+Project Gutenberg is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 41 Watchung Plaza #516,
+Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

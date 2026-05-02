@@ -1,0 +1,6033 @@
+﻿The Project Gutenberg eBook of O locura o santidad
+    
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: O locura o santidad
+        Drama en tres actos y en prosa
+
+Author: José Echegaray
+
+
+        
+Release date: August 4, 2025 [eBook #76631]
+
+Language: Spanish
+
+Original publication: Madrid: Imprenta de José M. Ducazcal, 1877
+
+Other information and formats: www.gutenberg.org/ebooks/76631
+
+Credits: Produced by Ramón Pajares Box. (This file was produced from images generously made available by The Internet Archive/University of North Carolina at Chapel Hill.)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK O LOCURA O SANTIDAD ***
+
+
+NOTA DE TRANSCRIPCIÓN
+
+  * Las cursivas se muestran entre _subrayados_ y las versalitas se han
+    convertido a MAYÚSCULAS.
+
+  * Los errores de imprenta han sido corregidos.
+
+  * La ortografía del texto original ha sido modernizada de acuerdo con
+    las normas publicadas en 2010 por la Real Academia Española.
+
+  * Las abreviaturas y los nombres de los personajes han sido expandidos
+    para mayor facilidad de lectura.
+
+  * Las páginas en blanco han sido eliminadas.
+
+
+
+
+O LOCURA O SANTIDAD
+
+
+
+
+  O LOCURA O SANTIDAD,
+
+  DRAMA
+  EN TRES ACTOS Y EN PROSA,
+
+  POR
+  JOSÉ ECHEGARAY.
+
+  Estrenado en Madrid, en el Teatro Español, el 22 de enero de 1877.
+
+  MADRID:
+  Imprenta de José M. Ducazcal.
+  Plaza de Isabel II, núm. 6.
+  —
+  1877.
+
+
+
+
+  Esta obra es propiedad de su autor, y nadie podrá, sin su permiso,
+  reimprimirla ni representarla en España y sus posesiones de Ultramar,
+  ni en los países con los cuales haya celebrados o se celebren en
+  adelante tratados internacionales de propiedad literaria.
+
+  El autor se reserva el derecho de traducción.
+
+  Los comisionados de la Galería Lírico-Dramática, titulada _El
+  Teatro_, de DON ALONSO GULLÓN, son los exclusivamente encargados de
+  conceder o negar el permiso de representación y del cobro de los
+  derechos de propiedad.
+
+  Queda hecho el depósito que marca la ley.
+
+
+
+
+AL EMINENTE ACTOR
+
+DON ANTONIO VICO.
+
+Cumplo deber ineludible, ejerzo acto de justicia y procuro dar
+público testimonio de cuánto admiro su gran talento y su inagotable
+inspiración, dedicando a Usted esta obra que fue la elegida para su
+beneficio y en que a tal altura raya Usted.
+
+Usted, que desde mi primer ensayo en _El libro talonario_, ha venido
+ganándome aplausos y triunfos; Usted, que ha sido sucesivamente sobre
+la escena: el don Carlos de Quirós de _La esposa del vengador_, el
+Banquero de aquel epílogo de _La última noche_, el Fernando de _En
+el puño de la espada_, el Pablo de _Cómo empieza y cómo acaba_ y el
+Lorenzo de _O locura o santidad_, bien merece, y es harto humilde
+recompensa, ya lo conozco, a cambio de tantos y tantos arranques
+sublimes, de tantos y tantos gritos desgarradores, de tantas maravillas
+de expresión, esta muestra de mi gratitud, de mi admiración y de mi
+amistad.
+
+  _Echegaray._
+
+
+
+
+  PERSONAJES.                  ACTORES.
+
+  DON LORENZO DE AVENDAÑO[1]   SEÑOR VICO (DON ANTONIO).
+  ÁNGELA                       SEÑORA MARÍN.
+  INÉS                         SEÑORITA CONTRERAS.
+  LA DUQUESA DE ALMONTE        SEÑORA FENOQUIO.
+  EDUARDO                      SEÑOR CALVO.
+  JUANA                        SEÑORITA BOLDÚN.
+  DON TOMÁS                    SEÑOR OLTRA.
+  EL DOCTOR BERMÚDEZ           SEÑOR BENAVIDES.
+  BRAULIO                      SEÑOR RIQUELME.
+  BENITO                       SEÑOR ROMEA.
+  UN CRIADO                    SEÑOR CASTRO.
+
+La escena, en Madrid, en casa de Don Lorenzo. — Época moderna.
+
+  [1] Por enfermedad del señor Vico se encargó a la quinta
+  representación del papel de don Lorenzo el SEÑOR CEPILLO.
+
+
+
+
+ACTO PRIMERO.
+
+La escena representa el despacho de don Lorenzo: forma octógona. — A la
+izquierda del espectador, y en primer término, una chimenea encendida:
+encima un gran espejo de marco negro: en segundo término, una puerta. —
+A la derecha, en primer término, otra puerta; en segundo término, una
+ventana. — En el fondo, la puerta principal. — En los dos chaflanes
+o lados oblicuos del octógono, grandes estantes con libros. — A la
+izquierda, una mesa de despacho con pupitre y sillón. — A la derecha,
+un sofá. — Sobre algunas sillas, sobre la mesa, en las repisas de los
+estantes y en las paredes, libros y objetos artísticos en confusión,
+pero sin que aparezca recargado el conjunto. — El adorno, elegante y
+rico, pero de gusto muy severo: cortinajes y muebles oscuros. — Es día
+de invierno: la luz muy escasa.
+
+
+ESCENA PRIMERA.
+
+DON LORENZO.
+
+Sentado a la mesa y leyendo atentamente.
+
+
+DON LORENZO.
+
+«Las misericordias, respondió don Quijote, sobrina, son las que en este
+instante ha usado Dios conmigo, a quien, como dije, no las impiden mis
+pecados. Yo tengo juicio ya libre y claro, sin las sombras caliginosas
+de la ignorancia que sobre él me pusieron mi amarga y continua leyenda
+de los detestables libros de caballerías. Ya conozco sus disparates
+y sus embelecos, y no me pesa sino que este desengaño ha llegado tan
+tarde que no me deja tiempo para hacer alguna recompensa leyendo
+otros que sean luz del alma. Yo me siento, sobrina, a punto de muerte;
+querría hacerla de tal modo, que diese a entender que no había sido
+mi vida tan mala que dejase renombre de loco; que puesto que lo he
+sido, no querría confirmar esta verdad con mi muerte». (_Suspende la
+lectura y queda pensativo largo rato_). ¡Locura luchar sin tregua
+ni reposo por la justicia en esta revuelta batalla de la vida, como
+luchaba en el mundo de sus imaginaciones el héroe inmortal del inmortal
+Cervantes! ¡Locura amar con amor infinito, y sin alcanzarla jamás, la
+divina belleza, como él amaba a la Dulcinea de sus apasionados deseos!
+¡Locura ir con el alma tras lo ideal por el áspero y prosaico camino
+de las realidades humanas, que es tanto como correr tras una estrella
+del cielo por entre peñascales y abrojos! Locura es, según afirman los
+doctores; mas tan inofensiva, y, por lo visto, tan poco contagiosa,
+que para atajarla no hemos menester otro Quijote. (_Pausa. Después se
+levanta, viene al centro del escenario, y de nuevo se queda pensativo_).
+
+
+ESCENA II.
+
+DON LORENZO, DOÑA ÁNGELA, DON TOMÁS.
+
+Los dos últimos se detienen en la puerta de la derecha, primer término,
+y desde allí, medio ocultos por el cortinaje, observan a don Lorenzo.
+Este en el centro y volviéndoles la espalda.
+
+
+ÁNGELA.
+
+¿Le ve usted? Como siempre; leyendo y pensando.
+
+DON TOMÁS.
+
+Ángela, su esposo de usted es todo un sabio; pero no abusemos de la
+sabiduría. Si la cuerda, cuanto más tensa, da sonidos más agudos,
+también con mayor facilidad se rompe; y al romperse, a la divina nota,
+sucede un eterno silencio. Mientras el cerebro se agita en sublimes
+espasmos, la locura acecha: no lo olvide usted. (_Pausa_).
+
+DON LORENZO.
+
+¡Extraño libro, libro sublime! ¡Cuántos problemas puso Cervantes en ti,
+quizá sin saberlo! ¿Loco tu héroe? Loco, sí: loco. (_Pausa_). El que no
+oyera más que la voz del deber al marchar por la vida; el que en cada
+instante, dominando sus pasiones, acallando sus afectos, sin más norte
+que la justicia ni más forma que la verdad, a la verdad y la justicia
+acomodase todos sus actos, y con sacrílega ambición quisiera ser
+perfecto como el Dios de los cielos..., ese, ¡qué ser tan extraño sería
+en toda sociedad humana! ¡Qué nuevo don Quijote entre tanto y tanto
+Sancho! Y al tener que condenar en uno el interés, la vanidad en otro,
+la dicha de aquel, los desordenados apetitos de este, las flaquezas de
+todos, ¡cómo su propia familia, a la manera del ama y la sobrina del
+andante caballero; cómo sus propios amigos, de igual suerte que el cura
+y el barbero y Sansón Carrasco; cómo jayanes y doncellas, y duques y
+venteros, y moros y cristianos a una voz le declararan loco, y por loco
+él mismo se tuviera, o al morir lo fingiría, porque le dejasen al menos
+morir en calma!
+
+DON TOMÁS.
+
+(_Acercándose a don Lorenzo y poniéndole una mano en el hombro. Doña
+Ángela se acerca también_). Lorenzo.
+
+DON LORENZO.
+
+(_Volviéndose_). Tomás... Ángela... ¿Estabais ahí?
+
+DON TOMÁS.
+
+Sí, escuchábamos a medias tu filosófico monólogo. ¿Y a cuenta de qué
+son esos sublimes desahogos de mi buen amigo?
+
+DON LORENZO.
+
+Lecturas del don Quijote, que se me suben a la cabeza y allá se mezclan
+con otras modernas filosofías, que andan vagando, como diría mi
+empedernido doctor, por las celdillas de la sustancia gris.
+
+DON TOMÁS.
+
+Como diría todo el que quisiera decir algo puesto en razón.
+
+ÁNGELA.
+
+¡Qué espanto! ¿Van ustedes a empezar una de esas interminables disputas
+sobre el positivismo y el idealismo y todos los demás _ismos_ del
+diccionario, que son otros tantos abismos del sentido común?
+
+DON TOMÁS.
+
+No se alarme usted, Ángela, que algo más interesante tengo que decir a
+Lorenzo.
+
+DON LORENZO.
+
+Y algo más urgente tengo yo también que preguntarte. (_A Tomás_).
+
+ÁNGELA.
+
+Ya lo creo: más interesante y más urgente que los disparates y
+embelecos de que se llenan ustedes la cabeza, es la salud de nuestra
+niña.
+
+DON LORENZO.
+
+¿Cómo encuentras hoy a la hija de mi vida? (_Con afán_).
+
+ÁNGELA.
+
+¿Cómo está Inés? (_Pausa_).
+
+DON LORENZO.
+
+¡Vamos!... ¡Responde!... ¡No nos tengas en esta ansiedad! (_Nueva
+pausa. Don Tomás mueve la cabeza con aire de disgusto_).
+
+ÁNGELA.
+
+¡Don Tomás, por Dios! ¿Peligra acaso?
+
+DON LORENZO.
+
+¡Qué dices, mujer! No pronuncies esa palabra.
+
+DON TOMÁS.
+
+Alto, alto. ¡Qué de prisa van ustedes! Es cosa grave, no lo niego.
+
+DON LORENZO.
+
+¡Qué dices!
+
+ÁNGELA.
+
+¡Qué dice usted!
+
+DON LORENZO.
+
+¿Cuál es su enfermedad? ¿Qué nombre tiene?
+
+ÁNGELA.
+
+¿Cómo se cura? Porque debe curarse de algún modo. Es preciso, Tomás, es
+preciso que usted salve a mi hija.
+
+DON TOMÁS.
+
+¿Cuál es su enfermedad? Una de las que causan más estragos entre los
+vivientes. ¿Qué nombre tiene? Amor, le llaman los poetas: nosotros los
+médicos le damos otro nombre. ¿Cómo se cura? Hoy por hoy con el cura; y
+es tan probado específico, que al mes de haberlo usado ni memoria queda
+en ambos cónyuges de la fatal dolencia.
+
+ÁNGELA.
+
+¡Qué bromas tiene usted, don Tomás! Me ha dejado usted sin gota de
+sangre en las venas.
+
+DON TOMÁS.
+
+Ello es que hablando seriamente, y dadas las condiciones de esa niña,
+su temperamento nervioso, su sensibilidad extrema y ese su romántico
+amor, la dolencia es grave; y si no se busca pronto remedio en la dulce
+calma de la vida conyugal, Ángela, amigo mío, me duele decirlo, pero el
+deber me lo ordena, no cuenten con Inesita. (_Con seriedad_).
+
+DON LORENZO.
+
+¡Tomás!
+
+ÁNGELA.
+
+¿Usted cree?...
+
+DON TOMÁS.
+
+Creo que Inés ha heredado la imaginación exaltada y fantástica de su
+padre; que hoy la fiebre del amor circula por todas sus venas en olas
+de fuego. Y si no la casan ustedes, y muy pronto, con Eduardo; si
+ella llega a comprender que sus esperanzas no han de realizarse, los
+delirios de su fantasía y las violencias de su pasión, aunque no sé en
+qué forma, sé por desdicha que han de herirla de muerte.
+
+DON LORENZO.
+
+¡Dios mío!
+
+ÁNGELA.
+
+¡Hija mía!
+
+DON TOMÁS.
+
+Ya saben ustedes mi opinión: opinión expuesta sin rodeos ni ambages,
+cual lo exige lo urgente del caso, y con la lealtad a que me obligan el
+cariño que nos une y el que profeso a esa inocente niña.
+
+ÁNGELA.
+
+(_A Lorenzo con tono resuelto_). Tú lo has oído: es preciso que Inesita
+y Eduardo se casen.
+
+DON LORENZO.
+
+Bien lo quisiera, Ángela. Eduardo es bueno, es inteligente, quiere a
+nuestra hija con delirio; pero...
+
+ÁNGELA.
+
+Pero ¿qué? ¿Que no somos nobles y que la madre de Eduardo, la duquesa
+viuda de Almonte, se opone a esta unión? Y ¿qué importa si él quiere, y
+no es ella la que ha de casarse?
+
+DON LORENZO.
+
+Ángela, piénsalo bien; ¡dar pábulo nosotros a la rebeldía del hijo
+contra la madre!...
+
+ÁNGELA.
+
+Piénsalo bien, Lorenzo; ¡sacrificar nuestra hija a las vanidades de esa
+mujer!
+
+DON LORENZO.
+
+Lamentar vanidades y desdichas, cosa fácil me parece: buscar remedio al
+daño es lo que importa.
+
+ÁNGELA.
+
+¿Por qué no hablar a la duquesa? Dicen que, aparte de sus
+preocupaciones aristocráticas, es buena mujer, y que con delirio quiere
+a su Eduardo. Vas allá y le suplicas y le ruegas...
+
+DON LORENZO.
+
+¡Yo suplicar! ¡Yo rogar! ¡Humillarme yo! No soy yo ciertamente quien ha
+de ir a pedirle su hijo: ella es la que debe venir a mi casa a pedirme
+la mano de Inés. Las conveniencias sociales, el respeto a la mujer, mi
+propio decoro así lo exigen.
+
+ÁNGELA.
+
+Aquí tiene usted al filósofo, al sabio, al hombre perfecto, rebosando
+vanidad y orgullo. (_Dirigiéndose a don Tomás, que se habrá acercado a
+la mesa y estará hojeando libros_).
+
+DON LORENZO.
+
+Ángela, eres injusta: no es orgullo, es dignidad. Dignidad, sí; porque
+no es decoroso que mendiguemos para la frente de Inés, que en sí lleva
+la mejor corona, la corona ducal que desdeñosa nos niega otra familia;
+no es decoroso, repito, que vayamos de puerta en puerta, y menos si
+en sus dinteles hay labrados blasones, tendiendo la mano para que nos
+hagan la limosna de un nombre, cuando Inés tiene el mío, tan bueno, por
+limpio y por honrado, como otro cualquiera que lo sea mucho.
+
+DON TOMÁS.
+
+Lorenzo tiene razón; pero usted, Ángela, también la tiene.
+
+ÁNGELA.
+
+Pues bien, no vayas tú; conserva incólume tu dignidad de sabio y de
+filósofo. Yo, que no soy más que una pobre madre, yo iré. A mí no
+me causa sonrojo ir de puerta en puerta mendigando, no coronas ni
+blasones, sino la felicidad y la vida de mi hija.
+
+DON LORENZO.
+
+Ni a mí tampoco, Ángela: tienes razón. Diga el mundo lo que quiera,
+piense lo que pensare la duquesa, iré. ¿No es verdad que debo ir? Tú
+que tienes un criterio recto y severo, y que juzgas de las cosas a
+sangre fría, dime tu opinión con franqueza. (_A Tomás_).
+
+ÁNGELA.
+
+¡Ah! ¡Qué hombre! ¡Pues no está discutiendo si debe o no debe ir! Estas
+cosas, señor filósofo y señor marido, se resuelven con el corazón, no
+con la cabeza. Mucho es que no empezaste a revolver librotes, buscando
+en ellos la solución del problema. A maravilla tengo que no estés ya
+escudriñando si entre los filósofos alemanes, o entre los clásicos
+griegos, o en la ininteligible maraña de tus obras matemáticas, no
+hubo algún autor que tratase concretamente el caso peregrino del
+futuro casamiento de la señorita doña Inés de Avendaño con don Eduardo
+de Almeida, duque de Almonte; y cuenta que si por _a_ más _b_, te
+demostrase alguno de tus predilectos sabios la inconveniencia del
+casamiento, por _a_ más _b_ dejarías morir a la pobre hija de mi alma.
+
+DON LORENZO.
+
+No te burles de mí, Ángela. Tú sabes que adoro a Inés.
+
+
+ESCENA III.
+
+DON LORENZO, ÁNGELA, DON TOMÁS, INÉS.
+
+Esta última entra por la derecha, primer término, al pronunciar don
+Lorenzo las últimas palabras y se detiene al oír su nombre.
+
+
+DON LORENZO.
+
+¡Que es por su vida! ¡Que es por su felicidad! No: por secar una
+lágrima suya, diera yo todas las de mis ojos: por una hora de ventura
+para mi Inés, trocara yo contento en horas de martirio todas las que me
+restan de existencia. (_Inés sin que la vean todavía, tiende sus brazos
+hacia su padre con expresión de cariño y agradecimiento y le manda un
+apasionado beso_). Vaya, no hablemos más del asunto. Iré hoy mismo a
+ver a la duquesa: rogaré, suplicaré, me humillaré si es preciso, y
+cederá. ¿No ha de ceder? (_Movimiento de alegría en Inés; Ángela se
+acerca y coge de la mano a su esposo con efusión_). No tengo títulos de
+nobleza, pero tengo un nombre que si por el trabajo y el estudio no he
+podido hacer ilustre...
+
+DON TOMÁS.
+
+Ilustre, sí, mi buen Lorenzo.
+
+DON LORENZO.
+
+Ilustre, no, pero sí respetable. Y tengo además muchos millones, que
+heredé de los míos y que cederé a Eduardo y a la duquesa, para que
+doren de nuevo sus soberbias coronas un tanto deterioradas por el
+tiempo. Conque ya lo sabes: (_A Ángela_) se casará Inés, y será feliz,
+y su felicidad será la nuestra.
+
+ÁNGELA.
+
+Y la tuya, la de todos nosotros que viviremos mirándonos en ti. ¡En ti,
+Lorenzo mío, que cuando no te embrutece la ciencia, eres el más amante,
+el más bondadoso y el mejor de los hombres!
+
+INÉS.
+
+¡Ay, Dios mío! ¡Dios mío! (_Desfalleciendo y apoyándose en la puerta
+para no caer_).
+
+ÁNGELA.
+
+¡Inés, hija mía! (_Corriendo a sostenerla_).
+
+DON LORENZO.
+
+¡Inés, Inés!... ¿Qué tienes? (_Lo mismo_).
+
+DON TOMÁS.
+
+Vamos, niña, ¿qué mimos son esos? (_Acercándose a ella_).
+
+INÉS.
+
+(_Acercándose al sofá de la derecha y sentándose en él. Todos los
+demás la rodean con solicitud_). Nada, no es nada..., es... que quiero
+llorar..., y tengo tanta alegría, que no puedo... Es que quiero reír...
+y siento que acuden lágrimas a mis ojos... ¡Es que te quiero mucho...,
+mucho..., mucho, padre mío! (_Abrazándole y haciéndole mimos_). ¡Qué
+bueno eres!... ¡Qué bueno te hizo Dios!... Soy feliz..., feliz..., muy
+feliz. (_Rompe a llorar en los brazos de su madre_).
+
+ÁNGELA.
+
+Así, hija mía: llora, llora; desahógate. ¿Ves qué bueno es tu padre?
+Quiérele mucho.
+
+INÉS.
+
+Con toda mi alma... ¿Y cuándo vas a ir? ¿Hoy mismo, verdad?
+
+DON TOMÁS.
+
+¡Ah, egoistilla! ¿Conque queremos mucho a papá cuando hace lo que nos
+agrada? Y si no fuese a casa de la duquesa ¿le querríamos tanto...,
+tanto..., tanto como ahora? (_Burlándose de sus protestas de cariño_).
+
+INÉS.
+
+Lo mismo.
+
+DON TOMÁS.
+
+¿Conque lo mismo? (_En tono de duda_).
+
+INÉS.
+
+De veras; pero estaría tan triste que no se me ocurriría decírselo.
+(_Con cierta malicia_).
+
+DON TOMÁS.
+
+Ya.
+
+INÉS.
+
+Antes algo me oprimía el pecho y me apretaba la garganta. Ahora, sin
+esfuerzo alguno..., así..., espontáneamente, a la par que corren dulces
+lágrimas de felicidad, brotan palabras de cariño. Antes... solo hubiera
+podido decirte: ¡qué desdichada soy, padre mío!... Ahora ya no pienso
+en mí, pienso en él, y de corazón me sube a los labios este grito de
+amor: ¡cuánto te quiero! (_De nuevo abraza a su padre_).
+
+DON LORENZO.
+
+¡Inés, hija mía!
+
+INÉS.
+
+Y a ti también, madre..., a ti también. (_Abrazando a su madre. Don
+Lorenzo y don Tomás se separan del sofá en que quedan Ángela e Inés, y
+vienen al centro_).
+
+DON TOMÁS.
+
+¡Pobre filósofo! Mira, ninguna de las dos ha leído una sola página
+de todos esos libros, y saben más que tú. Te crees fuerte, y en sus
+manos eres cera blandísima: te crees sabio, y en sus brazos eres un
+inocente, por no decir que un tonto. Te crees justo e incorruptible, y
+la voluntad de esas dos mujeres te llevaría a todas las injusticias y a
+todas las flaquezas.
+
+DON LORENZO.
+
+No, Tomás; cuando la idea del bien me sostiene, mi voluntad es de
+hierro.
+
+DON TOMÁS.
+
+No digo «Lo veremos», porque son dos ángeles; pero ¡ay, si no lo
+fuesen! Déjame parodiar al gran poeta y decir en romance: «¡Tentación,
+llevas nombre de mujer!».
+
+DON LORENZO.
+
+«¡Palabras, palabras y palabras!» había dicho antes sin duda en
+previsión de que tú le parodiases. (_Con cierta exaltación_).
+
+DON TOMÁS.
+
+¡Ya te subes al trípode!
+
+INÉS.
+
+No incomode usted a papá.
+
+DON LORENZO.
+
+No me incomodan, hija mía, las extravagancias de este doctor.
+
+DON TOMÁS.
+
+Conque quedamos en que por cariño, por amistad, por amor, por esas que
+tú llamas atracciones misteriosas de un alma sobre otra alma se puede y
+se debe llegar...
+
+DON LORENZO.
+
+Hasta el sacrificio, sí; jamás hasta la culpa.
+
+DON TOMÁS.
+
+¡Bonita máxima para un libro de moral!
+
+DON LORENZO.
+
+Y aún mejor para una conciencia.
+
+DON TOMÁS.
+
+¿Y no habrá casos en que para evitar males mayores tenga que transigir
+esa catoniana conciencia con uno tan pequeño, tan pequeño, que no
+llegue a ser ni grano de arena?
+
+DON LORENZO.
+
+Al echarlo sobre sí, bien pronto pesaría como montaña de granito.
+
+DON TOMÁS.
+
+¿A la montaña te subes, no bastándote el trípode?
+
+INÉS.
+
+Vamos, don Tomás... Que no le diga usted esas cosas a papá.
+
+DON TOMÁS.
+
+En resumen: guerra a muerte al mal, bajo todas sus formas y disfraces.
+¿No es cierto?
+
+DON LORENZO.
+
+Tú lo has dicho.
+
+DON TOMÁS.
+
+Pues aplicación inmediata de tu teoría. Y en verdad que lo había
+olvidado y es toda una novela. Escúchame atento: oigan ustedes.
+
+DON LORENZO.
+
+¿Qué es ello? (_Ángela e Inés se acercan a don Tomás_).
+
+DON TOMÁS.
+
+Rogome esta mañana una mujer que en su nombre te trajera...
+
+DON LORENZO.
+
+¿Qué?
+
+DON TOMÁS.
+
+Un beso.
+
+ÁNGELA.
+
+¡Para él!
+
+DON LORENZO.
+
+¡Para mí!
+
+DON TOMÁS.
+
+Sí; pero no se alarme usted. (_A Ángela_). Es el beso de una anciana,
+y en lágrimas viene empapado: es la última y dolorosa contracción de
+unos labios moribundos: es el postrer adiós de un ser que dentro de
+breves horas no existirá.
+
+DON LORENZO.
+
+No adivino...
+
+DON TOMÁS.
+
+Ella..., esa pobre mujer me hizo llamar esta mañana: subí a la
+buhardilla en que muere: me dijo su nombre, que a no decírmelo, jamás
+la hubiera conocido; y jurándome que fue inocente, rogome, sin embargo,
+que intercediera contigo para que la perdonases.
+
+DON LORENZO.
+
+Estás hablando un lenguaje del cual ni una sola palabra comprendo.
+
+DON TOMÁS.
+
+¿Recuerdas la muerte de tu madre?
+
+DON LORENZO.
+
+¡Qué pregunta, Tomás! No conocí a mi padre, murió cuando yo era muy
+niño; pero mi madre... ¡Ah, madre mía! (_Conmovido_).
+
+DON TOMÁS.
+
+¿Recuerdas que al sentirse de improviso herida de muerte, quiso
+hablarte y no pudo, y que entonces, arrancándose convulsivamente del
+cuello un rico medallón de que jamás se desprendía, lo puso en tus
+manos fijando en ti con suprema angustia sus ojos velados ya por la
+eterna sombra?
+
+DON LORENZO.
+
+Bien lo recuerdo. Sigue..., sigue...
+
+DON TOMÁS.
+
+¿Recuerdas, por fin, que al morir tu madre y al perder tú el sentido,
+desapareció el medallón, y que fue acusada de robo?...
+
+DON LORENZO.
+
+¡Ella!... ¿Es ella?... ¡Juana, mi nodriza!... ¡Mi pobre Juana!
+
+DON TOMÁS.
+
+Juana es la que a dos pasos de aquí agoniza en una miserable
+buhardilla: Juana, la que en el triste beso que te traigo, implora tu
+perdón.
+
+DON LORENZO.
+
+¡Juana!... ¡Mi segunda madre!... ¡La que durante veinticinco años
+fue, para mí, madre verdadera! Pero ¿qué hablabas de perdón? ¿Qué de
+transigir con el mal? Ni perdonar es transigir, ni de mi perdón ha
+menester la pobre anciana. ¡Ella..., ella ser capaz!... ¡Imposible!
+
+DON TOMÁS.
+
+No tan imposible. Cuando la doncella que guardaba las joyas de tu madre
+dio parte al juez de la pérdida del magnífico medallón de brillantes,
+y se hicieron las primeras investigaciones, Juana negó tenerlo; y, sin
+embargo, averiguose que ella lo había arrancado de tus manos al perder
+tú el sentido, y dos días después fue sorprendida al dejar el medallón
+tras unos jarrones de porcelana. Redújosela a prisión, fue condenada,
+en cárcel infamante sufrió la pena de su delito, y solo tus influencias
+y tus eficacísimas recomendaciones pudieron devolverle, ya que no la
+honra perdida, la libertad al menos.
+
+DON LORENZO.
+
+(_Con exaltación_). Y bien, yo digo que Juana acusada, que Juana en el
+banquillo del reo, que Juana en infamante reclusión, es inocente, y que
+la justicia humana se equivoca.
+
+DON TOMÁS.
+
+Las apariencias...
+
+DON LORENZO.
+
+Engañan no pocas veces.
+
+DON TOMÁS.
+
+Y ¿cómo se explica?...
+
+DON LORENZO.
+
+Alguna explicación tendrá; algún misterio hay aquí que ignoramos.
+
+DON TOMÁS.
+
+(_A Ángela_). Ya se lanzó a caza de misterios, y en busca de
+explicaciones sobrenaturales para un hecho que, a mi modo de ver, tiene
+sencilla y natural explicación en la flaqueza humana.
+
+DON LORENZO.
+
+Pues yo sé que mi pobre nodriza era incapaz de acción tan baja. Yo la
+hubiera defendido, a no impedírmelo la enfermedad que sufrí a la muerte
+de mi madre; y cuando libre ya la pobre mujer, desapareció, lágrimas
+de verdadero dolor vertí por ella. Dios sabe si con afán la busqué por
+todas partes; Dios sabe si deseaba que viniese a mí..., y ella...,
+cruel..., ¿por qué no vino? No, Juana, mi buena Juana, no morirás
+sin que yo te estreche en mis brazos, sin que te devuelva tu beso
+de despedida. (_Con agitación creciente. Toca un timbre, y sale un
+criado de librea_). ¡Hola! ¡El coche!... ¡Al momento, al momento! Voy
+a traerla a mi casa..., ahora mismo... ¿No es cierto, Ángela, que debo
+traerla? ¿No es cierto, Inés?
+
+ÁNGELA.
+
+En todo caso es una obra de caridad.
+
+DON LORENZO.
+
+¡Es una justísima reparación! (_Sale un momento por la puerta de la
+izquierda_).
+
+DON TOMÁS.
+
+¡Es lo más bueno..., pero lo más cándido! Y creerá como artículo de
+fe todo lo que esa pobre anciana le cuente. Y él mismo la ayudará a
+inventar cualquier historia extravagante. ¡Ay, Ángela! Tenemos que
+hacer un escrutinio en esa librería como aquel donoso y grande que
+hicieron el cura y el barbero en la del ingenioso hidalgo.
+
+ÁNGELA.
+
+¡Ah, si yo pudiera! (_Vuelve a entrar don Lorenzo en traje de calle_).
+
+DON LORENZO.
+
+Ea, en marcha: tú vienes conmigo para ayudarme a traerla. (_A Tomás_).
+
+DON TOMÁS.
+
+Siempre estoy a tus órdenes.
+
+DON LORENZO.
+
+Pero ¿crees que pueda venir?
+
+DON TOMÁS.
+
+Muere la infeliz de consunción, y lo mismo puede expirar allá en su
+buhardilla, que sobre los almohadones de tu coche, que al entrar en
+este, para ella encantado palacio. Posible es, sin embargo, que la
+reanime la alegría y que gane algunas horas de existencia.
+
+DON LORENZO.
+
+Pues vamos allá. Adiós, Ángela; adiós, Inés.
+
+INÉS.
+
+Adiós... Y luego..., ¿verás... a la duquesa?... (_Con mimo_).
+
+DON LORENZO.
+
+Sí, hija mía, iré más tarde. Tú puedes esperar, la pobre anciana no;
+ella es primero.
+
+ÁNGELA.
+
+¿Y casándose mi niña, usted me responde de que no corre ningún peligro?
+(_Aparte a don Tomás_).
+
+DON TOMÁS.
+
+Los del matrimonio, señora, que no son pocos. (_Tomás y Ángela salen
+por el fondo hablando en voz baja. Detrás don Lorenzo e Inés: esta le
+despide en la puerta_).
+
+
+ESCENA IV.
+
+INÉS.
+
+Vuelve al centro del escenario, alegre como una niña, batiendo palmas.
+
+
+INÉS.
+
+¡Hoy mismo hablará a la duquesa! Me lo ha prometido, y él es muy
+formal; cumple siempre lo que promete. Pues claro, le hablará; ¡y mi
+padre habla tan bien! Vaya, como que es un sabio. La convencerá de
+seguro. Pues si un hombre como él no supiera convencer a esa señora
+de que yo debo casarme con Eduardo, ¿de qué le servía haber estudiado
+tanto? ¿Para qué tener tantos libros en francés, y en italiano, y en
+alemán, y hasta en griego? ¡Ciencia más inútil! Pero ca: de la duquesa
+hará él lo que quiera. Además, dicen todos que ella es una santa. ¡Pues
+no! Como que es la madre de Eduardo. Una santa: lo dicen todos. Pues
+si siendo santa no me deja casar con Eduardo, ¡buena santidad te dé
+Dios! ¿Para qué le sirve su santidad? Nada, nada: nos casaremos: digo
+que nos casaremos. (_Breve pausa_). ¡Si parece mentira; si parece un
+sueño! ¡No, Dios mío, si es un sueño, que no despierte jamás! Pero no
+es un sueño. Este es el despacho de mi padre. Esos son sus librotes.
+(_Acercándose a uno de los estantes_). Newton, Kant, Hegel, Humboldt,
+Shakespeare, Lagrange, Platón, Santo Tomás... Claro, si fuera un
+sueño, no me acordaría yo de todos esos nombres, ni ¿qué sé yo de tan
+ilustres señores? (_Mirando por el balcón_). Cuando repito que no es
+un sueño: allá fuera la lluvia que cae, y cae, y cae... ¡Qué cosa tan
+alegre es la lluvia! ¡Parece que el aire se convierte en barritas de
+cristal! Y allí en el espejo me veo yo. (_Se acerca al espejo con mimo
+y coquetería_). Yo soy, yo misma, bien me conozco. Yo con mi cara
+ovalada, que dice Eduardo que es ¡de un óvalo tan perfecto!... ¡Vea
+usted qué gusto tiene! Y con mis ojos pardos, que dice Eduardo ¡que son
+tan hermosos! No, para mentir diciendo cosas agradables no hay otro
+como él. Verdad es que en este momento con la alegría y con el calor de
+la chimenea brillan mis ojos de un modo... Yo quisiera ser muy bonita;
+más bonita todavía... para él..., para él, que no viene... ¡Cuánto
+tarda! Ahora que deseo yo que venga no ha de venir... Ya verá usted
+como no viene. ¡Ah, los hombres, qué egoístas son y qué malos!
+
+
+ESCENA V.
+
+INÉS, EDUARDO.
+
+
+INÉS.
+
+(_Saliendo a su encuentro_). ¡Eduardo..., Eduardo!
+
+EDUARDO.
+
+¡Inés de mi vida!
+
+INÉS.
+
+¡Vaya una hora de venir!
+
+EDUARDO.
+
+Siempre vengo a las dos. (_Con tono sumiso_).
+
+INÉS.
+
+Y son las tres.
+
+EDUARDO.
+
+¡Es posible! (_Mirando al reloj_). No, vida mía, las dos menos cuarto.
+
+INÉS.
+
+Las tres. (_Con autoridad_).
+
+EDUARDO.
+
+(_Enseñándole el reloj_). Las dos menos cuarto. ¿Te convences?
+(_Señalando el reloj de la chimenea_) Y en ese, la misma hora.
+
+INÉS.
+
+(_Ofendida_). Bueno, bueno; tú tienes razón. ¡Qué amante tan fino que
+me regatea los minutos; que a toda hora le parece temprano para venir,
+y a toda hora tarde para separarse de su Inés; que sujeta los latidos
+de su corazón al volante de su cronómetro!
+
+EDUARDO.
+
+(_Suplicante_). ¡Inés!...
+
+INÉS.
+
+Vete... Vete... Si no son las dos todavía..., si faltan quince
+minutos... Te vas a la Carrera de San Jerónimo: das un paseo mirando la
+gente: y a las _dos en punto_ vuelves.
+
+EDUARDO.
+
+Inés...
+
+INÉS.
+
+¡Si esa es la hora a que acostumbras venir! ¡Pues no faltaba más! ¿Qué
+diría el Observatorio astronómico si adelantases?
+
+EDUARDO.
+
+Por Dios, perdóname..., he hecho mal.
+
+INÉS.
+
+No, si quien ha obrado muy de ligero he sido yo. El deseo me adelantaba
+las horas... y tú, para castigarme, vas, y ¿qué haces? ¡Me pones
+delante de los ojos un cronómetro de Losada! (_Haciendo con la mano el
+ademán brusco del que mete, como vulgarmente se dice, un objeto por los
+ojos_). ¡Qué galán tan poético!
+
+EDUARDO.
+
+Confieso mi culpa, y me arrepiento, y te pido mil veces perdón.
+
+INÉS.
+
+Ya. ¿Lo confiesas? Más vale así.
+
+EDUARDO.
+
+Es que venía tan contento, tan contento, con tanta alegría en el alma
+que ni supe lo que dije, ni aun ahora mismo sé lo que digo.
+
+INÉS.
+
+Yo también fui injusta al acusarte, Eduardo; pero estaba tan alegre,
+tan alegre..., deseaba tanto que vinieses, que los instantes me
+parecían siglos.
+
+EDUARDO.
+
+Has de saber, alma mía...
+
+INÉS.
+
+(_Sin escucharle_). Tengo que darte una gran noticia.
+
+EDUARDO.
+
+(_Lo mismo_). Que al fin somos dichosos.
+
+INÉS.
+
+Ya lo creo: dichosos para toda la vida.
+
+EDUARDO.
+
+¡Si parece mentira!
+
+INÉS.
+
+Porque mi padre me ha prometido que hoy mismo, hoy mismo, ¿lo
+comprendes?... ¡Pero si no me escuchas!
+
+EDUARDO.
+
+(_Sin atenderla_). Porque mi madre...
+
+INÉS.
+
+¡Tu madre! ¿Qué?...
+
+EDUARDO.
+
+Vendrá dentro de media hora a tratar de nuestro casamiento.
+
+INÉS.
+
+¿Ella?... ¿La duquesa?
+
+EDUARDO.
+
+(_Con solemnidad cómica_). La señora duquesa de Almonte tendrá el honor
+de pedir a los señores de Avendaño esta blanca mano (_cogiendo la mano
+de Inés_) para su hijo don Eduardo; aunque Eduardito ya se apoderó de
+ella, ya la apretó contra su corazón, y no sería fácil que la soltase
+aunque no se la dieran.
+
+INÉS.
+
+¿Ella..., ella va a venir?... Bien decían todos. ¡Si esa mujer es una
+santa!
+
+EDUARDO.
+
+Esa mujer es mi madre: me quiere con todo su corazón, y esta mañana me
+abracé a ella llorando, y llorando en mis brazos, cedió a mi ruego.
+En mucho tiene los gloriosos hechos de sus antepasados; religioso
+culto rinde al honor y prefiriera mi muerte a mi enlace con quien en
+su nombre llevara la menor mancha; pero aprecia en lo que vale a don
+Lorenzo, sus glorias científicas, que glorias son también; su...
+
+INÉS.
+
+Bueno, bueno: basta ya de historias. De todo ello se deduce que vendrá
+hoy mismo, que nos casaremos muy pronto y que seremos muy felices, ¿no
+es verdad? Pues esto es lo que importa: es decir, lo que a mí más me
+importa: no sé si tú...
+
+EDUARDO.
+
+Ingrata, ¿dudas de mí?
+
+INÉS.
+
+No dudo; pero no es poca dicha que tu madre haya cedido, porque si
+no... Tú me quieres mucho, ya lo sé..., pero tu... A una madre se le
+debe respeto..., y si ella te hubiera dicho que no, como buen hijo que
+eres, ¿no es verdad, Eduardo?, no le hubieras dado un disgusto; y con
+mucho dolor de tu alma hubieras dejado a esta pobre Inés que te ama...,
+¡ no lo oigas ingrato; que no lo oiga nadie!..., que te ama tanto, que
+sin ti..., ¡mira si es locuela!, se hubiera muerto de dolor.
+
+EDUARDO.
+
+¡Inés mía!
+
+INÉS.
+
+Conque ya ves si debo estar agradecida a tu madre; porque no es a ti,
+es a ella, a quien debo mi felicidad.
+
+EDUARDO.
+
+¡Cruel! ¿Sabes tú lo que yo hubiera hecho ante los obstáculos, lo sabes
+tú?
+
+INÉS.
+
+Sí; ceder, dejarme.
+
+EDUARDO.
+
+Eso nunca; por nada, por nadie.
+
+INÉS.
+
+Júramelo.
+
+EDUARDO.
+
+¡Te lo juro por lo más sagrado!
+
+INÉS.
+
+¡Cuánta dicha!
+
+EDUARDO.
+
+¡Qué felicidad!
+
+
+ESCENA VI.
+
+INÉS, EDUARDO, JUANA, DON LORENZO, DON TOMÁS.
+
+Juana aparece en la puerta del fondo, sostenida por Lorenzo y Tomás: se
+detiene un instante para tomar aliento y después avanza. Viste traje de
+color oscuro y muy pobre.
+
+
+EDUARDO.
+
+(_Volviéndose_). ¡Qué grupo tan sombrío! ¿Por qué viene esa negra nube
+a empañar el azul de nuestro cielo?
+
+INÉS.
+
+Es Juana: la nodriza de mi padre: ya verás qué novela: luego te la
+contaré.
+
+DON LORENZO.
+
+Despacio, despacio, Juana.
+
+JUANA.
+
+¿Quién es aquella señorita?
+
+DON LORENZO.
+
+Inés, mi hija. Acércate, Inés. (_Inés se aproxima. Eduardo la sigue_).
+
+JUANA.
+
+¡Qué hermosa! ¡Un ángel me parece! Que al cerrar yo los ojos para
+siempre vea un ser como tú a mi lado y será que estoy en el cielo.
+
+DON LORENZO.
+
+Otro paso más.
+
+DON TOMÁS.
+
+Un esfuerzo todavía: el último. (_Llegan hasta el sofá y en él sientan
+a Juana, quedando todos a su alrededor_).
+
+JUANA.
+
+Quisiera darle un beso. (_Señalando a Inés. Inés se acerca aún más:
+Juana le coge una mano y la atrae a sí_). No..., tu mano abrasa y mi
+aliento hiela..., no he de besarte..., fuera mi beso el beso de la
+muerte. (_La separa dulcemente de sí y le suelta la mano_). Con el
+pensamiento te besaré..., con los labios no.
+
+DON TOMÁS.
+
+(_En voz baja a Inés y Eduardo_). Vámonos. La pobre mujer desea
+hablarle a solas. (_A Juana_). Hasta luego y buen ánimo: acabaron ya
+las penas.
+
+JUANA.
+
+Las de este mundo, sí.
+
+INÉS.
+
+¡Pobre mujer! (_Deteniéndose un momento para mirarla_).
+
+EDUARDO.
+
+Ven, Inés mía. (_Salen Tomás, Inés y Eduardo por la derecha_).
+
+
+ESCENA VII.
+
+DON LORENZO, JUANA.
+
+
+JUANA.
+
+¿Se fueron ya? (_Después de una pausa_).
+
+DON LORENZO.
+
+Sí, mi querida Juana; ya estamos solos.
+
+JUANA.
+
+Al fin..., al fin llegó este instante tan deseado. Todo llega..., pero
+todo pasa. Oye, Lorenzo; la vida se va..., se va muy aprisa y antes he
+de decirte muchas cosas. Lo primero, que soy inocente; que yo... no
+pensé..., que yo... no quise..., que yo... (_Acongojándose_).
+
+DON LORENZO.
+
+Lo sé, Juana..., lo sé.
+
+JUANA.
+
+No lo sabes. Todo está contra mí..., todo.
+
+DON LORENZO.
+
+Por Dios, no te agites: olvida, descansa.
+
+JUANA.
+
+¿Olvidar? Sí, pronto olvidaré. ¿Descansar? Me queda tanto tiempo para
+descansar, que hoy quiero vivir..., aunque sufra, aunque llore...,
+quiero llevarme a la fosa lágrimas y besos y sollozos... para llenar
+aquel silencio y aquella soledad con algo que recuerde la vida.
+(_Pausa_). Por eso quisiera decirte una cosa... Pero ¿cómo, sin
+prepararte?, ¿cómo, sin que antes de la revelación venga la duda, y
+antes de la duda la sospecha, y antes de la sospecha el presentimiento,
+y antes del presentimiento ese no sé qué, sombra que proyecta en el
+alma algo que allá a lo lejos viene?... Tú no me comprendes, ni yo sé
+explicarme, aunque hace cuarenta años que estoy siempre con la misma
+idea: mira tú si yo debía explicar bien estas cosas.
+
+DON LORENZO.
+
+Di lo que quieras; pero sin agitarte.
+
+JUANA.
+
+Sí; lo diré. ¿Cómo he de morir yo sin decírtelo? En primer lugar, para
+que te convenzas de que yo no fui una miserable... la... dro... na...
+(_Ocultándose el rostro_).
+
+DON LORENZO.
+
+Calla, calla... No pronuncies esa palabra.
+
+JUANA.
+
+Y además..., porque abrirte mi corazón es el último consuelo que me
+resta. Perdóname, Lorenzo. ¡Los que van a morir son tan egoístas! Para
+ti será dolor horrible... lo que para mí ha de ser suprema dicha.
+
+DON LORENZO.
+
+¿Cómo puede ser para mí dolor lo que es dicha para ti, mi buena Juana?
+
+JUANA.
+
+¿Cómo puede ser?... Pues lo será; lo será, hijo mío... ¡Hijo mío!...
+Permíteme que te dé este nombre. ¿No te enfadas, verdad?
+
+DON LORENZO.
+
+¡Por Dios, Juana!
+
+JUANA.
+
+Bueno... Pues yo te llamaré hijo... y tú me llamas madre... Llámame
+madre. Alégrese el cielo o regocíjese el infierno, has de llamarme
+madre.
+
+DON LORENZO.
+
+¡Madre mía!
+
+JUANA.
+
+No..., así no..., no es de ese modo. ¡Cruel! (_Arrojándose a Lorenzo
+para abrazarle, pero conteniéndose y cayendo en el sofá_). ¡Insensata!
+
+DON LORENZO.
+
+¡Pobre mujer! Delira.
+
+
+ESCENA VIII.
+
+JUANA, DON LORENZO, INÉS.
+
+Inés entra corriendo y muy contenta por el fondo y se acerca a su
+padre. Viene agitada y apenas articula las palabras.
+
+
+INÉS.
+
+Padre..., Padre... La duquesa... viene..., viene... ¿no adivinas?
+
+DON LORENZO.
+
+¿Ella?
+
+INÉS.
+
+Sí... Para tratar de aquello... Eduardo ha vencido.
+
+DON LORENZO.
+
+¡Qué felicidad! ¡Inés mía!... Al fin quiso Dios...
+
+INÉS.
+
+¿Estás contento?
+
+DON LORENZO.
+
+¿Y tú? (_Abrazándola_).
+
+INÉS.
+
+Yo..., si tú lo estás... Conque vamos..., vamos pronto.
+
+JUANA.
+
+(_Cogiéndose a Lorenzo_). No..., no quiero que vayas; no has de dejarme.
+
+DON LORENZO.
+
+Voy al instante. (_A Inés_).
+
+INÉS.
+
+No tardes... Que no tardes... Si se ofende...
+
+DON LORENZO.
+
+No temas: que la reciba Ángela allá en el salón... con toda solemnidad.
+Llevaré a Juana a su cuarto y saldré en seguida. (_Sale Inés por el
+fondo_).
+
+
+ESCENA IX.
+
+JUANA, DON LORENZO.
+
+
+DON LORENZO.
+
+(_Queriendo llevarla, pero ella se resiste_). Vamos, Juana, ven a
+descansar; luego hablaremos cuanto quieras.
+
+JUANA.
+
+Luego no. ¿Y si muriese antes?
+
+DON LORENZO.
+
+No pienses tal cosa. (_Con impaciencia_).
+
+JUANA.
+
+Veinte años ha que no te veo, y ahora no me dejan estar contigo ni un
+solo instante. ¡Son muy crueles!
+
+DON LORENZO.
+
+Después, mi buena Juana. (_Queriendo levantarla_).
+
+JUANA.
+
+¿Y tú también quieres irte?... ¡Tú también! ¡Ah!, yo haré que te quedes
+conmigo.
+
+DON LORENZO.
+
+¡Juana!
+
+JUANA.
+
+Oye... esto no más; después vete, si quieres: yo, yo misma cogí el
+medallón.
+
+DON LORENZO.
+
+¿Tú?
+
+JUANA.
+
+Sí.
+
+DON LORENZO.
+
+¿Para qué?
+
+JUANA.
+
+Para que tú no lo vieses.
+
+DON LORENZO.
+
+Y ¿por qué?
+
+JUANA.
+
+Porque dentro había un papel, y en ese papel escritas por tu madre unas
+palabras, y esas palabras no quería yo que tú las leyeras.
+
+DON LORENZO.
+
+Y ¿qué palabras eran?
+
+JUANA.
+
+Estas: de memoria las sé: «Lorenzo, hijo mío; en el relicario que está
+a la cabecera de mi cama hay oculto, y en sobre cerrado, un pliego.
+Cuando yo muera, ábrelo, lee lo que en él, durante una noche de
+remordimiento, escribí, perdóname y que Dios te inspire».
+
+DON LORENZO.
+
+«¡Perdóname y que Dios te inspire!» ¿Decía? (_Con extrañeza_).
+
+JUANA.
+
+Sí.
+
+DON LORENZO.
+
+Y además, he oído no sé qué de remordimiento. (_Con creciente
+curiosidad_).
+
+JUANA.
+
+Remordimiento era la palabra. Ahora vete si quieres.
+
+DON LORENZO.
+
+(_Pensativo_). No. (_Pausa_). ¿Y ese pliego?
+
+JUANA.
+
+Que tu madre lo había escrito, no era un misterio para mí; dónde estaba
+oculto, he ahí lo que ignoraba. Que algo encerró en el medallón, bien
+me lo dijo mi tenaz vigilancia; y lo que el papel contenía bien lo
+adivinaron mis recelos. Por eso cogí el medallón. Era mi legítima
+presa: me había costado aquel secreto veinte años de lágrimas y de
+dolores que ni más amargas ni más intolerables se conciben.
+
+DON LORENZO.
+
+¡Perdón..., remordimiento..., un secreto..., mi madre!... No adivino
+lo que quieres decir... Sombras confusas pasan por mi mente..., y así
+como relámpagos de angustia por mi corazón. Tú deliras, y me haces
+delirar.
+
+JUANA.
+
+No.
+
+DON LORENZO.
+
+¿Pero aquel pliego oculto en el relicario?...
+
+JUANA.
+
+Fue mío, y tú no lo viste, porque no debías verlo. Como tu madre iba a
+morir, a ella ¿qué le importaba? Bien te lo dije: nada hay más egoísta
+que la muerte.
+
+DON LORENZO.
+
+¿Pero ese pliego?
+
+JUANA.
+
+Yo lo tengo.
+
+DON LORENZO.
+
+¿Aquí?
+
+JUANA.
+
+Aquí: (_Llevando la mano al pecho_) aquí: mira, es una hoja no más de
+papel, y sin embargo, ¡me pesa tanto sobre el corazón!
+
+DON LORENZO.
+
+Pues he de verlo.
+
+
+ESCENA X.
+
+JUANA, DON LORENZO, DON TOMÁS por el foro.
+
+
+DON TOMÁS.
+
+¡Lorenzo... Lorenzo!...
+
+DON LORENZO.
+
+¿Qué? (_En tono brusco e impaciente_). ¿Qué quieres?
+
+DON TOMÁS.
+
+Ha llegado la duquesa.
+
+DON LORENZO.
+
+Sea en buen hora.
+
+DON TOMÁS.
+
+(_Aparte_). ¡Qué tono! (_En voz alta_). Ven a recibirla.
+
+DON LORENZO.
+
+Ya iré.
+
+JUANA.
+
+¡No me dejes, por Dios! ¡Por la salvación de tu alma! (_En voz baja_).
+Si supieras...
+
+DON TOMÁS.
+
+¿Vienes?
+
+DON LORENZO.
+
+Sí..., pero..., pero no me hostigues... Digo que iré.
+
+JUANA.
+
+No te vayas... y te lo diré todo..., todo. Te daré ese pliego...,
+el que escribió tu madre hace veinte años..., es su letra..., es su
+firma..., tú verás..., pero no me dejes.
+
+DON TOMÁS.
+
+(_Cada vez más impaciente_). ¡Vamos, Lorenzo!
+
+DON LORENZO.
+
+Ya he dicho que iré..., iré luego... Yo sé cuándo debo ir. Ahora vete.
+(_Aparte a Juana_). Dame el pliego.
+
+JUANA.
+
+Cuando se marche ese hombre. (_Aparte a Lorenzo_).
+
+DON LORENZO.
+
+¡Vete! (_Con violencia_).
+
+DON TOMÁS.
+
+Pero la duquesa...
+
+DON LORENZO.
+
+Que espere. ¿No hace ella esperar a nadie en sus antesalas? Pues
+mejores que las suyas son las mías.
+
+DON TOMÁS.
+
+¿Estás en tu juicio?
+
+DON LORENZO.
+
+En el mío, sí; en el tuyo, no, que mal estuviera. Vete pronto.
+
+DON TOMÁS.
+
+¿Qué tienes, Lorenzo? (_Acercándose a él con interés_).
+
+DON LORENZO.
+
+Nada, nada..., cansancio de oírte... ¡Déjame por Dios santo!
+
+DON TOMÁS.
+
+Bueno..., bueno..., pero, Señor, ¿qué le pasa a este hombre?
+
+
+ESCENA XI.
+
+DON LORENZO, JUANA.
+
+
+DON LORENZO.
+
+¡Ya estamos solos!
+
+JUANA.
+
+¡Lorenzo!
+
+DON LORENZO.
+
+¡Qué! ¿Dudas? ¡Mira que te dejo!... ¡Prometiste darme ese papel!
+La ventura de mi hija me espera allí; y, sin embargo, una mano de
+hierro, la férrea mano de la implacable fatalidad, me tiene a tu lado.
+Considera, Juana, si estoy decidido a averiguar ese secreto.
+
+JUANA.
+
+¡Lorenzo!
+
+DON LORENZO.
+
+¡El papel!... ¡Pues que para mí lo escribió mi madre, es mío!
+
+JUANA.
+
+No te incomodes conmigo, Lorenzo de mi alma. Aquí está... Este es...
+(_Sacándolo del pecho_).
+
+DON LORENZO.
+
+Venga... (_Queriendo cogerlo_).
+
+JUANA.
+
+Espera..., espera..., yo misma he de leerlo..., leeré más despacio que
+tú..., y de este modo... lo que... aquí dice no se te entrará de un
+golpe por los ojos...
+
+DON LORENZO.
+
+Pues lee. ¡Vamos!
+
+JUANA.
+
+Sí, Lorenzo mío; pero no mires; oye no más. (_Colocándose de modo
+que Lorenzo no vea lo escrito en el papel_). «Lorenzo, hijo mío,
+perdóname». (_Leyendo_).
+
+DON LORENZO.
+
+¡Otra vez!
+
+JUANA.
+
+(_Sigue leyendo_). «Conozco que se acerca el fin de mi vida, y los
+remordimientos han hecho presa en mí». (_Pausa_).
+
+DON LORENZO.
+
+¡Sigue!
+
+JUANA.
+
+«Quisiera decirte la verdad, y te amo demasiado para decírtela. Lee en
+estos reglones que mancho con mis lágrimas el secreto de tu existencia,
+y hágase después tu voluntad».
+
+DON LORENZO.
+
+¡El secreto de mi existencia! ¡Dame! (_Queriendo coger el papel_).
+
+JUANA.
+
+No.
+
+DON LORENZO.
+
+¿Qué pesadilla es esta, Juana? ¿Qué círculo de hierro has puesto sobre
+mi frente que con intolerable presión me oprime las sienes?... Dame...
+
+JUANA.
+
+¡No, por Dios!
+
+DON LORENZO.
+
+¡Ha de ser! (_Cogiendo el papel y leyendo con horrible angustia_). «Tu
+padre era rico, muy rico; por millones, por muchos millones se contaba
+su caudal; yo era pobre: no tuvimos hijos». ¡No tuvimos hijos, dice!
+
+
+ESCENA XII.
+
+DON LORENZO, JUANA, ÁNGELA, después EDUARDO.
+
+
+ÁNGELA.
+
+(_Entrando precipitadamente_). ¡La duquesa!...
+
+DON LORENZO.
+
+(_Da un grito de ira. Juana le arranca el papel y lo oculta_). ¡Otra
+vez! ¡Vete!... ¿A qué vienes?
+
+ÁNGELA.
+
+Lorenzo..., Lorenzo...
+
+EDUARDO.
+
+(_Entrando precipitadamente_). ¡Don Lorenzo!
+
+DON LORENZO.
+
+¿Tú también? ¡Idos!... ¡Idos todos!
+
+ÁNGELA.
+
+¿Qué es esto, Dios mío? ¿Qué es esto? ¿Qué tienes, Lorenzo? Vuelve en
+ti.
+
+DON LORENZO.
+
+Idos... Idos..., os lo suplico..., si es preciso de rodillas..., pero
+dejadme... ¡Ah! ¡El egoísmo humano!... ¡Piensan que no hay más que
+sus pasiones y sus intereses! ¡Tomás!... ¡Ángela!... ¡Eduardo!... ¡La
+duquesa!... ¡Todos! ¡Ah! ¡La gota de agua sobre el cráneo!
+
+EDUARDO.
+
+Es que mi madre viene...
+
+ÁNGELA.
+
+Es que la duquesa, impaciente de esperar, viene aquí...
+
+EDUARDO.
+
+Dice que quiere buscar al sabio en su antro.
+
+DON LORENZO.
+
+¡Pues que venga, pero vosotros dejadme! ¡Dejadme..., o me volveré loco
+de desesperación!
+
+ÁNGELA.
+
+No, imposible: su madre de usted no puede verle en tal estado. (_A
+Eduardo_).
+
+EDUARDO.
+
+Venga usted, Ángela; venga usted. Ganemos tiempo, detengámosla en la
+galería, y a ver si entretanto logra Inés calmarle. (_Salen Ángela y
+Eduardo por el foro_).
+
+
+ESCENA XIII.
+
+DON LORENZO, JUANA.
+
+
+DON LORENZO.
+
+¡El papel!... Ese papel funesto, ¿dónde está?... Tú lo tienes...
+
+JUANA.
+
+Sí. (_Sacando el papel_).
+
+DON LORENZO.
+
+Pues dámelo... ¡No tuvimos hijos, decía! (_Procurando leer, pero sin
+conseguirlo_). ¿Dónde está?... ¡No sé! ¡No veo las letras! ¡Una nube
+me pasa por delante de los ojos! ¡No tuvimos hijos!... ¡No puedo!...
+¡No puedo!... Lee tú..., por favor... (_Juana toma el papel_). Ahí...,
+ahí... donde dice «¡No tuvimos hijos!».
+
+JUANA.
+
+(_Leyendo_). «Sabía mi esposo que una enfermedad incurable minaba
+rápidamente su existencia. El infeliz llevaba la muerte en el corazón.
+Loco de amor, quiso asegurarme toda su fortuna, y yo... hice mal, ahora
+lo conozco, hice mal porque él tenía padre, pero yo..., perdóname,
+Lorenzo, tú que eres tan bueno y tan honrado; yo acepté». (_Pausa_).
+
+DON LORENZO.
+
+Sigue... Sigue...
+
+JUANA.
+
+«Buscamos un niño..., no puedo, no puedo escribir más. Juana conoce
+este secreto. Juana te lo dirá todo. Una vez más te ruego que me
+perdones. Adiós, Lorenzo mío, y que él te inspire. Te he querido como a
+hijo, aunque no lo has sido nuestro».
+
+DON LORENZO.
+
+¡Yo! ¡Yo! ¡Yo no era!... ¿Qué dice?... ¡Yo no era su hijo! ¡Yo llevo un
+nombre que no es mío! ¡Cuarenta años ha que gozo bienes ajenos! ¡Yo lo
+he robado todo!... ¡Posición social, apellido, riquezas! ¡Todo, todo!
+¡Hasta las caricias de mi madre, porque no era mi madre!... ¡Hasta sus
+besos, porque yo no era su hijo!... ¡No! ¡Esto no es posible!... ¡Yo no
+soy tan miserable!... ¡Juana..., Juana..., por Dios vivo que me digas
+la verdad! Mira; ya no es por mí: sea de mí lo que Dios quiera: es por
+mi familia..., por esas desdichadas mujeres..., es por mi hija... por
+mi Inés de mi vida..., que se morirá..., ¡y yo no quiero que se muera!
+(_Llorando con desesperación_).
+
+JUANA.
+
+Es verdad, sí; pero, calla... ¿Qué importa, si nadie lo sabe?
+
+DON LORENZO.
+
+Pero ¿es verdad?
+
+JUANA.
+
+Lo es. (_En voz muy baja_).
+
+DON LORENZO.
+
+¡Pues parece mentira! ¡Aquella mujer que tanto me amaba no era mi madre!
+
+JUANA.
+
+No. ¡Tu madre te amaba más!
+
+DON LORENZO.
+
+Pues ¿quién era?
+
+JUANA.
+
+¡Lorenzo!
+
+DON LORENZO.
+
+¿Cómo se llama?
+
+JUANA.
+
+Mírame sin cólera y te lo diré.
+
+DON LORENZO.
+
+¿Dónde está?
+
+JUANA.
+
+¡Luchando con las torturas de un infierno!
+
+DON LORENZO.
+
+¿Murió también?
+
+JUANA.
+
+¡Muriendo está! (_En la última parte de este diálogo, Juana se levanta,
+y ella y Lorenzo forman un grupo agitado, ardiente, delirante. Al
+pronunciar ella la última frase, cae de nuevo y sin fuerzas en el
+sofá_).
+
+DON LORENZO.
+
+¡Juana!
+
+JUANA.
+
+(_Retorciéndose de angustia_). ¡¡No, ese nombre, no!!
+
+DON LORENZO.
+
+¡¡Madre!!
+
+JUANA.
+
+¡¡Sí..., ese nombre, sí, hijo mío!! (_Se levanta de nuevo por arranque
+supremo, y se abraza a Lorenzo_).
+
+
+ESCENA XIV.
+
+DON LORENZO, JUANA, DON TOMÁS.
+
+
+DON TOMÁS.
+
+Ya está ahí..., ya llega...
+
+JUANA.
+
+(_Desprendiéndose de los brazos de Lorenzo_). Déjame..., vienen...,
+vienen..., que no me vean...
+
+DON LORENZO.
+
+¡No..., espera..., yo no sé qué voy a decirte... pero tengo que decirte
+muchas cosas!...
+
+JUANA.
+
+Luego... Adiós... ¡Ya puedo morir! ¡Le llamé hijo! (_Juana se dirige
+lentamente a la puerta de la derecha: Lorenzo la sigue: Tomás en
+observación en el fondo_).
+
+DON LORENZO.
+
+No, todavía no... (_Juana desaparece tras los cortinajes; Lorenzo
+quiere entrar; Tomás acude desde el fondo y le detiene a la fuerza,
+cerrándole el paso y obligándole a retroceder. La actitud de Lorenzo
+en esta escena y en la siguiente queda encomendada al talento y a la
+inspiración del actor_).
+
+
+ESCENA XV.
+
+DON LORENZO, ÁNGELA, INÉS, DUQUESA, EDUARDO, DON TOMÁS.
+
+Los nuevos personajes vienen por el foro.
+
+
+DUQUESA.
+
+¿El señor de Avendaño? (_Con exquisita cortesía. Pausa_).
+
+DON LORENZO.
+
+¡Avendaño!... ¡Avendaño!... No sé dónde está, señora. (_Con voz triste
+y sombría, y con cierta distracción_).
+
+ÁNGELA.
+
+¿Qué dice? (_Aparte_).
+
+INÉS.
+
+Pero ¿qué es esto, Dios mío? (_Aparte_).
+
+DUQUESA.
+
+Comprendo, señor de Avendaño, el disgusto que mi presencia le causa...
+Vengo a arrebatarle la prenda más querida de su alma (_Señalando a
+Inés_), y no extraño en verdad que me trate usted como a enemiga. (_Con
+dulzura_).
+
+DON LORENZO.
+
+¡Enemiga mía es la suerte, nadie más!
+
+INÉS.
+
+Pero ¡Dios mío! (_Aparte_).
+
+DUQUESA.
+
+Tiene usted razón: encarnizada enemiga es de los padres.
+
+DON LORENZO.
+
+¡Y más aún de los hijos!
+
+DUQUESA.
+
+No lo niego; pero en fin, leyes divinas son estas que gobiernan los
+dolores humanos, y fuerza es respetarlas. (_Procurando dar otro giro a
+la conversación, pero sin conseguir dominar su extrañeza_).
+
+DON LORENZO.
+
+¡Ay, señora, que esas leyes divinas son más crueles a veces que
+si fueran obras de la crueldad humana! (_La duquesa hace un vivo
+movimiento de impaciencia. Eduardo se acerca a ella; Inés a su padre:
+Ángela y Tomás observan con asombro_).
+
+INÉS.
+
+(_Aparte a don Lorenzo_). ¡Por Dios, padre!
+
+EDUARDO.
+
+(_Aparte a la Duquesa_) ¡Madre, madre, por mí!
+
+DUQUESA.
+
+(_Con altivez y entonación un poco seca_). Soy madre; adoro a mi hijo;
+sé que su felicidad es imposible si no la comparte con esta señorita;
+y a perder un hijo, prefiero tener dos.
+
+INÉS.
+
+¡Ves qué buena, padre mío! (_Aparte a don Lorenzo_).
+
+DON LORENZO.
+
+¡Perder un hijo es horrible desdicha!
+
+DUQUESA.
+
+¿Quiere usted dar al mío el nombre de hijo también? (_Con dulzura y
+adelantándose hasta don Lorenzo_).
+
+INÉS.
+
+(_Con angustia y en voz baja_). Contesta, padre.
+
+DON LORENZO.
+
+(_Se queda mirando a su hija, le coge la cabeza entre las manos y de
+nuevo la contempla con pasión_). ¡Qué hermosa eres! ¡Imposible parece
+que tú no puedas más que la ley del honor!
+
+DUQUESA.
+
+(_Sin poder ya dominarse_). En suma, señor de Avendaño: ¿quiere usted
+que mi hijo, el duque de Almonte, dé su nombre a la señorita Inés?
+
+DON LORENZO.
+
+(_Con sublime violencia_). ¡Si yo fuera un infame, buena ocasión de dar
+nombre ajeno a quien no lo tiene propio!
+
+INÉS.
+
+¡Padre!
+
+ÁNGELA Y DON TOMÁS.
+
+¡Lorenzo!
+
+DUQUESA.
+
+He de confesar lealmente que ni comprendo sus contestaciones de usted,
+ni su actitud, que es muy otra de lo que yo esperaba, y me limito a
+preguntarle por última vez: ¿acepta usted?
+
+DON LORENZO.
+
+Yo soy un hombre honrado: la desgracia podrá vencerme, no mancharme.
+Señora duquesa de Almonte, ese matrimonio es imposible.
+
+DUQUESA.
+
+¡Ah! (_Sintiéndose herida, y retrocediendo un paso_).
+
+INÉS.
+
+¿Qué dices?... ¡Padre!... ¡Imposible!
+
+DON LORENZO.
+
+¡Imposible, sí!... ¡Porque no soy Avendaño; porque mis padres no eran
+mis padres; porque esta casa no es mi casa; porque no puedo darte, hija
+de mi alma, más que un nombre escarnecido y manchado; porque soy el más
+infeliz de los hombres y no quiero ser el más miserable!
+
+INÉS.
+
+¡Padre, padre!... ¿Por qué me matas? (_Cae en el sofá_).
+
+ÁNGELA.
+
+¿Qué has hecho, insensato?
+
+DON LORENZO.
+
+¡Inés!... ¡Inés!... ¡Venciste, Dios mío, pero ten compasión de mí!
+(_Todos rodean a Inés_).
+
+
+FIN DEL ACTO PRIMERO.
+
+
+
+
+ACTO SEGUNDO.
+
+La misma decoración del acto anterior. Es de noche. La chimenea está
+encendida: hay una vela con pantalla sobre la mesa de despacho.
+
+
+ESCENA PRIMERA.
+
+EDUARDO.
+
+Aparece escuchando a la puerta de la derecha; después viene al centro.
+
+
+EDUARDO.
+
+Nada se oye. ¿Habrá vuelto en sí? ¡Oh, Dios mío, y en esta vida, qué
+cerca de la vida está la muerte! (_Pausa_). ¡Y piensan que he de
+renunciar a mi adorada Inés! ¡Suponen que yo he dar crédito a esa
+ridícula historia que don Lorenzo refiere! ¡Pobre sabio!, ¿qué sabe él
+lo que se dice? (_Breve pausa_). Y aun siendo cierto lo que afirma,
+¿dejaría de ser Inés la más hermosa y la más amante de las mujeres?
+Será mía aunque tenga que arrastrarme a los pies de mi madre y regarlos
+de lágrimas: cederá don Lorenzo aunque tengamos que ponerle una mordaza
+y una camisa de fuerza; y esa pobre mendiga, que con sus delirios
+contagió al desatentado filósofo, se irá de aquí, se irá lejos, muy
+lejos de nosotros. ¡Con tal que Inés resista el golpe que recibió de
+su padre! (_Acercándose otra vez a la puerta y escuchando_). Nada...,
+nada: silencio, siempre el mismo silencio. (_Volviendo al centro del
+escenario_). Su padre... ¡Ah, su padre! Dios me perdone, pero casi le
+aborrezco. (_Exaltándose por grados_). ¡Insensato, y cómo se complacía
+en torturarla! ¡Su padre, sabio sin seso, ateo con pujos de santidad,
+nuevo don Quijote con el ingenio de menos y la pedantería de más, falso
+caballero Bayardo de la honradez! ¿Qué padre es ese que desgarrando
+el corazón de una hija pretende ganar reputación de virtud? ¡Fuera la
+virtud así, y me pareciera más simpático el crimen! Nadie viene..., y
+pasan las horas... Alguien se acerca.
+
+
+ESCENA II.
+
+EDUARDO, DUQUESA por la derecha.
+
+
+EDUARDO.
+
+¡Madre mía!... ¿Inés, cómo está Inés?... ¿Ha vuelto en sí?
+
+DUQUESA.
+
+Al fin, a Dios gracias. ¡Pobre niña! No he querido marcharme hasta que
+pasara el peligro; pero ya está bien. Y ahora, hijo mío...
+
+EDUARDO.
+
+Ahora he de verla.
+
+DUQUESA.
+
+¡Eduardo!
+
+EDUARDO.
+
+Y después hemos de hablar a don Lorenzo; y después...
+
+DUQUESA.
+
+Y después has de concluir con mi paciencia. He hecho por ti cuanto el
+decoro, la dignidad y los respetos sociales me han permitido, y algo
+más; pero ha llegado el instante de que te muestres hombre, de que
+recuerdes quién eres, y de que escuches la voz del deber.
+
+EDUARDO.
+
+Bien dices: haré lo que hacer deba; pero no sé, y perdóname, madre mía,
+si entendemos el deber del mismo modo.
+
+DUQUESA.
+
+Debes renunciar a Inés para siempre.
+
+EDUARDO.
+
+¿Por qué? ¿Porque es pobre?
+
+DUQUESA.
+
+No es eso.
+
+EDUARDO.
+
+Entonces ¿por qué, madre mía? ¿Porque don Lorenzo intenta tan sublime
+acción que, si la realiza, ha de eternizarse su nombre en libros y en
+historias, y hasta quién sabe si alcanzará puesto en el calendario?
+
+DUQUESA.
+
+Buen humor gastas, y no es esta mala señal.
+
+EDUARDO.
+
+Quiero probarte que conservo toda mi sangre fría. Y por lo demás, a don
+Lorenzo hay que tomarle en broma, o hay que encerrarle en una casa de
+orates.
+
+DUQUESA.
+
+No digas esas cosas, Eduardo: no me gusta que hables de ese modo.
+Aunque hay algo de exagerado, no poca precipitación, y cierto alarde
+melodramático en los proyectos de don Lorenzo, no puede desconocerse
+que su conducta es la de un hombre de bien.
+
+EDUARDO.
+
+Porque se goza en la desventura de su hija.
+
+DUQUESA.
+
+Porque cumple leyes divinas sin respeto a pasiones humanas.
+
+EDUARDO.
+
+Pues si tan honrado es don Lorenzo y el brillo de acciones nobles se
+hereda, rico en nobleza heredada viene a ser el ángel de mi vida.
+
+DUQUESA.
+
+Y rico en heredada deshonra también. (_En voz baja con energía, y
+acercándose a su hijo_). Inés no tiene un nombre bueno o malo que
+llevar, porque se ignora cuál es el de su padre, y el de esa mujer está
+en los infames registros de una casa de corrección por delito de robo.
+
+EDUARDO.
+
+¡Calla!
+
+DUQUESA.
+
+Ser nieta de una humilde nodriza, cómplice de usurpación de estado
+civil, es el bello ideal de esa pobre niña, si lo que don Lorenzo
+afirma es cierto. Será tal vez exceso de orgullo aristocrático rehusar
+tan noble alianza, pero así me han hecho las que tú, educado a la
+moderna, consideras rancias preocupaciones.
+
+EDUARDO.
+
+Pues bien, madre. Yo amo a Inés.
+
+DUQUESA.
+
+Loco estás, hijo mío.
+
+EDUARDO.
+
+Locura dicen que es el amor; conque no es maravilla que lo esté.
+
+DUQUESA.
+
+Sí, lo estás, y a mí misma me haces perder el juicio.
+
+EDUARDO.
+
+¿Prefieres perderme a mí?
+
+DUQUESA.
+
+Basta, Eduardo: salgamos de esta casa donde en mal hora entraste por
+vez primera.
+
+EDUARDO.
+
+Pero dime; ¿no es Inés un ángel?
+
+DUQUESA.
+
+Ángel del cielo me pareció la pobre niña al llegar; ángel de dolor, al
+dejarla.
+
+EDUARDO.
+
+¿No confiesan todos que don Lorenzo es un sabio, y no dices tú que es
+un santo?
+
+DUQUESA.
+
+Injusticia fuera negarle clarísimo talento y honradez intachable.
+
+EDUARDO.
+
+¿Luego no está el mal en ellos?
+
+DUQUESA.
+
+No lo está.
+
+EDUARDO.
+
+Pues el escándalo ¿no puede evitarse? (_Acercándose a su madre, y
+en voz muy baja_). ¿Quién conoce esa desdichada historia, verdadera
+o falsa, que más falsa que verdadera me parece? Nosotros..., y
+callaremos. Don Tomás, y es como de la familia. Esa infeliz mujer, y en
+breves horas un eterno silencio sellará sus labios. Don Lorenzo, y al
+fin es padre y hará por su hija lo que tú no quieres hacer por mí. ¡Oh,
+madre mía!, ¿a qué buscar la desesperación y la muerte cuando está la
+dicha en nuestras manos?
+
+DUQUESA.
+
+Pero ¿lo ves, desdichado? ¿Ves cómo el contacto del crimen pervierte
+los más nobles caracteres? ¿No conoces que me propones una infamia, que
+me quieres hacer cómplice de una felonía? Dios mío, ¿qué han hecho de
+mi hijo que tales cosas dice y tales ideas acaricia?
+
+EDUARDO.
+
+Pero ¿quién habla de infamias ni quién propone felonías? ¿Es que
+don Lorenzo nos hace a todos perder la razón, o es que te deleita mi
+martirio?
+
+DUQUESA.
+
+Pero ¿no hablabas de evitar el escándalo con el silencio?
+
+EDUARDO.
+
+Sí.
+
+DUQUESA.
+
+¿Pues entonces?...
+
+EDUARDO.
+
+Escucha, madre, lo que yo dije o lo que quería decir. Si la historia de
+don Lorenzo es cierta, que lo dudo, se busca con sigilo y con cautela a
+los legítimos herederos de esa maldecida fortuna, y de ella se les hace
+donación en cualquier forma.
+
+DUQUESA.
+
+Pero ¿con qué pretexto?
+
+EDUARDO.
+
+Para pedir no fuera fácil encontrarlo; para dar no temas que nos falten
+y todos han de parecer igualmente buenos al que reciba.
+
+DUQUESA.
+
+Pero Inés llevará un nombre que no le pertenece.
+
+EDUARDO.
+
+Llevará el mío, que vale por todos.
+
+DUQUESA.
+
+¡Ah, en eso razón tienes! Pero don Lorenzo...
+
+EDUARDO.
+
+Déjale en paz, que harto tiene que hacer con sus filosofías. Pensemos
+en nosotros, y piensa que todo, todo puede arreglarse si tú consientes.
+Una palabra tuya da la vida a la pobre Inés: nueva vida me da, que
+con tu crueldad me arrancabas la que me diste con tu amor; devuelve
+la dicha a esta infeliz familia; y sin escándalo, ni ostentación, ni
+aparatoso alarde pasan a sus legítimos dueños las usurpadas riquezas.
+¿Dónde están aquí la infamia y la felonía?
+
+DUQUESA.
+
+Me fascinas, Eduardo, no sé qué decirte; pero una voz interior me
+advierte que esto no es lo justo ni lo recto; que la ficción nunca es
+preferible a la verdad; que en don Lorenzo, a pesar de sus delirios,
+triunfa el deber; que en ti, a pesar de tus argucias, la pasión triunfa.
+
+EDUARDO.
+
+Pero ¿por qué? Contéstame.
+
+DUQUESA.
+
+No sé discutir contigo, Eduardo.
+
+EDUARDO.
+
+Lo que no sabes es quererme.
+
+DUQUESA.
+
+¡Que no te quiero! ¡Cruel! ¡No lo crees tú al decirlo, pero el corazón
+se me oprime al escucharlo!
+
+EDUARDO.
+
+Pues cede.
+
+DUQUESA.
+
+¡Hijo mío, por Dios!
+
+EDUARDO.
+
+Vas a ceder, bien lo veo: tu frente está pálida: en tus ojos hay
+lágrimas: tiemblan tus labios. (_Con voz cariñosa_). Es que ya se
+agitan para decirme que sí; ¿y por qué no? En lo que yo he pensado
+¿hay alguna cosa que no armonice por manera absoluta con ese ideal de
+perfección moral que tú y don Lorenzo acariciáis? ¿Hay en mi plan algo
+malo?
+
+DUQUESA.
+
+Sí, Eduardo.
+
+EDUARDO.
+
+¡Será tan poco! ¡Un átomo, una sombra, un escrúpulo! ¿Y no merezco yo
+la pena de un pecadillo venial? Busca en el pueblo, a quien a veces
+tratas con harto desdén y del que te separa como abismo profundo tu
+aristocrática educación, busca una madre y pregúntale si por la vida
+de su hijo no ahogaría en un grito de amor todos esos refinamientos de
+conciencia.
+
+DUQUESA.
+
+¡Es que lo que otra madre haga soy yo capaz de hacerlo! (_Con
+apasionado arranque_).
+
+EDUARDO.
+
+(_Abrazándola_). ¡Gracias, gracias, madre mía!
+
+DUQUESA.
+
+Pero...
+
+EDUARDO.
+
+Lo has dicho, lo has dicho. (_Sin dejarla hablar_). Y además tal vez
+nada de esto sea necesario. ¿Quién nos asegura que la historia de don
+Lorenzo es cierta? ¿Qué pruebas materiales hay? Ninguna, que sepamos.
+El dicho de una mujer que agoniza y delira. ¿Y esto basta?
+
+DUQUESA.
+
+No, en verdad.
+
+EDUARDO.
+
+Pues ni aun esto tenemos: porque todavía don Tomás no ha podido
+interrogar a Juana. ¿Sabemos si ella lo dijo o si don Lorenzo lo soñó?
+¡Ah, la cabeza de don Lorenzo no está segura!
+
+DUQUESA.
+
+No lo está, no.
+
+EDUARDO.
+
+¡Qué exaltación, qué extravío!
+
+DUQUESA.
+
+Yo pensé que se había vuelto loco.
+
+EDUARDO.
+
+Y lo estará. Estos sabios concluyen por locos todos ellos. El mismo don
+Tomás reconoce, la misma Ángela confiesa que don Lorenzo no discurre
+como otros hombres.
+
+
+ESCENA III.
+
+LA DUQUESA, EDUARDO, ÁNGELA por la derecha.
+
+
+ÁNGELA.
+
+Por Dios, señora, no nos deje usted todavía. Inés quiere verla; la
+llama a usted anegada en llanto: usted es su único consuelo.
+
+DUQUESA.
+
+¡Pobre niña!
+
+ÁNGELA.
+
+Dejó el lecho sin que pudiéramos evitarlo, porque su agitación nerviosa
+es tal que infunde miedo, y quiso venir a buscar a usted, pero le
+faltaron las fuerzas. Vaya usted, por Dios, duquesa, a consolar a mi
+hija: a usted que es madre cariñosa, otra madre muy desgraciada se lo
+ruega.
+
+EDUARDO.
+
+¿Y le vas a decir que todavía hay esperanza, que todo depende de don
+Lorenzo, no es verdad?
+
+ÁNGELA.
+
+¡Cómo! ¿Será cierto? ¡Ah, señora! (_Se acerca a la Duquesa y le coge
+las manos con efusión_).
+
+EDUARDO.
+
+Sí, yo le explicaré a usted... (_A Ángela_). Conviene que hable usted
+al alma a su esposo.
+
+DUQUESA.
+
+Pero... (_Eduardo sin atender a su madre se separa a un lado con
+Ángela, y los dos hablan en voz baja_). ¡Este Eduardo, este hijo mío
+(_Aparte_) hace de mí cuanto quiere! ¿Qué le digo yo a la buena señora,
+si él asegura que ya estoy conforme?... ¡Ah, qué cabeza!... Y la niña
+es hermosa como un ángel y simpática como ninguna. ¡Pobre Inés! Y don
+Lorenzo posee..., o poseía una fortuna regia... ¡Ah, grandezas y
+vanidades humanas!
+
+ÁNGELA.
+
+Comprendo... Comprendo. (_A Eduardo: después se vuelve a la Duquesa_).
+¡Cómo le agradezco a usted tanta bondad! Lleve usted pronto la buena
+nueva a mi pobre Inés: yo entretanto procuraré que Lorenzo consienta, y
+consentirá. Sí: es preciso. O no tiene corazón, o ha de consentir.
+
+EDUARDO.
+
+Vamos, madre.
+
+DUQUESA.
+
+(¡Cómo ha de ser!)
+
+EDUARDO.
+
+¡Qué buena eres! (_Salen por la derecha la Duquesa y Eduardo_).
+
+
+ESCENA IV.
+
+ÁNGELA, DON LORENZO, este último por la izquierda.
+
+
+DON LORENZO.
+
+Ahí mi madre que expira..., y allá aquel pedazo de mi alma... ¿Qué
+hacer, Dios mío? (_Se dirige lentamente a la puerta de la derecha, pero
+en el momento de entrar, Ángela le cierra el paso_).
+
+ÁNGELA.
+
+¿A dónde vas, Lorenzo?
+
+DON LORENZO.
+
+A ver a mi hija.
+
+ÁNGELA.
+
+Imposible... Ya volvió en sí y tu presencia pudiera causarle mucho mal;
+tanto, por lo menos, como el que tus palabras le causaron.
+
+DON LORENZO.
+
+Es que yo quiero verla.
+
+ÁNGELA.
+
+Es que no debes verla; y ya que en ti el deber siempre impera, no
+por mi voluntad, que nada es ante la tuya, por tu propia y reflexiva
+voluntad (_Con ironía_) respetarás el solitario llanto de la pobre Inés.
+
+DON LORENZO.
+
+Tienes razón. (_Pausa. Vienen los dos al centro del escenario_). ¡Hija
+de mi alma! ¿Qué dice de mí?
+
+ÁNGELA.
+
+Nada.
+
+DON LORENZO.
+
+¿No me acusa?
+
+ÁNGELA.
+
+No sé lo que en el fondo de su alma murmurará el dolor.
+
+DON LORENZO.
+
+¡Ser yo su verdugo! ¡Yo destruir todas sus esperanzas! ¡Haber
+desgarrado yo su corazón!
+
+ÁNGELA.
+
+Conciencia perfecta tienes de tu obra, Lorenzo. Menos malo, si a la
+reparación te ayuda el remordimiento.
+
+DON LORENZO.
+
+¡Desdichado de mí!
+
+ÁNGELA.
+
+¡Tú desdichado! La desdichada es ella, no tú, que en la contemplación
+de tus perfecciones morales y altas virtudes encontrarás de seguro
+goces inefables y divinos consuelos. (_Con ironía_).
+
+DON LORENZO.
+
+¡Qué mal me juzgas, y qué mal me comprendes!
+
+ÁNGELA.
+
+¡Juzgarte mal, y admiro humildemente los frutos de tu santidad! ¡No
+comprenderte! En esto sí que dices bien, que seres superiores, como
+tú, no están al alcance de pobres inteligencias como la mía. (_Con
+sarcasmo_).
+
+DON LORENZO.
+
+Tus palabras, Ángela, se me clavan como agudos puñales en el corazón.
+
+ÁNGELA.
+
+¿En el corazón? ¡Imposible!
+
+DON LORENZO.
+
+Pero ¿qué querías que hiciese? Habla, aconseja, resuelve, da luz a mi
+espíritu que en tinieblas se agita.
+
+ÁNGELA.
+
+¿Qué quería que hicieses? Lo que ahora quiero. Que salves la vida de tu
+hija. Que no pongas más obstáculos a su boda. Que no irrites el orgullo
+de la duquesa con brutales e inútiles revelaciones. Que no hagas
+imposible con un nuevo escándalo el remedio del daño que causaste.
+
+DON LORENZO.
+
+En puridad; tú quieres que calle.
+
+ÁNGELA.
+
+Sí, que calles.
+
+DON LORENZO.
+
+Pero eso sería infame.
+
+ÁNGELA.
+
+No lo sé: siento; no discuto.
+
+DON LORENZO.
+
+Es que todo mi ser se subleva ante esta idea. ¡Yo, cómplice del más
+repugnante de los delitos, porque es el más cobarde! ¡Yo, gozando
+riquezas usurpadas, y nombres postizos, y dichas que no son nuestras
+porque Dios no quiso que lo fuesen y pues Él no lo quiso no deben
+serlo! ¡Inés, y tú, y yo, y todos, encharcados en el fango! ¿Es esto
+lo que me aconsejas? (_Exaltándose por grados_). Entonces la virtud
+es una mentira: entonces vosotras, los seres que yo más amé en el
+mundo, porque en vosotras veía algo divino, sois miserables egoístas,
+repulsivas al sacrificio, presas de la codicia, juguetes de la pasión:
+entonces... ¡sois tierra y no más que tierra! ¡Pues si sois tierra,
+deshaceos en polvo, y arrástrenos a todos el viento de la tempestad!
+(_Con extrema violencia_).
+
+ÁNGELA.
+
+¡Lorenzo!
+
+DON LORENZO.
+
+¡Seres sin conciencia y sin albedrío son átomos que hoy se juntan y que
+mañana se separan! ¡Allá va la materia, dejadla ir!
+
+ÁNGELA.
+
+¡Tú deliras, Lorenzo! ¡Yo no te comprendo! ¡Yo no sé lo que quieres!
+
+DON LORENZO.
+
+Respetar la justicia y la verdad.
+
+ÁNGELA.
+
+¿La verdad?
+
+DON LORENZO.
+
+Sí.
+
+ÁNGELA.
+
+¿Y la dirás en voz alta a todo el mundo?
+
+DON LORENZO.
+
+La diré.
+
+ÁNGELA.
+
+¿Y nos dejarás en la miseria?
+
+DON LORENZO.
+
+Ganaré vuestro sustento y el mío con mi trabajo.
+
+ÁNGELA.
+
+¿Ganar tú? ¡Vanidad de sabio! Pero sea. Oye, Lorenzo. Si esas riquezas
+no son tuyas, devuélvelas enhorabuena. (_Lorenzo da un grito de alegría
+y se acerca con los brazos abiertos a Ángela_). Ni las privaciones me
+asustan, ni soy la mujer miserable y egoísta que tú pintabas ha poco.
+
+DON LORENZO.
+
+Ángela, mi buena Ángela, perdóname.
+
+ÁNGELA.
+
+¿Quieres mi perdón? ¿Quieres que siga bendiciendo, como siempre
+bendije, la hora en que fui tu esposa?
+
+DON LORENZO.
+
+Sí.
+
+ÁNGELA.
+
+Pues bien; cumple como hombre honrado; pero en el silencio, con
+prudencia, sin ruido, sin ostentación, sin escándalo.
+
+DON LORENZO.
+
+¿Y para qué? Si no querrá la duquesa, ni aun de ese modo, que Eduardo
+sea el esposo de mi hija.
+
+ÁNGELA.
+
+Eduardo responde del consentimiento de su madre.
+
+DON LORENZO.
+
+No cederá.
+
+ÁNGELA.
+
+Cederá: es mujer; es madre. No todos alcanzan tu perfección.
+
+DON LORENZO.
+
+No lo creo.
+
+ÁNGELA.
+
+¿Es que no lo crees, o es que lo temes?
+
+DON LORENZO.
+
+Mas suponiendo que cediese, ¿cómo he de conservar un nombre que no es
+mío?
+
+ÁNGELA.
+
+¡Ah miserables sutilezas, a las que sacrificas la vida de Inés!
+
+DON LORENZO.
+
+Un nombre, Ángela, es en la vida social...
+
+ÁNGELA.
+
+Un nombre es un sonido, aire que se agita, algo que pasa; ¡vanidad
+humana! Y una hija es un ser que está hecho de nuestra propia carne
+y de la sangre de nuestras propias venas; un ser que al brotar de la
+nada recogimos en nuestro seno, y que al venir al mundo recibimos en
+nuestros brazos; que nos dio su primera sonrisa y su primer beso y su
+primer llanto; que vivió de nuestra vida, y fue a la par nuestro placer
+más puro y nuestro más agudo dolor; un ser a quien amamos más que a
+nosotros mismos, pero sin la levadura egoísta que afea todos nuestros
+demás amores; único amor divino que existe en la tierra y que si el
+cielo es cielo, allá tras lo azul y en el mismo Dios existirá también.
+Escoge ahora, ¡impío!, entre lo que tú llamas un nombre y lo que yo
+llamo una hija.
+
+DON LORENZO.
+
+Tus palabras me enloquecen, Ángela.
+
+ÁNGELA.
+
+Pues enloqueciste para tormento de Inés, ¿qué mucho que enloquezcas
+para su dicha?
+
+DON LORENZO.
+
+Ángela..., Ángela..., en parte... sí..., tienes razón... soy un pobre
+demente..., mis escrúpulos son quizá exagerados. ¡Mi hija, mi Inés, tan
+buena, tan hermosa! ¡Y moriría..., sí..., moriría!...
+
+ÁNGELA.
+
+Al fin... ¡Lorenzo, mi buen Lorenzo!
+
+DON LORENZO.
+
+Pero aguarda..., no..., mis ideas se confunden... ¡un torbellino de
+fuego gira dentro de mi cráneo! Sin embargo, aun así comprendo que no
+basta renunciar a los bienes que poseo; es preciso que diga por qué
+renuncio a ellos.
+
+ÁNGELA.
+
+¡Lorenzo!
+
+DON LORENZO.
+
+(_Sin escucharla y como hablando consigo mismo_). De otro modo
+devuelvo materialmente bienes también materiales, es verdad; pero sin
+reconocer el legítimo derecho de las personas a quienes he despojado;
+restituyo, pues, traidora y cobardemente, y a la sombra de otro derecho
+artificioso y vano que para comodidad mía y beneficio de mi familia yo
+forjé con malas artes, lo que debí restituir en toda su integridad.
+
+ÁNGELA.
+
+¡Cuántas palabras altisonantes, Lorenzo!
+
+DON LORENZO.
+
+(_Sin atenderla_). Al conservar un nombre que no es mío soy un
+miserable ladrón, es preciso decirlo por más que la palabra me queme
+los labios. Robo un nombre y un derecho; privo a mis víctimas de sus
+más poderosos medios de defensa contra la codicia que en cualquier
+tiempo pueda despertarse en mis sucesores, y doy quizá ocasión en lo
+futuro a nuevas iniquidades. ¿Lo ves?... ¿Lo ves, mujer ciega? Hay que
+decir la verdad, toda la verdad, en voz alta, suceda lo que quiera.
+
+ÁNGELA.
+
+¡Lorenzo!
+
+DON LORENZO.
+
+Un juez, un tribunal ¿me despojaría por su sentencia solo de mis
+bienes, o de mis bienes y de mi nombre a la vez? De todo, de todo, ¿no
+es verdad? Pues lo que un juez hiciera debo hacerlo yo, juez de mí
+mismo, o soy un miserable. Ahí tienes, ahí tienes, desdichada, lo que
+me grita la conciencia. No, yo no quiero ser honrado a medias, porque
+en todo aquello en que no sea enteramente honrado seré infame por
+entero. ¡Ah!, estas cosas son muy claras: nada más claro que el deber.
+
+ÁNGELA.
+
+Pero entonces, siendo el hecho público, la duquesa no consentirá.
+
+DON LORENZO.
+
+No consentirá: ya te lo decía yo.
+
+ÁNGELA.
+
+¡Ah! ¡Lorenzo, Lorenzo; lo eres todo: filósofo, moralista,
+jurisconsulto y, por de contado, hombre de bien! ¡Todo, todo...,
+miserable máquina de pensar, todo menos padre!
+
+DON LORENZO.
+
+Quieres volverme loco, y has de conseguirlo.
+
+ÁNGELA.
+
+Ya no es posible.
+
+DON LORENZO.
+
+¿Lo estoy?
+
+ÁNGELA.
+
+Lo estás, y cuenta que no has llegado a lo más profundo del abismo.
+Óyeme, que yo también entiendo algo en esto de la lógica: al fin soy tu
+mujer. ¿Vas a decir la verdad, toda la verdad?
+
+DON LORENZO.
+
+Toda.
+
+ÁNGELA.
+
+¿A la justicia humana?
+
+DON LORENZO.
+
+A la justicia divina inútil me parece, que ya en este momento nos está
+juzgando a los dos.
+
+ÁNGELA.
+
+Compréndeme, Lorenzo. Quiero decir si repetirás todo lo que nos
+contaste, ha poco, al juez, al escribano, ¿qué se yo?, a los que han de
+recoger estos bienes que tú abandonas y han de entregarlos a sus dueños.
+
+DON LORENZO.
+
+Sí, a esos.
+
+ÁNGELA.
+
+¿Y referirás toda la historia?
+
+DON LORENZO.
+
+Preciso será.
+
+ÁNGELA.
+
+Pues atiende. Tendrás que decir que esa mujer, tu nodriza Juana, es tu
+madre.
+
+DON LORENZO.
+
+De ese modo lavaré la mancha que sobre ella arrojó una sentencia
+inicua. Bastara esto solo para que el silencio que me aconsejas fuera
+un crimen.
+
+ÁNGELA.
+
+Y esto solo basta para que sea un deber el silencio. ¿No ves,
+desdichado, que si Juana es inocente del delito que se le imputó, es
+reo de un delito mayor? ¡Usurpación de estado civil se llama! Bien
+lo sabes. Falsificar la familia, que es escarnecerla y destruirla;
+arrancar un inmenso caudal a sus legítimos dueños, que es algo más que
+recoger del suelo un medallón; cubrir un nacimiento ilegítimo con un
+nombre honrado, que es envolver en manto de armiño la podredumbre del
+vicio. Si Juana es tu madre, todo esto ha hecho Juana, y en su maldad
+ha persistido durante cuarenta años.
+
+DON LORENZO.
+
+(_Separándose de Ángela y oprimiéndose la cabeza con las manos_).
+¡Calla, calla, por Dios santo!
+
+ÁNGELA.
+
+Eso te pido yo: ¡calla!
+
+DON LORENZO.
+
+¡Es mi madre!
+
+ÁNGELA.
+
+¿Y qué importa? Quien inmola a la hija inocente, ¿por qué ha de
+respetar a la madre culpable? ¿No son superiores las leyes divinas a
+las leyes humanas? ¿No es lo primero la justicia, el deber, la verdad?
+¿No han de prevalecer los fueros del alma sobre las flaquezas de la
+carne?
+
+DON LORENZO.
+
+Tienes razón; pero aun teniéndola, deliras. (_Huyendo de Ángela_).
+
+ÁNGELA.
+
+¿Por qué? Mira que vas siendo tan vulgar y tan débil como esta pobre
+madre. ¿No exige el deber que dejes morir a tu hija? Pues muera. ¿No
+exige que tú mismo arrastres a Juana moribunda al calabozo? Pues allá
+con la anciana. Ya ves como yo también entiendo de estas cosas: ya ves
+como tengo yo también mi lógica.
+
+DON LORENZO.
+
+¡Lógica del infierno!
+
+ÁNGELA.
+
+Y la tuya ¿de qué sublime esfera descendió?
+
+DON LORENZO.
+
+(_Huyendo de Ángela_). Déjame..., déjame..., no puedo más. ¡Inés de
+mi alma! ¡Madre mía!... ¿Qué mal te hice, Ángela, para que así me
+atormentes? (_Viene a caer ya sin fuerzas en el sillón inmediato a la
+mesa_). ¡Ah, mi cabeza, mi cabeza arde!
+
+ÁNGELA.
+
+Lorenzo..., Lorenzo... (_Con dulzura_).
+
+DON LORENZO.
+
+Sí: tienes razón... Sí: soy un pobre demente... ¿Qué sé yo lo que debo
+hacer?... ¡Todo es sombra! ¿Qué es la verdad, qué es la mentira?
+
+ÁNGELA.
+
+(_Aparte_). Fui muy cruel, pero salvé a mi hija: no hablará. (_Lorenzo
+está sentado, desplomado más bien, en el sillón; tiene los brazos sobre
+la mesa y en las manos oculta el rostro. Ángela se acerca a él con
+cariño y le habla con dulzura_). Lorenzo, perdóname.
+
+DON LORENZO.
+
+¡Vete, vete por Dios!
+
+ÁNGELA.
+
+Quise mostrarte el abismo en que caías: quise salvar a Inés; quise
+salvarte a ti de tus propios furores.
+
+DON LORENZO.
+
+Sí..., sí, Ángela..., lo comprendo..., pero déjame.
+
+ÁNGELA.
+
+¿Me perdonas?
+
+DON LORENZO.
+
+Te perdono..., y te amo... ¡Pobre Ángela, tú también padeces! Pero
+deseo estar solo.
+
+ÁNGELA.
+
+Pues bien, me voy; pero no te aflijas: ya buscaremos camino de
+salvación. Diré a Inés que quieres verla ¿No deseas estrecharla contra
+tu pecho?
+
+DON LORENZO.
+
+Si ella quiere... (_Con tono sumiso_).
+
+ÁNGELA.
+
+Pues espérame aquí: vendré a llamarte, y allá, cerca de nuestra pobre
+niña, todos reunidos, animados del mismo deseo, aunando nuestras
+voluntades, tú has de ver cómo vencemos la fatalidad que hoy nos abruma.
+
+DON LORENZO.
+
+La venceremos..., sí, la venceremos... (_Repitiendo lo que oye sin
+saber lo que dice_).
+
+ÁNGELA.
+
+Adiós... y no me guardes rencor.
+
+DON LORENZO.
+
+¡Rencor!... ¡A ti!
+
+ÁNGELA.
+
+¡Adiós!
+
+
+ESCENA V.
+
+DON LORENZO.
+
+Sentado a la mesa y con aire de profundo abatimiento. La chimenea arde
+con luz rojiza: la habitación aparece envuelta en grandes sombras que
+se condensan fantásticamente en los cortinajes. Larga pausa.
+
+
+DON LORENZO.
+
+Ya estoy solo. ¡Cuántas sombras por todas partes! ¡Qué poco brilla
+esta luz! Mejor: crezcan las tinieblas: ¡a mí la oscuridad! En ella es
+donde se nos aparece más luminosa la conciencia. Quiero el bien, pero
+no sé dónde está: mi voluntad es fuerte, pero mi razón se ofusca. Tres
+nombres relampaguean ante mis ojos en la negra noche en que me agito.
+¡Ángela, Juana, Inés! ¡A mi calvario me lleva mi destino y sin quejarme
+subo la cruz de mis dolores! Pero vosotras, pero tú, Inés mía, ¿por
+qué habéis de precederme marcando con vuestras lágrimas el camino que
+han de ensangrentar mis plantas? Yo solo... sea; pero vosotras, no.
+¡Ah, Dios mío, que la luz de mi conciencia se apaga: que mi voluntad
+desfallece: que la desesperación se apodera de mi espíritu! Yo anhelo
+el bien, y en ti lo busco. ¡Señor, ven a mí; ven, que yo te llamo!
+¡Sombras que me rodeáis; espacio en que dolorido me revuelvo; tiempo
+que eres para mí eternidad de congojas; y tú, silencio augusto, que por
+algo compasivo me escuchas, llamad todos a vuestro Dios, que mi voz no
+le alcanza! ¡Decidle que no quiero que muera mi hija; que aparte de
+ella el cáliz de la amargura, y que todo lo agote entre mis labios! ¡A
+mí todo..., a ella no! ¡Es tan hermosa, es tan buena, es tan pura!...
+¡Ella no! ¡Ella no, Dios mío! (_Deja caer la cabeza sobre la mesa y
+llora amargamente. Pausa_).
+
+
+ESCENA VI.
+
+DON LORENZO, JUANA.
+
+Aparece en la puerta de la izquierda y en ella se detiene.
+
+
+DON LORENZO.
+
+Jirones de sombra han pasado ante mis ojos. (_Pausa_). ¿Será todo esto
+un sueño? No: Juana está ahí dentro; y la prueba..., la prueba...,
+(_Abre el pupitre y saca un pliego_) la prueba es esta. No es un sueño
+por desgracia: es la realidad implacable y terrible. Cien veces la he
+leído, y no me sacio de leerla: «Te he querido como hijo aunque no lo
+has sido nuestro»... ¡Aunque no lo has sido nuestro!...
+
+JUANA.
+
+(_Aparte y observándole_). Está leyendo..., leyendo la carta de la que
+creyó madre suya. Su madre soy yo: nadie más que yo. (_Avanza, aunque
+con trabajo, algunos pasos_). ¡Cuánta tristeza en su frente! ¿Hay
+lágrimas en sus ojos?... ¿En sus ojos? No sé. Quizá estén en los míos
+que le miran. En él o en mí están: yo veo lágrimas en alguna parte.
+(_Da algunos pasos más_). ¿Llorar él? ¿Por qué? ¿Porque soy su madre?
+¿Sentirá que yo sea su madre? Pero ¿qué le importa si nadie más que él
+sabe mi secreto, y yo voy a morir? Sí, a morir..., a morir muy pronto.
+La noche eterna y fría va penetrando hasta lo más profundo de mi ser:
+algo muy negro está dentro de mí. (_Da un paso más, vacila y se apoya
+en la mesa para no caer. Lorenzo se vuelve hacia ella_).
+
+DON LORENZO.
+
+¡Juana!
+
+JUANA.
+
+¡Siempre ese nombre!
+
+DON LORENZO.
+
+¡Madre!
+
+JUANA.
+
+Te enoja que lo sea; bien lo conozco.
+
+DON LORENZO.
+
+¡Que tal pienses de mí!
+
+JUANA.
+
+Pues si enojos no son, será vergüenza de tenerme por madre.
+
+DON LORENZO.
+
+¿Avergonzarme yo? Mañana sabrá todo el mundo que yo soy tu hijo.
+
+JUANA.
+
+¡Mañana! ¿Qué intentas? Tardo está ya mi oído, y sin duda no comprendí
+lo que dijiste. (_Con espanto_).
+
+DON LORENZO.
+
+Dije mal. Mañana no. Es preciso que antes salgas de España, y cuando
+estés en sitio seguro, porque a veces la justicia de los hombres es
+muy cruel, yo proclamaré la verdad en voz alta; yo me despojaré de
+un nombre que no es mío; yo devolveré riquezas usurpadas. Es ya cosa
+resuelta.
+
+JUANA.
+
+¡Jesús de mi vida!
+
+DON LORENZO.
+
+Y después con Ángela y con mi pobre niña iré a buscarte.
+
+JUANA.
+
+¿Tú en la miseria, tú en la deshonra, tú sin más nombre que un nombre
+escarnecido y manchado? Pero ¿por qué? ¿Por qué? ¿Quién te obliga a
+ello? Habla, hijo mío, que me haces perder el juicio. ¿Quién?
+
+DON LORENZO.
+
+Mi conciencia, madre, y tu culpa.
+
+JUANA.
+
+Pero ¿piensas decir la verdad?
+
+DON LORENZO.
+
+¿Por qué me la dijiste a mí? (_Con enojo_). Si yo nada hubiese
+sabido..., no tendría hoy que dar la muerte a mi hija.
+
+JUANA.
+
+¿Por qué?... ¡Y me lo preguntas! ¡Y no lo comprende! ¡Ingrato! (_Oculta
+el rostro entre las manos y llora amargamente_).
+
+DON LORENZO.
+
+¡Madre!
+
+JUANA.
+
+Porque iba a morir..., porque voy a morir..., y antes era preciso que
+supieses lo que por tu felicidad hizo esta pobre mujer. Además...
+quería que una vez al menos me llamases madre. Por esto..., nada más
+que por esto... Porque del corazón me subía a la garganta y me ahogaba
+algo, que al fin no pude contener, y tuve que decirte ¡eres mi hijo!
+
+DON LORENZO.
+
+Te comprendo, madre mía, y no te acuso.
+
+JUANA.
+
+Pero tú no piensas hacer lo que has dicho, ¿no es cierto? ¡Fuera una
+infamia para con tu familia, fuera una crueldad para con esta pobre
+anciana!
+
+DON LORENZO.
+
+Crueldad, sí; infamia, no: que con esta crueldad otras infamias borro.
+
+JUANA.
+
+¡Lorenzo!
+
+DON LORENZO.
+
+¡Perdóname!
+
+JUANA.
+
+¿Dices que yo cometí una infamia? (_Asombrada_).
+
+DON LORENZO.
+
+Nada digo.
+
+JUANA.
+
+¡Pero fue por ti..., por ti..., por ti, hijo mío! (_Con voz cada vez
+más ahogada. Lorenzo permanece silencioso, sombrío y sin volverse hacia
+su madre_). ¡Fue por él, Dios mío, y así me paga! ¡Lorenzo!
+
+DON LORENZO.
+
+El mal no puede prevalecer: la obra de iniquidad se arruina bajo su
+propio peso: mi sacrificio lavará tu culpa.
+
+JUANA.
+
+¡Lorenzo!
+
+DON LORENZO.
+
+(_Acercándola a la luz, poniendo en su mano la carta y obligándola a
+leer_). ¿Qué dice ahí?
+
+JUANA.
+
+«Perdóname y que Dios te inspire». (_Sentándose y leyendo con trabajo_).
+
+DON LORENZO.
+
+Pues bien, madre, la perdoné y he pedido inspiración al cielo: tus
+súplicas son inútiles.
+
+
+ESCENA VII.
+
+JUANA, DON LORENZO, ÁNGELA por la derecha.
+
+
+ÁNGELA.
+
+Lorenzo, Inés te llama. (_Desde la misma puerta de la derecha y sin
+penetrar en la habitación_).
+
+DON LORENZO.
+
+¡Ella!..., ¡mi hija!..., sí, voy... Perdóname, madre mía, volveré muy
+pronto.
+
+JUANA.
+
+(_Deteniéndole, y en voz baja_). Ya sé que me desprecias; ya sé que me
+odias...
+
+DON LORENZO.
+
+¡Madre!
+
+JUANA.
+
+Pero no por mí, por ella, por esa niña... (_Incorporándose_).
+
+DON LORENZO.
+
+Ni aun por ella. (_Con desesperación_).
+
+JUANA.
+
+¡Ah! (_Cae en el sillón y se cubre el rostro con las manos. Salen
+Lorenzo y Ángela_).
+
+
+ESCENA VIII.
+
+JUANA, queda con el papel en la mano.
+
+
+JUANA.
+
+¡Ni aun por ella! (_Sollozando_). Sacrifícate, Juana, por tu hijo:
+renuncia a sus caricias: clávate las uñas en el pecho al verle besar
+a otra mujer y llamarla madre: bebe por dentro lágrimas de amargura y
+recógelas en el corazón hasta que rebose o estalle: recibe en la frente
+marca infamante: consúmete de miseria y de dolor en una buhardilla
+veinte años sin más dicha ni más consuelo que verle pasar a lo lejos
+en su coche. ¡Ay, Dios mío, yo muero! (_Pausa: después reanimándose
+un tanto_). Más..., más aún... Tú, pobre Juana, sufriendo todo lo
+que he dicho; y en cambio, hazle rico, sabio, ilustre, bueno, y... a
+la hora de la muerte preséntate a él, solo a pedirle un beso, solo
+buscando que te diga: «¡Qué buena eres, cuánto me has querido!...», y
+él no te dirá nada de eso: te mirará triste y severo..., te dirá que
+cometiste una infamia..., que es preciso que él borre tu culpa...,
+que tu obra es... obra de iniquidad... ¡Obra de iniquidad!... ¡Ah,
+Lorenzo, hijo mío!... ¿Por qué eres tan cruel? ¿Por qué arrojas con
+desprecio todo lo que a costa de mi felicidad te he dado?... ¡Mira
+que me cuesta muchas lágrimas! (_Cambiando de tono, levantándose con
+arranque de desesperación y viniendo a la derecha_). ¡Y mi sacrificio
+habrá sido inútil! ¡Y habré perdido yo mi dicha y le habré perdido a
+él! ¡Insensata, egoísta! ¿Por qué le dije la verdad? (_Pausa_). Pues
+no ha de ser; no ha de ser: la obra de iniquidad no amenaza ruina
+todavía, pobre visionario. ¡Yo lo negaré todo! (_Con voz apagada_).
+Serás feliz, y rico, y poderoso a tu pesar. Él puso en mis manos
+la única prueba. (_Tendiendo el brazo hacia la mesa en que está el
+papel_). Bueno, bueno: entre su madre y su hija van a salvarle:
+¡extraña coincidencia! Ella llamándole le obliga a alejarse, y yo me
+quedo... Ea... Agotemos las fuerzas que me restan. Ahora me acerco poco
+a poco, y entre las sombras... Así fue de oscura aquella noche en que
+mi ama vino a buscarme al lecho y murmuró en mi oído: ¿quieres que tu
+hijo sea rico y feliz? Y yo dudé..., y luego dije que sí... Y ahora...
+Y ahora digo que sí. (_Llegándose a la mesa. Pausa_). ¿Vuelve Lorenzo?
+(_Aplicando el oído_). Sí; me parece que vuelve... ¡Y me pedirá la
+carta como antes me la pidió!... Vamos..., al fuego... (_Quiere andar,
+pero no puede_). Oigo su voz..., me faltan las fuerzas..., no me da
+tiempo... ¡Va a venir!... No..., pues yo no se la doy... Es otra vez
+mi presa... ¡Ah!... Ya sé... Ya sé... Pondré dentro del sobre un papel
+en blanco para que al pronto nada note... (_Ejecutando la operación
+que acaba de indicar_). ¡Obra de iniquidad la llama Lorenzo! ¡Pobre
+hijo mío, que a veces es inocente como un niño! Así..., así..., lo dejo
+donde estaba..., y este a las llamas... Oigo su voz siempre... pero aún
+no viene... Quizá antes de que venga..., sí..., sí..., ya puedo... A
+las llamas..., a las llamas. (_Arroja el papel al fuego y se inclina
+para verlo arder_). ¡Llama es ya! Su resplandor ilumina el rostro de
+mi antigua señora. (_Viendo un retrato que hay en la pared_). Mira,
+mira, ya es ceniza; y era la única prueba. ¿La única? No: otra queda,
+pues quedo yo; pero muy pronto seré ceniza también. (_Pausa_). Ahora
+me voy a mi cuarto... (_Dando unos pasos_). Dios mío, me faltan las
+fuerzas... (_Haciendo un esfuerzo y dando unos pasos más_). Pero le
+he salvado..., será rico..., feliz... No veo..., no veo... Esa luz se
+apaga... ¿Se apaga ella o la de mis ojos? (_Se acerca a la mesa, coge
+la vela y de nuevo intenta marchar_). ¡Luz!... ¡Luz!... ¿Dónde está
+mi cuarto? ¡Sombras!..., ¡todo sombras! ¡Ay de mí!... ¡Dios mío!...
+¡No puedo..., no puedo! (_Deja caer la luz: solo queda iluminada la
+habitación por el reflejo rojizo de la chimenea. Ella cae también
+detrás de la mesa_).
+
+
+ESCENA IX.
+
+JUANA, DON LORENZO, INÉS, ÁNGELA, DUQUESA.
+
+Los cuatro últimos por la derecha. Lorenzo entra como huyendo de su
+hija: esta se detiene en la puerta. Viene vestida de blanco: detrás de
+ella y medio ocultas por el cortinaje, Ángela y la Duquesa.
+
+
+DON LORENZO.
+
+(_Viniendo al centro del escenario_). ¡No más! ¡No más! ¡Es la última
+prueba! La última, sí; pero, ¡ay!, que mi voluntad vacila.
+
+ÁNGELA.
+
+(_Aparte a Inés_). Síguele, no le dejes: cederá.
+
+INÉS.
+
+¿Por qué huyes de mí, padre mío?
+(_Avanza algunos pasos, muy pocos: detrás de ella Ángela y la Duquesa.
+Es preciso dar a esta escena todo el carácter fantástico que en sí
+tiene, para que el efecto corresponda a la idea del drama. Don Lorenzo
+está en el centro del proscenio manifestando con su actitud, en sus
+ademanes y en su entonación, que sostiene una última y desesperada
+lucha consigo mismo. Inés, bella y poética, se aproxima lentamente a
+su padre: siempre la siguen Ángela y la Duquesa, vestidas de negro,
+inspirándola cuanto dice. Juana agoniza. El despacho está envuelto en
+grandes sombras: el reflejo de la chimenea ilumina de lleno a Inés_).
+
+DON LORENZO.
+
+¡Allí está la tentación! Pero ¡qué hermosa es! ¡Qué aureola de divina
+belleza la circunda! ¡Única luz entre tanta sombra!
+
+ÁNGELA.
+
+(_Aparte a su hija_). ¿Lo ves? Ya no acierta a resistir... Ruégale...,
+ruégale, Inés mía.
+
+INÉS.
+
+(_Avanzando_). ¡Ven a mis brazos!
+
+DON LORENZO.
+
+(_Retrocediendo_). ¡Ay de mí si los ciñe a mi cuello como dulcísimo
+dogal!
+
+JUANA.
+
+(_Aparte con voz apagada_). Un dogal al cuello... Tiene razón...
+
+INÉS.
+
+¡Por Dios santo, padre mío, por el amor que me tienes; por las lágrimas
+de estos ojos que cuando yo era niña tanto querías y tanto besabas!
+(_Llevándose las manos al rostro, retirándolas después, y dándoselas a
+besar a su padre_). ¡Mira, mira y cómo se desprenden de mis párpados!
+Mis dedos las recogieron al caer, bésalas y sentirás en tus labios su
+amargura.
+
+DON LORENZO.
+
+Sí: las besaré..., las besaré..., pero ¡ay, si una sola de las mías
+cayese en los tuyos!
+
+JUANA.
+
+(_Aparte_). ¡Caer!... Han dicho caer... ¡Yo también caigo en abismo sin
+fondo! Pero antes..., antes... quiero abrazar a mi hijo.
+
+INÉS.
+
+¡Padre! (_Lorenzo retrocede. Inés, Ángela y la Duquesa le siguen_).
+
+ÁNGELA.
+
+¡Lorenzo!
+
+JUANA.
+
+¡Han dicho Lorenzo! Allí..., allí... veo algo... (_Avanzando_).
+
+DON LORENZO.
+
+No..., no..., digo mil veces que no... ¡Queréis envilecerme!
+
+INÉS.
+
+Y tú, padre mío, ¿quién lo creyera? ¡Quieres mi muerte! Y si no, ¿por
+qué te opones a este amor que es mi vida?
+
+DON LORENZO.
+
+Yo, Inés mía..., no..., la duquesa..., la duquesa es.
+
+ÁNGELA.
+
+No es cierto. La duquesa cede.
+
+DON LORENZO.
+
+¡A precio de deshonra!
+
+DUQUESA.
+
+No es cierto, Inés: a trueque de silencio.
+
+INÉS.
+
+Lo estás oyendo, padre mío.
+
+DON LORENZO.
+
+(_Separándose de ellas, rechazándolas y retrocediendo_). ¡Solo oigo
+voces que me piden mi conciencia!... ¡Solo veo sombras que entre
+las sombras me persiguen! Fantasmas del espacio..., engendros de la
+tentación..., ¡dejadme!... ¡Dejadme por Dios vivo; que si sois fuertes
+para atormentarme el corazón, sois débiles, muy débiles, para torcer mi
+voluntad!
+
+JUANA.
+
+¡Su voz!... ¡Lorenzo!... ¡Lorenzo!... (_Llegando a él y abrazándole_).
+
+DON LORENZO.
+
+¡Madre! (_Abrazándola también_).
+
+INÉS.
+
+(_Amparándose de Ángela_). ¿Qué voz es esa? ¿Quién es esa mujer? ¿Qué
+sombra brotó de las tinieblas y ciñó a mi padre con sus brazos? ¡Tengo
+miedo!
+
+DON LORENZO.
+
+¡Juana!... ¡Madre mía!
+
+INÉS.
+
+¡Su madre! ¿Por qué la llama su madre?
+
+DON LORENZO.
+
+Porque es mi madre, y porque... he de decirlo.
+
+JUANA.
+
+¡Yo! ¿Su madre yo? ¡Jesús, qué idea!... ¡Bien quisiera... serlo!
+
+DUQUESA.
+
+¿Oye usted..., oye usted lo que dice?
+
+ÁNGELA.
+
+¡Lo niega!
+
+DON LORENZO.
+
+¡Lo eres! (_Con violencia_).
+
+JUANA.
+
+¡Ah..., pobre Lorenzo mío! (_Con risa forzada_). ¡Hijo de mi alma! (_Al
+oído, y abrazándole_).
+
+DON LORENZO.
+
+¡Por la tuya, que repitas en voz alta lo que me dices al oído!
+
+JUANA.
+
+Yo..., al oído... ¿Pues qué te dije? ¡Ser su madre!... ¡Qué mayor dicha!
+
+DON LORENZO.
+
+¡Ah!... ¿Lo niegas? (_Con furor_).
+
+ÁNGELA.
+
+¡Lorenzo!
+
+DON LORENZO.
+
+¿Niegas que eres mi madre? (_Con creciente furor_).
+
+JUANA.
+
+¿Y cómo no?
+
+DON LORENZO.
+
+¡De mí renegaste al nacer yo, y vuelves a renegar a la hora de tu
+muerte! (_Con horrible desesperación_).
+
+JUANA.
+
+(_Abrazándose a él, y formando los dos un grupo tan estrechamente
+unido, que es imposible en la oscuridad conocer si se abrazan ambos, o
+si en su furor la estrecha Lorenzo contra sí_). ¡Hijo de mis entrañas!
+(_Con voz moribunda, al oído_).
+
+DON LORENZO.
+
+¡Eso..., eso!... (_Ya delirante_).
+
+JUANA.
+
+¡Yo muero!
+
+DON LORENZO.
+
+No..., madre mía.
+
+DUQUESA.
+
+¡Jesús mil veces! ¡Ese hombre va a matarla!... ¡Socorro! (_Corriendo
+hacia la puerta de la derecha_).
+
+ÁNGELA.
+
+¡Eduardo!... ¡Tomás!
+
+DON LORENZO.
+
+¡Madre!... ¡Madre!...
+
+JUANA.
+
+No... Dios mío... No..., ¡eso no!
+
+
+ESCENA X.
+
+DON LORENZO, INÉS, JUANA, ÁNGELA, DUQUESA, DON TOMÁS, EDUARDO.
+
+Los dos últimos, por la derecha con luces. Todos acuden y procuran
+separar a Lorenzo de Juana.
+
+
+DON TOMÁS.
+
+¡Vamos!... ¡Vamos!...
+
+DON LORENZO.
+
+¡Madre mía!... ¡Perdón!... ¡Perdón! Si no quieres no te llamaré
+madre... ¡Madre mía!
+
+JUANA.
+
+A... diós...
+
+DON LORENZO.
+
+¡¡Juana!!
+
+JUANA.
+
+(_Haciendo un esfuerzo horrible, se levanta como herida en el corazón
+por el nombre de Juana, y cae_).
+
+DON TOMÁS.
+
+¡Muerta!
+
+DON LORENZO.
+
+¡No..., no es posible! (_Abrazándose a su madre_). Para matarla la
+llamé ¡madre!..., y el último grito que oyó de mis labios... fue
+¡Juana! ¡Ah, Dios mío, Dios mío! ¿Por qué la castigas así, y por qué me
+abandonas?
+
+
+FIN DEL ACTO SEGUNDO.
+
+
+
+
+ACTO TERCERO.
+
+La misma decoración de los actos anteriores.
+
+
+ESCENA PRIMERA.
+
+DON TOMÁS, después un CRIADO.
+
+
+DON TOMÁS.
+
+Todo en calma. Ni se oye el llanto de Inés, ni ruge la cólera de
+Lorenzo. Calma precursora de nueva tempestad. (_Pausa_). Momentos hay
+en que dudo y vacilo. Él..., él..., mi buen amigo, mi pobre Lorenzo...
+Esta idea no me da punto de reposo. En fin, muy luego sabremos la
+verdad: entretanto valor, y cumplamos para con esta atribulada familia
+deberes sagrados que nadie con mejor deseo que yo ha de cumplir.
+
+CRIADO.
+
+Un caballero a quien acompañan dos... que..., vamos..., yo no sé si lo
+son..., aunque su traje... En fin, ese caballero me ha dado para usted
+esta tarjeta, y allá fuera esperan todos.
+
+DON TOMÁS.
+
+(_Mirando la tarjeta_). ¡Ah! ¡El doctor Bermúdez! Que pase, que pase...
+
+CRIADO.
+
+¿Y los otros dos?
+
+DON TOMÁS.
+
+Que esperen. (_Sale el Criado_). A medida que se aproxima el momento
+crece mi ansiedad y crecen mis dudas. ¡Pobre Ángela, qué golpe! ¡Pobre
+Inés!... ¡En qué estado de excitación nerviosa se halla la desdichada
+niña! ¡Qué lucidez en su mirada! ¡Qué claridad en sus juicios! Nadie
+le explicó lo que ocurre... y yo creo que lo sabe todo; y adivina lo
+que no sabe, y sospecha lo que no adivina. No: esta situación no puede
+prolongarse más: afrontemos la realidad por triste que sea.
+
+
+ESCENA II.
+
+DON TOMÁS, DOCTOR BERMÚDEZ, después dos loqueros vestidos decentemente,
+pero dando a conocer en su fisonomía y en sus maneras que no son lo que
+aparentan.
+
+
+DON TOMÁS.
+
+¡Doctor!... (_Saliendo al encuentro, y dándole la mano_).
+
+DOCTOR.
+
+¡Don Tomás!...
+
+DON TOMÁS.
+
+Puntual como de costumbre.
+
+DOCTOR.
+
+No, vengo con alguna anticipación..., para dejar convenientemente
+instalados a esos dos...
+
+DON TOMÁS.
+
+Sí, sí, comprendo.
+
+DOCTOR.
+
+Los he hecho vestir de manera que don Lorenzo no sospeche..., porque
+como solo se trata de esas precauciones generales...
+
+DON TOMÁS.
+
+Ya, ya..., muy bien. Es preciso caminar con prudencia. Rapto de furor;
+verdadero rapto de furor, como dije a usted, solo ha tenido uno; el de
+la otra noche. Pudiera ser que yo me equivocase...
+
+DOCTOR.
+
+Mucho lo celebraría..., y usted lo celebraría también.
+
+DON TOMÁS.
+
+¡Ay, amigo mío, estoy que no sé lo que me pasa! En fin, su ciencia de
+usted, su práctica, su profundísima penetración han de sacarnos de
+dudas.
+
+DOCTOR.
+
+¡Usted me lisonjea! Estando usted...
+
+DON TOMÁS.
+
+No cuente usted conmigo, doctor; no estoy para nada: me declaro
+incompetente: se trata de mi mejor amigo: casi de un hermano. Además,
+siempre me ha parecido... Usted conoce mi escuela: entre la razón y la
+locura no hay una línea divisoria...
+
+DOCTOR.
+
+Evidente, evidente; y todos los sabios tienen algo...
+
+DON TOMÁS.
+
+Cabal; la excitación del cerebro pasa de cierto límite y...
+
+DOCTOR.
+
+Justo. Veremos, veremos lo que puede hacerse por don Lorenzo. Conque
+esos dos chicos...
+
+DON TOMÁS.
+
+Fácil ha de ser inventar cualquier historia: serán los testigos... o se
+le dirá que vienen con el escribano... Cualquier cosa. El pobre Lorenzo
+no está para fijarse en estos pormenores.
+
+DOCTOR.
+
+¿Y dónde esperan?
+
+DON TOMÁS.
+
+Ahí dentro. (_Señalando la puerta de la izquierda_).
+
+DOCTOR.
+
+(_Asomándose al fondo_) ¡Eh! ¡Braulio! ¡Benito! (_Entran los dos
+loqueros algo cortados y mostrando en sus ademanes toscos y torpes lo
+que son_).
+
+DON TOMÁS.
+
+Entren ustedes ahí en ese gabinete: si son ustedes necesarios ya se les
+avisará, y entretanto, quietos. (_Los loqueros saludan y entran por la
+izquierda_). Desde que murió Juana no ha vuelto a entrar Lorenzo en esa
+habitación. (_A Bermúdez_). En cerrando la puerta... (_La cierra_).
+
+DOCTOR.
+
+(_Mirando el reloj_). Vuelvo en seguida: antes de que llegue el
+escribano estoy aquí. Voy... muy cerca...
+
+DON TOMÁS.
+
+¿Una visita?
+
+DOCTOR.
+
+Sí: un caso muy bonito de locura. (_Ángela entra por el fondo y se
+detiene al ver a Bermúdez_). ¿Es?... (_Aparte a Tomás, indicándole con
+la mirada a Ángela_).
+
+DON TOMÁS.
+
+Sí: la esposa. No hable usted con ella.
+
+DOCTOR.
+
+Hasta luego. (_Aparte a Tomás_). Señora... (_Saludando. Sale por el
+fondo_).
+
+
+ESCENA III.
+
+ÁNGELA, DON TOMÁS.
+
+Ángela sigue con la vista a Bermúdez; después mira hacia el gabinete en
+que entraron los loqueros.
+
+
+ÁNGELA.
+
+¿Quién es ese que sale? ¿Quiénes son dos hombres que vinieron con él?
+
+DON TOMÁS.
+
+Cálmese usted, Ángela. Todo se arreglará. Estas son precauciones, pero
+necesarias, porque, ¿quién sabe?, puede tener Lorenzo otro rapto de
+furor como anteanoche; y por ustedes, por él mismo...
+
+ÁNGELA.
+
+No, Tomás, no diga usted eso.
+
+DON TOMÁS.
+
+¿No recuerda usted, Ángela, con qué frenesí estrechaba entre sus brazos
+el cuerpo moribundo de la pobre Juana? Ahora que nadie nos oye, y en
+confianza, yo creo que él... fue... la causa determinante...
+
+ÁNGELA.
+
+¡Tomás, Tomás!
+
+DON TOMÁS.
+
+Por lo menos apresuró su muerte: y ¿no vio usted cómo en su delirio él
+mismo se acusaba? No nos forjemos ilusiones: fue un verdadero ataque
+de...
+
+ÁNGELA.
+
+(_Llorando_). ¡Lorenzo! ¡Lorenzo mío!
+
+DON TOMÁS.
+
+Y la crisis puede volver porque hoy...
+
+ÁNGELA.
+
+Sí, ya sé lo que se propone... ¡Ay, Tomás, qué desgraciados somos! ¡Qué
+desgraciado es mi pobre Lorenzo!
+
+DON TOMÁS.
+
+¿Qué hace ahora?
+
+ÁNGELA.
+
+Está muy en calma: escribe, pasea..., quiere estar con Inés y conmigo
+como si la soledad le espantase. Hace poco me miró con tristeza, pero
+con cariño, me besó en la frente y me dijo «¡Pobre Ángela!».
+
+DON TOMÁS.
+
+No contradecirle.
+
+ÁNGELA.
+
+No señor: en todo le damos la razón.
+
+DON TOMÁS.
+
+¿Y sigue en sus trece?
+
+ÁNGELA.
+
+¡Ay, sí señor! De cuando en cuando pregunta qué hora es: se impacienta
+porque el escribano no viene y murmura con voz sorda: «Mal que pese al
+mundo entero he de cumplir mi obligación».
+
+DON TOMÁS.
+
+¡Qué hombre! ¡Qué carácter!
+
+ÁNGELA.
+
+Tomás, por Dios santo, que no me engañe usted. ¿Usted cree que
+Lorenzo?... ¡No puedo, no puedo pronunciar esa horrible palabra!
+
+DON TOMÁS.
+
+Yo nada creo todavía. Veremos, Ángela: veremos, mi buena amiga.
+Precisamente para salir de una vez de esta insufrible ansiedad hice
+venir al doctor Bermúdez: un alienista de primer orden.
+
+ÁNGELA.
+
+¡Pero si es imposible!... ¡Si digo que es imposible!
+
+DON TOMÁS.
+
+Ojalá acierte usted, y no debemos perder la esperanza; pero
+¿imposible?... ¡Ah, la razón humana es tan poca cosa!
+
+ÁNGELA.
+
+¡Ay, mi esposo de mi alma! No..., no quiero..., ¡no ha de ser! (_Con
+desesperación_).
+
+DON TOMÁS.
+
+Vamos, Ángela, juicio, valor; por aquella pobre niña, por Inés al
+menos. Y ¿quién sabe todavía? Veremos qué explicaciones da Lorenzo, qué
+pruebas presenta...
+
+ÁNGELA.
+
+¡Qué pruebas ha de presentar el desdichado mío, si a la misma Juana
+moribunda le oí yo repetir: «No..., no..., no eres mi hijo», mientras
+él, frenético, delirante, estrechándola en sus brazos, pugnando por
+arrancar de aquel cuerpo, ya casi muerto, una confesión imposible,
+la llamaba «¡Madre!» con el grito estridente de la demencia! No me
+consuele usted: es inútil: yo sé que nuestra desventura es inevitable.
+
+DON TOMÁS.
+
+Harto lo temo.
+
+ÁNGELA.
+
+¿Y aquel modo de recibir a la duquesa? Él, tan cortés siempre; siempre
+tan fino...
+
+DON TOMÁS.
+
+Tiene usted razón: aquel día lo comprendí yo todo; pero nadie se
+resigna cuando la fatalidad le hiere tan de repente.
+
+ÁNGELA.
+
+Y adorando, como adora, a su hija, ¿quién hace lo que él pretende hacer
+hoy?
+
+DON TOMÁS.
+
+Nadie, Ángela, nadie, no habiendo perdido el juicio.
+
+ÁNGELA.
+
+¿Y usted le ha dicho a Bermúdez?...
+
+DON TOMÁS.
+
+Todo no: fuera peligroso; pero lo bastante para que nos dé su opinión.
+
+ÁNGELA.
+
+¿Y cuál es?
+
+DON TOMÁS.
+
+No he de ocultarle a usted...
+
+ÁNGELA.
+
+¡Inútil, Tomás, inútil!... ¡Si yo sé bien que no hay remedio!
+
+DON TOMÁS.
+
+Con un buen régimen; separado de aquellas personas que, por lo mismo
+que son para él tan queridas, con su presencia han de irritar de
+continuo su exagerada sensibilidad...
+
+ÁNGELA.
+
+¡Tomás!...
+
+DON TOMÁS.
+
+En un buen establecimiento de España o del extranjero...
+
+ÁNGELA.
+
+¡Qué..., qué!..., ¿qué quiere usted decir?... ¿Separarlo de nuestro
+lado?... ¡Llevárselo! ¡A él..., a él! ¡No, jamás, soy su esposa! ¡No lo
+consiento!
+
+DON TOMÁS.
+
+La presencia de Inés estimula su delirio.
+
+ÁNGELA.
+
+Y la ausencia de su hija será su muerte.
+
+DON TOMÁS.
+
+Ahogó entre sus brazos a aquella pobre mujer.
+
+ÁNGELA.
+
+No, Tomás, no: en eso no tiene usted razón: en los brazos de Lorenzo no
+corre peligro la pobre Inés. ¡Es su hija!
+
+DON TOMÁS.
+
+Y él pensaba que Juana era su madre.
+
+ÁNGELA.
+
+No ha de ser, Tomás: no ha de ser. ¿Por qué en vez de atormentarme no
+busca usted alivio para mis penas?
+
+DON TOMÁS.
+
+¡Ángela!
+
+ÁNGELA.
+
+Verdad es, mi buen amigo, que no es fácil hallar consuelos para mi
+dolor.
+
+DON TOMÁS.
+
+Los hay en todo dolor humano, por grande que sea.
+
+ÁNGELA.
+
+Menos en este.
+
+DON TOMÁS.
+
+En este, más que en todos; y si no, discutamos a sangre fría.
+
+ÁNGELA.
+
+¿Y cómo, cuando la fiebre nos abrasa las venas?
+
+DON TOMÁS.
+
+Óigame usted. Si lo que afirma Lorenzo fuese verdad; si presentara
+pruebas terminantes...
+
+ÁNGELA.
+
+Entonces mi Lorenzo no habría perdido la razón: nosotros seríamos los
+ciegos y desatentados. ¡Oh, qué dicha!
+
+DON TOMÁS.
+
+No tanta, porque entonces les esperaba a ustedes la miseria, la
+deshonra, la muerte...
+
+ÁNGELA.
+
+¡Calle usted, Tomás!
+
+DON TOMÁS.
+
+La muerte digo, además de la miseria, porque Inés moriría. En cambio si
+la desgracia de Lorenzo es cierta....
+
+ÁNGELA.
+
+No siga usted..., no quiero pensar en tales cosas.
+
+DON TOMÁS.
+
+Pues piense usted en Inés; y con el pensamiento en ella sepa usted,
+Ángela, que estas heridas son, triste es decirlo, pero fuerza es
+confesarlo, horribles, sí; mortales, no; que solo es mortal para la
+juventud lo que destruye el porvenir; no lo que precipita en la nada lo
+pasado.
+
+ÁNGELA.
+
+¡Por Dios, Tomás!...
+
+DON TOMÁS.
+
+De la desgracia de Lorenzo depende la felicidad de Inés: no lo
+olvidemos.
+
+ÁNGELA.
+
+Cúmplase la voluntad de Dios, pero no despierte usted en mí ideas que
+antes me espantan que me consuelan.
+
+
+ESCENA IV.
+
+ÁNGELA, DON TOMÁS, DON LORENZO por la derecha.
+
+
+DON LORENZO.
+
+(_Aparte_). ¿Pero dónde dejé yo la llave? ¡Ah, mi cabeza!... Y el
+escribano vendrá muy pronto..., y en aquel pupitre guardé la carta:
+bien me acuerdo: sí..., hace dos días..., cuando mi madre...
+
+DON TOMÁS.
+
+¡Pobre Ángela! ¡Terrible es la prueba! (_Sin ver a Lorenzo_).
+
+DON LORENZO.
+
+¿Cómo?... ¿Qué dicen? ¡La prueba, sí: de la prueba hablaban! (_Con
+inquietud y buscando la llave del pupitre sobre la mesa_).
+
+ÁNGELA.
+
+Terrible es, muy terrible caminar entre dos abismos... Lorenzo a un
+lado... Inés a otro... Tiene usted razón.
+
+DON LORENZO.
+
+(_Con enojo y en voz alta_). ¡La he perdido!
+
+DON TOMÁS.
+
+(_Volviéndose, aparte_). ¡Desdichado, pienso que sí!
+
+ÁNGELA.
+
+¡Lorenzo!
+
+DON LORENZO.
+
+¡Ah!... ¿Estabais?... (_Con mirada recelosa y como si no los hubiera
+visto antes_).
+
+ÁNGELA.
+
+¿Qué buscas?... Nosotros te ayudaremos. (_Con dulzura_).
+
+DON LORENZO.
+
+¿Vosotros?... No. ¿Para qué? Yo solo.
+
+ÁNGELA.
+
+Pero di al menos ¿qué has perdido?
+
+DON LORENZO.
+
+Todo: hasta el amor de los míos. ¡Mira si puedo perder más!
+
+ÁNGELA.
+
+No, Lorenzo, no lo creas.
+
+DON LORENZO.
+
+Al fin..., la llave... ¡Gracias al cielo! (_Aparte, con desconfianza_).
+Y estaba puesta..., puesta... (_Abre con ansiedad el pupitre y coge el
+pliego que dejó Juana_). ¡Ah! ¡Aquí está!... Se me ha quitado un peso
+de encima... (_Leyendo_). «Para Lorenzo». Este es el pliego.
+
+ÁNGELA.
+
+(_Acercándose_). ¿Encontraste lo que buscabas?
+
+DON LORENZO.
+
+Sí. (_Tomás se acerca también_).
+
+ÁNGELA.
+
+¿Qué papel es ese? (_Lorenzo se preparaba a sacar el pliego de su
+sobre; pero al ver que Ángela y Tomás se acercan, lo mete en el
+pupitre, echa la llave y se la guarda_).
+
+DON LORENZO.
+
+Uno muy importante. (_Con cierta desconfianza y mirándolos con
+recelo_). ¿Para qué queréis saberlo?
+
+ÁNGELA.
+
+No te enfades, Lorenzo mío. Perdóname si he sido indiscreta.
+
+DON LORENZO.
+
+¡Perdonar yo! Yo soy quien ha menester vuestro perdón. Por mí, por mi
+culpa, ¡vais a ser tan desgraciadas!
+
+ÁNGELA.
+
+No digas eso: no lo seremos nunca siendo tú dichoso.
+
+DON LORENZO.
+
+Y yo ¿podré serlo no siéndolo tú; no siéndolo mi Inés de mi vida?
+
+ÁNGELA.
+
+Lo será también.
+
+DON LORENZO.
+
+Imposible: porque ¿sabes tú cuál es mi pensamiento?
+
+ÁNGELA.
+
+Ya me lo explicaste. ¿No lo recuerdas?
+
+DON LORENZO.
+
+(_A Tomás_). ¿Y tú?
+
+DON TOMÁS.
+
+También.
+
+DON LORENZO.
+
+¿Y lo aprobáis?
+
+ÁNGELA.
+
+(_Con dulzura_). Bien hecho estará lo que tú hagas.
+
+DON LORENZO.
+
+(_A Tomás_). Y tú, ¿qué dices?
+
+DON TOMÁS.
+
+Lo mismo.
+
+DON LORENZO.
+
+¡Lo mismo! (_Pensativo_). ¡Qué conformidad! ¿Sabéis que hice llamar a
+un escribano?
+
+ÁNGELA.
+
+Lo sabemos.
+
+DON LORENZO.
+
+(_Mirando a los dos_). Lo sabéis. ¿Y sabéis que he de hacer que levante
+acta notarial y en toda forma de mi declaración y de mi renuncia?
+
+ÁNGELA.
+
+Sí, Lorenzo mío.
+
+DON LORENZO.
+
+Para que luego el juez provea a lo que en derecho procede. ¿No es
+cierto?
+
+DON TOMÁS.
+
+Es natural.
+
+DON LORENZO.
+
+(_A Ángela_). Y tú, ¿qué dices?
+
+ÁNGELA.
+
+(_Con voz llorosa_). Si estos bienes que hoy disfrutamos no te
+pertenecen..., bien haces.
+
+DON TOMÁS.
+
+Si el nombre que llevas no es tuyo, preciso será que a él renuncies.
+
+ÁNGELA.
+
+Y en todo caso tu voluntad es ley.
+
+DON LORENZO.
+
+¡Pero ley tiránica..., impía!... ¿No es verdad?
+
+ÁNGELA.
+
+Ley que yo acato como la mejor.
+
+DON LORENZO.
+
+(_Inquieto, nervioso, casi irritado_). ¿Y no resistes? ¿Y no lucháis?
+
+DON TOMÁS.
+
+Tu conducta es la de un hombre honrado. En rigor no podías hacer otra
+cosa.
+
+DON LORENZO.
+
+¡Qué sumisión tan inverosímil! ¡Qué docilidad tan extraña! ¡Qué cambio
+tan repentino! Me estáis mintiendo... ¡Digo que me estáis mintiendo!
+(_Con violencia_).
+
+ÁNGELA.
+
+¡Por Dios, Lorenzo!
+
+DON TOMÁS.
+
+(_Aparte_). ¡Ah, no hay esperanza! La demencia invade como negra ola su
+cerebro.
+
+DON LORENZO.
+
+(_Calmándose_). En fin, mejor es así. (_Pausa. Con ternura y
+acercándose a Ángela_). ¿Dónde está Inés?
+
+ÁNGELA.
+
+¡Pobre hija mía!
+
+DON LORENZO.
+
+¿No la defiendes contra mí? Pues, sin embargo, esa es tu obligación.
+(_Con dulzura_).
+
+ÁNGELA.
+
+¡Ay, Lorenzo! ¿Qué puede contra ti esta infeliz mujer? Tu voluntad se
+templa en la lucha y en la desgracia: la mía cede hasta besar el polvo.
+
+DON LORENZO.
+
+Tienes razón: es irresistible mi voluntad cuando el deber me inspira.
+¿Y qué dices a todo esto? (_A Tomás_).
+
+DON TOMÁS.
+
+Que así será.
+
+DON LORENZO.
+
+Así es. (_Pausa_). ¡Pobre Ángela!... ¿Y sabes tú lo que vamos a hacer,
+firmada que sea el acta y entregada la prueba?
+
+DON TOMÁS.
+
+¿Tienes una prueba?
+
+DON LORENZO.
+
+¿No lo sabías? (_Aparte con extrañeza_). (Pues de ella hablaban cuando
+yo entré.) Sí, la tengo: evidente, irrecusable, clara como la luz,
+aunque es negra como la noche y la traición.
+
+ÁNGELA.
+
+Cálmate, Lorenzo.
+
+DON TOMÁS.
+
+¿Y cuál es?
+
+DON LORENZO.
+
+Una carta de mi madre..., de aquella mujer que se llamaba madre mía.
+
+ÁNGELA.
+
+(_Aparte_). ¡Dios mío! ¿Será verdad?
+
+DON LORENZO.
+
+Su firma, su letra..., y está allí..., en mi poder.
+
+DON TOMÁS.
+
+(_Aparte_). ¡Ah! Si así fuese...
+
+DON LORENZO.
+
+Pues bien, entregada la prueba, tú (_a Ángela_) y la pobre Inés, y
+yo saldremos al momento de esta casa..., de esta casa que ya no será
+nuestra, y de la que hoy mismo la ley tomará posesión hasta que acudan
+los herederos de Avendaño. (_Animándose gradualmente_). Y en tanto
+nosotros, sin recursos, sin nombre, sosteniendo en nuestros brazos una
+hija moribunda, porque Inés morirá, tú me lo aseguras (_a Tomás_),
+iremos solos, solos y desesperados... No, dije mal. Blasfemé. Iremos
+con la honra entera, con la conciencia tranquila, alta la frente, y
+Dios con nosotros. ¿Qué me importa que todos me abandonen si Él me
+acompaña?
+
+ÁNGELA.
+
+Tu voluntad es ley, Lorenzo... (_Abrazándole_). Antes lo dijeron mis
+labios: ahora te lo dice mi corazón.
+
+DON TOMÁS.
+
+(_Aparte_). Si la prueba existe..., este hombre... es un santo. Pero,
+¡ay!, que si no existe, mi pobre Lorenzo es un demente.
+
+CRIADO.
+
+(_Anunciando_). La señora duquesa y el señorito Eduardo.
+
+ÁNGELA.
+
+Que pasen. (_A Tomás_). ¿Usted les avisó?
+
+DON TOMÁS.
+
+(_Aparte a Ángela_). Hablé con ellos anoche. La duquesa me prometió
+venir, y ya lo ve usted, cumple su palabra.
+
+DON LORENZO.
+
+No he de verlos..., quiero estar o solo... o con vosotros..., no más.
+Adiós, Ángela mía.
+
+ÁNGELA.
+
+Adiós, Lorenzo.
+
+DON LORENZO.
+
+(_Mirando el reloj_). ¡Qué tardo marcha el tiempo! (_Se dirige a la
+puerta de la derecha. Tomás le acompaña_). ¿Avisaste a los testigos?
+(_Al llegar a la puerta_).
+
+DON TOMÁS.
+
+Dos esperan ya, y otro vendrá más tarde.
+
+DON LORENZO.
+
+¿Quiénes son?
+
+DON TOMÁS.
+
+No los conoces: son amigos míos.
+
+DON LORENZO.
+
+Y míos ¿por qué no?
+
+DON TOMÁS.
+
+Pensé que los míos lo eran tuyos.
+
+DON LORENZO.
+
+(_Le mira un momento_). Y lo son. (_Aparte_). ¡Ah! ¡Esta conformidad!
+¡Hubiera preferido... que me resistieran..., que luchasen!...
+
+
+ESCENA V.
+
+ÁNGELA, DUQUESA, EDUARDO, DON TOMÁS.
+
+
+ÁNGELA.
+
+Duquesa...
+
+DUQUESA.
+
+¡Señora!... (_Saludándose cariñosamente_).
+
+ÁNGELA.
+
+¡Siempre tan buena con nosotros!...
+
+DUQUESA.
+
+No podía negar a ustedes en trance tan cruel el consuelo de una
+amistad verdadera. Dios ha querido que por distintos modos la misma
+desgracia venga a herirnos. (_Esta última frase, en voz baja señalando
+a Eduardo_).
+
+ÁNGELA.
+
+Pero ¿cuál es el nombre de la desgracia que a mí me hiere? No lo sé.
+
+EDUARDO.
+
+Pues ha llegado el momento de averiguarlo: ¿se llama miseria y
+vergüenza, y muerte de Inés, o se llama?...
+
+ÁNGELA Y DUQUESA.
+
+¡Eduardo!
+
+EDUARDO.
+
+Perdóname, madre mía: todos nos debemos hoy la verdad. Tú lo has dicho:
+«Transigiré con la desgracia de don Lorenzo por el amor que te tengo,
+por el amor que me tienes; nunca transigiré con su pública deshonra:
+nunca, ni aun a precio de tu vida». De mi vida, madre, ¿no es esto?
+
+DUQUESA.
+
+(_Con tono triste, pero enérgico_). Sí.
+
+EDUARDO.
+
+(_Dirigiéndose a Ángela_). Pues bien, señora, sepamos el nombre de la
+desgracia que a usted la hiere: ¿se llama deshonra, o se llama locura?
+Este es el problema y es preciso resolverlo. Si don Lorenzo dice
+verdad; si su juicio está firme; si presenta pruebas de lo que asegura,
+respetemos su cruel virtud. Pero si, como yo creo por mil indicios
+que casi constituyen evidencia, un velo eterno cubre su mente y para
+siempre apagose la luz de su razón, entonces defienda usted, Ángela,
+—es en usted obligación sagrada—, el nombre que lleva, su posición
+social, su fortuna, la misma honra de don Lorenzo contra sus propios
+delirios, y, ¿por qué no decirlo?, la felicidad y la vida de Inés.
+No deje usted tan altos intereses y tan caros objetos a merced de un
+demente.
+
+DUQUESA.
+
+¡Eduardo!
+
+EDUARDO.
+
+La palabra es dura, pero al fin había de pronunciarse. Sepamos de
+una vez si esta batalla de honras y vidas, en que don Lorenzo nos ha
+empeñado, es lo que parece o lo que temo; y en suma, si el heroico
+sacrificio del implacable sabio es locura o santidad.
+
+DUQUESA.
+
+Basta, Eduardo. (_Ángela se sienta en el sofá y llora amargamente. La
+Duquesa se acerca a ella_).
+
+DON TOMÁS.
+
+(_A Eduardo_). La dicha de esta familia como si fuera mi propia dicha
+me interesa. Lo que usted propone está previsto, y la ley y la ciencia
+resolverán.
+
+DUQUESA.
+
+Que Dios los ilumine a ustedes. (_A Ángela_). Vamos, señora: valor,
+conformidad. ¿Dónde está Inés?
+
+ÁNGELA.
+
+¿Quiere usted verla?
+
+DUQUESA.
+
+Sí.
+
+ÁNGELA.
+
+Venga usted. (_A Tomás_). Y usted también. Quiero que la vea. Tres días
+hace que solo la fiebre le da fuerzas... ¡Ah, mi hija..., mi hija se
+muere!
+
+DON TOMÁS.
+
+¡Pobre niña! (_Salen Ángela, la Duquesa y Tomás_).
+
+
+ESCENA VI.
+
+EDUARDO.
+
+
+EDUARDO.
+
+¡Y dudan todavía! ¡Qué ceguedad! ¡Y no comprenden que el bueno de don
+Lorenzo a fuerza de buscar, no la razón de las sinrazones como el
+andante caballero, sino la razón de todas las razones que han inventado
+los sabios, concluyó por perder la única que a Dios plugo darle, que
+fue la razón natural! ¡Oh! No ha de ser: no he de permitir yo que
+sacrifiquen la vida de Inés a las extravagancias de un pobre loco.
+
+
+ESCENA VII.
+
+EDUARDO, INÉS.
+
+Sale agitada, y como huyendo, del gabinete de la izquierda, que fue
+donde entraron los loqueros.
+
+
+INÉS.
+
+¿Quiénes son esos hombres, quiénes son?
+
+EDUARDO.
+
+¡Inés de mi vida! ¡Qué pálida estás! ¡Qué círculo cárdeno orla tus
+divinos ojos! (_Saliéndole al encuentro_).
+
+INÉS.
+
+Pero respóndeme: ¿quiénes son?, ¿a quién esperan? ¡Que se vayan!
+(_Acercándose con precaución a la puerta que quedó abierta y
+mirando: Eduardo procura traerla al proscenio_). ¡Hay en ellos algo
+siniestro!... Mi padre, ¿dónde está mi padre? Buscándole entré en ese
+gabinete por el salón, y los he visto..., y no los quiero ver, y no
+puedo apartar de ellos los ojos.
+
+EDUARDO.
+
+Pero ¿qué tienes?... ¿Por qué no me miras? ¿Por qué huyes de mí? Inés,
+Inés, ¿te pesa nuestro amor?
+
+INÉS.
+
+(_Viniendo al proscenio_). ¡Nuestro amor! Tú sabes que es mi vida; pero
+¡ay, Eduardo! ¡A qué terrible prueba ha querido Dios someterlo! Tú no
+comprendes esto. ¡Dicha suprema es para mí tu amor, y la esperanza
+de tu amor aun mayor dicha! Mayor, mucho mayor; que en él está el
+presente, que en ella está todo el porvenir. Y sin embargo, Eduardo
+mío, la esperanza es un crimen en tu pobre Inés: un crimen. ¿Se
+comprende crueldad semejante? Lo que a ningún ser humano se le niega,
+me niega a mí el destino. Yo era ayer una niña; mi pensamiento flotaba
+risueño en un limbo blanco y transparente, como vaporosa neblina entre
+rayos de luna: hoy es plomo, según pesa: hoy es lava, según arde. ¡Si
+vieras qué cosas tan horribles me dice en el silencio de la noche!
+Y esos pensamientos no son míos; no es mi voluntad quien los forja:
+vienen yo no sé de dónde: yo los rechazo; pero ellos vuelven: y primero
+me acosan con quejidos que dicen «¡Pobre padre tuyo!», y luego me
+hostigan con voces de tentación que murmuran: «Inés..., Inés... ¿Quién
+sabe?... Aún puedes ser feliz: tu amor es aún posible: espera...,
+espera..., pobre niña». ¿Comprendes tú nada más horrible —porque esto
+debe ser el ángel malo— que oír dentro de una misma la voz de Satanás,
+de él que nada espera, hablando de esperanzas?
+
+EDUARDO.
+
+Vuelve en ti, Inés mía.
+
+INÉS.
+
+(_Acercándose a Eduardo_). ¡Tengo remordimientos!
+
+EDUARDO.
+
+¿De qué?
+
+INÉS.
+
+Yo no sé: yo no he hecho nada malo. ¡Padre mío!
+
+¡Pobre padre mío!
+
+EDUARDO.
+
+Ángel de mi vida, ¡Inés de mi alma! Cálmate, cálmate, yo te lo ruego.
+
+INÉS.
+
+Mira, Eduardo, quisiera morir.
+
+
+ESCENA VIII.
+
+DON LORENZO, INÉS, EDUARDO.
+
+Don Lorenzo entra por el fondo y se detiene al oír a Inés.
+
+
+DON LORENZO.
+
+(_Aparte_). ¡Morir ha dicho!
+
+EDUARDO.
+
+¿Tú morir? No, Inés, eso no; no digas eso.
+
+INÉS.
+
+¿Por qué? Si no muero de dolor; si llego a ser dichosa, he de morir de
+remordimiento.
+
+DON LORENZO.
+
+(_Aparte_). ¡De remordimiento! ¡Ella! ¡Si llega a ser dichosa! ¿Qué
+nueva fatalidad flota en el aire y está pesando sobre mi frente?
+¡Remordimiento!... ¡Ya sorprendí al pasar otra palabra más! Cruzo
+salones y galerías, y voy de una a otra parte, espoleado sin cesar por
+insufrible angustia, y oigo frases que no comprendo, y fíjanse en mí
+ojos que dicen algo que no comprendo tampoco, y unos lloran, y otros
+sonríen, y nadie se me opone, y todos o me huyen o me observan... ¿Qué
+es esto? ¿Qué es esto? (_En voz alta_).
+
+INÉS.
+
+(_Yendo a él y abrazándole_). ¡Padre mío!
+
+DON LORENZO.
+
+¡Inés! ¡Qué pálida estás! ¿Qué dolorosa contracción hay en tus labios?
+¿Por qué finges sonrisas que han de terminar en sollozos?... ¡Qué
+hermosa en su dolor! ¡Y todo es culpa mía!
+
+INÉS.
+
+No, padre.
+
+DON LORENZO.
+
+¡Qué cruel soy! ¡Ah!, tú lo piensas, aunque no lo dices.
+
+EDUARDO.
+
+Es un ángel Inés, y no caben pensamientos rebeldes en ella; pero ¿quién
+al verla sufrir no ha de pensarlo y no ha de decirlo?
+
+DON LORENZO.
+
+Nadie: tiene usted razón.
+
+EDUARDO.
+
+Pues si yo la tengo, no la tiene usted. (_Con energía_).
+
+DON LORENZO.
+
+Yo la tengo también. Hay algo más pálido que la pálida frente de la
+doncella enamorada; hay algo más triste que las tristes lágrimas de
+esos divinos ojos: hay algo más cruel que la sonrisa de esos labios, y
+algo más trágico que la muerte del ser querido.
+
+EDUARDO.
+
+¿Y qué otras palideces, y qué otras lágrimas, y qué otras tragedias son
+esas? (_Con violencia y desdén_).
+
+DON LORENZO.
+
+¡Insensato! (_Cogiéndole por un brazo_). ¡La palidez de la culpa, las
+lágrimas del remordimiento, la conciencia de la propia infamia!
+
+EDUARDO.
+
+¿Y es infamia y remordimiento y culpa hacer la felicidad de Inés?
+
+DON LORENZO.
+
+(_Con desesperación_). ¡No debía serlo!... ¡Pero lo es! (_Pausa_). ¡Y
+ese es mi tormento! ¡Y esa idea es la que ha de volverme loco!
+
+INÉS.
+
+¡No, padre mío; no digas eso! Sigue tu camino sin pensar en mí. ¿Qué
+importa que yo viva o que yo muera?
+
+DON LORENZO.
+
+¡Inés!
+
+INÉS.
+
+Pero no vaciles..., y sobre todo que nadie te vea vacilar: que tu
+palabra sea clara y persuasiva como lo es ahora: que el enojo no te
+ciegue... Calma, calma, padre mío. ¡Por Dios te lo pido!
+
+DON LORENZO.
+
+¿Qué dices?... ¡No comprendo!...
+
+INÉS.
+
+¿Acaso sé yo lo que digo?... Adiós... Adiós... No quiero afligirte.
+
+EDUARDO.
+
+¡Ay, si escuchara usted a su corazón, si hiciera usted callar a su
+pensamiento! (_A Lorenzo_).
+
+INÉS.
+
+Déjale... Ven conmigo..., no le hostigues... o harás que te aborrezca.
+(_A Eduardo_).
+
+DON LORENZO.
+
+¡Pobre niña!... ¡También ella lucha, pero también ella vence! ¡Por
+algo es hija mía! (_Con arranque de supremo orgullo. Inés y Eduardo se
+dirigen al fondo: al pasar por delante de la puerta del gabinete ve
+Inés a los loqueros y hace un movimiento de horror_).
+
+INÉS.
+
+¿Qué visión siniestra pasa ante mi vista?... ¡Aquellos hombres!... No,
+padre, no entres ahí.
+
+EDUARDO.
+
+¡Ven..., ven, Inés mía!
+
+INÉS.
+
+(_A su padre_). No..., no... Yo te lo ruego.
+
+DON LORENZO.
+
+(_Dirigiéndose hacia ella_). ¡Inés!
+
+INÉS.
+
+¡Aquellos hombres! ¡Aquellos!... Mira. (_Extendiendo el brazo hacia el
+gabinete. Don Lorenzo se detiene y mira también: en este instante los
+loqueros, al oír gritos, asoman por entre los cortinajes la cabeza_).
+
+EDUARDO.
+
+(_Llevándose a Inés_). ¡Por fin!...
+
+
+ESCENA IX.
+
+DON LORENZO, BRAULIO, BENITO.
+
+Breve pausa.
+
+
+DON LORENZO.
+
+¿Quiénes podrán ser? Pasen ustedes. (_Los loqueros entran con cierta
+timidez: hablan con frases cortadas y secas_).
+
+BRAULIO.
+
+Don Tomás...
+
+DON LORENZO.
+
+(_Aparte_). Ya comprendo.
+
+BENITO.
+
+Nos dijo que esperásemos ahí...
+
+DON LORENZO.
+
+Dispensen ustedes: yo no sabía...
+
+BRAULIO.
+
+No hay de qué.
+
+DON LORENZO.
+
+(_Aparte_). Extraño aspecto en verdad. Pero, siéntense ustedes.
+
+BENITO.
+
+Gracias.
+
+BRAULIO.
+
+Estamos bien de cualquier modo.
+
+DON LORENZO.
+
+No puedo consentir...
+
+BRAULIO.
+
+Usted se empeña...
+
+BENITO.
+
+Si el señor lo manda, mejor se espera así. (_Se sientan ambos en el
+sofá: don Lorenzo queda en pie_).
+
+DON LORENZO.
+
+(_Aparte_). Algo siniestro se refleja en esas miradas, o es que la mía
+refleja los relámpagos que cruzan por mi espíritu. (_Los observa de
+nuevo con atención. En voz alta_). Inés fue la que al pasar los vio a
+ustedes y la que me previno...
+
+BRAULIO.
+
+Sí, una señorita muy bella.
+
+BENITO.
+
+Pero muy triste.
+
+BRAULIO.
+
+Parecía una Dolorosa. (_A cada contestación que dan los loqueros, que
+debe ser, como queda dicho, cortada y seca, guardan silencio, por
+decirlo así, repentino; permaneciendo rígidos e inmóviles y mirando
+hacia el frente con cierta vaguedad_).
+
+DON LORENZO.
+
+Se asustó al verlos a ustedes y vino huyendo: no lo extrañen; la pobre
+está muy enferma..., y es casi una niña...
+
+BRAULIO.
+
+(_Con cierta sonrisa vaga y como de idiota_). Siempre nos sucede lo
+mismo en las casas.
+
+DON LORENZO.
+
+(_Aparte, con extrañeza_). ¡En las casas!
+
+BENITO.
+
+(_Fijando su vista casi por primera vez en don Lorenzo, y después
+volviendo a mirar de frente_). Será la hija de ese pobre señor, ¿eh?
+
+DON LORENZO.
+
+¿De quién?
+
+BENITO.
+
+(_Sin mirarle_). Del que está... (_Hace un movimiento, llevándose la
+mano a la frente, pero sin mirar a don Lorenzo. Don Lorenzo hace a la
+vez otro movimiento de sorpresa que solo el actor puede interpretar
+debidamente. Como ninguno de los loqueros le mira, no pueden
+observarlo_).
+
+DON LORENZO.
+
+(_Aparte_). ¡Ah!... ¡No!... ¡Qué idea! (_En voz alta y dominándose_).
+Justo. Inés es la hija de... (_Desde este momento Lorenzo los observa
+con creciente ansiedad_).
+
+BENITO.
+
+¡Qué hermosa es! Pero ¡qué triste está!
+
+BRAULIO.
+
+¡Ya! Motivos tiene para estar triste.
+
+DON LORENZO.
+
+¿Ustedes saben?...
+
+BRAULIO.
+
+Todo. (_Mirando otra vez a don Lorenzo y luego separando la vista_).
+
+DON LORENZO.
+
+¿Don Tomás les ha dicho?...
+
+BENITO.
+
+¿A nosotros? No.
+
+BRAULIO.
+
+Él habló con el doctor.
+
+BENITO.
+
+¿A nosotros? ¿Con qué objeto? Nosotros en cumpliendo con nuestra
+obligación...
+
+DON LORENZO.
+
+(_Aparte_). (Siento un sudor frío, como sudor de muerte por todo
+mi cuerpo. Yo deliro... Nada de esto es verdad). (_Repitiendo
+maquinalmente_). Con su obligación...
+
+BRAULIO.
+
+Nosotros en estando a la mira por si se desmanda...
+
+DON LORENZO.
+
+Por si se desmanda... ¿Quién?
+
+BRAULIO.
+
+¡Él!
+
+DON LORENZO.
+
+(_Retrocede unos pasos, mirándolos con terror: se pasa la mano por la
+frente como para desechar una idea: retrocede más, vacila y se apoya
+en la mesa. Después habla con voz opaca, muy baja y cortando las
+palabras_). ¿Conque ustedes lo saben todo?
+
+BRAULIO.
+
+Casi todo.
+
+BENITO.
+
+Como hace tanto que esperamos, hemos oído las conversaciones de los
+criados.
+
+DON LORENZO.
+
+¿Y ellos?...
+
+BRAULIO.
+
+De pe a pa. Parece que anteanoche tuvo don Lorenzo un ataque. Usted lo
+sabrá mejor que nosotros.
+
+DON LORENZO.
+
+Sí. (_Con voz cada vez más apagada y más sombría_).
+
+BENITO.
+
+Dícese que ahogó a una pobre anciana. (_Lorenzo hace un movimiento de
+horror y de nuevo se cubre el rostro con las manos_).
+
+BRAULIO.
+
+¡Vaya con el hombre! ¡Bien empieza! Y claro... Siempre sucede lo
+mismo... La familia...
+
+DON LORENZO.
+
+¡La familia! (_Separando las manos, dando unos pasos como movido por
+una sacudida eléctrica, mirándolos con suprema ansiedad y hablando con
+voz sorda_).
+
+BRAULIO.
+
+¡Pues! La familia..., es natural... Como que dicen que quería regalar
+toda su fortuna; ¡qué sé yo cuántos millones! ¡Diablo de loco! Nada: lo
+mejor es lo que han dispuesto: fuera, fuera. Nos lo llevamos y quedan
+las señoras tranquilas.
+
+DON LORENZO.
+
+¿A mí?... ¡¡Ellas!!... ¿Ángela?... ¿Inés?... ¡No!... ¡No!...
+¡Imposible! (_Retrocede de nuevo hacia la izquierda. Solo el talento
+del actor puede interpretar estos gritos desgarradores_).
+
+BRAULIO.
+
+(_Volviéndose hacia don Lorenzo. Aparte_). Pero ¿qué tiene este señor?
+Mira..., mira... (_A Benito. Ambos loqueros se incorporan un tanto y se
+inclinan hacia la izquierda, mirando con curiosidad a don Lorenzo: debe
+estudiarse con cuidado el grupo que formen dichos personajes_).
+
+DON LORENZO.
+
+¡Aire!... ¡Luz!... No..., ¡luz no! ¡Tinieblas!... ¡No quiero ver!...
+¡No quiero pensar! (_Cae en el sillón y hunde la cabeza entre las
+manos_).
+
+BENITO.
+
+¡Toma!... ¿Si yo creo que es?...
+
+BRAULIO.
+
+¡Buena la hicimos!
+
+BENITO.
+
+¡Quién pensara!...
+
+BRAULIO.
+
+Volvámonos a nuestro escondite.
+
+BENITO.
+
+¡Y chitón! No digamos nada. (_Se levantan y con mucha precaución y
+observando a don Lorenzo sin cesar, se dirigen al gabinete_).
+
+BRAULIO.
+
+Claro: ni una palabra. Nos mandaron que ahí; pues ahí. No debimos
+movernos.
+
+BENITO.
+
+Como se oían gritos y llantos... (_Llegan a la puerta, se detienen y
+miran a don Lorenzo, que sigue en la misma actitud. Un criado entra
+por el fondo, pasa rápidamente y sale por la derecha_). Déjale...
+Déjale... Mientras esté tranquilo... (_Entran en el gabinete y cierran
+la puerta_).
+
+
+ESCENA X.
+
+DON LORENZO, DON TOMÁS con el CRIADO por la derecha.
+
+
+DON LORENZO.
+
+¡Dios mío! ¡Aparta el cáliz de mis labios!... ¡No puedo más, no puedo
+más!... ¡Si es que no puedo más! (_Solloza con desesperación_).
+¡Me hiciste creer en ellas, me hiciste amarlas!... ¡Y ellas, las
+traidoras!... ¡No!... ¡No! ¡Señor, me has dado la vida, quítamela,
+pronto... pronto!... ¡Mira, Dios mío, que me asalta horrible tentación
+de arrancar con mis propias manos la podrida vestidura de mi carne!
+¡Morir..., quiero morir!... ¿Lo ves?... ¡De rodillas te lo pido!...
+¡De rodillas!... ¡Sé bueno!... ¡Sé compasivo!... ¡La muerte!... ¡La
+muerte!... ¡La muerte a mí, pálida mensajera de tu amor! (_Cae de
+rodillas junto al sillón, y apoyándose en él, dobla la cabeza y oculta
+el rostro en las manos_).
+
+DON TOMÁS.
+
+(_En voz baja al Criado_). ¿Vienen ambos?
+
+CRIADO.
+
+(_Lo mismo a Tomás_). Sí señor, el escribano y el doctor Bermúdez.
+(_Don Tomás y el Criado se detienen en el centro al reparar en don
+Lorenzo, que sigue de rodillas y sollozando_).
+
+DON TOMÁS.
+
+¡Infeliz! (_Dando un paso hacia don Lorenzo: luego se arrepiente y se
+dirige al fondo_). ¿Para qué? Terminemos pronto. (_Salen don Tomás y el
+Criado_).
+
+
+ESCENA XI.
+
+DON LORENZO, después DON TOMÁS y el DOCTOR BERMÚDEZ.
+
+Pausa.
+
+
+DON LORENZO.
+
+¡Ya estoy más tranquilo! ¡La herida es mortal! ¡La siento... aquí en el
+corazón! ¡Gracias, Dios bueno! (_Don Tomás y el doctor entran por el
+fondo y se detienen observando a don Lorenzo_).
+
+DON TOMÁS.
+
+Mírelo usted, allí..., junto al sillón.
+
+DOCTOR.
+
+¡Desgraciado!
+
+DON LORENZO.
+
+(_Levantándose y aparte_). ¡Ah, ser miserable! Todavía..., todavía...
+acariciando esperanzas imposibles... ¿Imposibles?... ¿Y si ellas
+creen de buena fe que yo?... ¡Ah, si me amasen, no lo creerían! (_Con
+desesperación. Pausa_). Yo le oí a Inés..., a la hija de mi alma...,
+decir: «¡Remordimientos!» ¿Por qué decía remordimientos? (_Con
+agitación creciente y hablando en voz alta_). ¡Todos..., todos...
+miserables!... Casi se alegrarían de que yo muriese... No..., no moriré
+hasta cumplir mi obligación de hombre honrado; hasta dar desenlace a mi
+locura.
+
+DON TOMÁS.
+
+(_Poniéndole una mano en el hombro_). Lorenzo.
+
+DON LORENZO.
+
+(_Volviéndose, y al reconocerle retrocediendo con disgusto_). ¡Él!
+
+DON TOMÁS.
+
+Te presento al señor de Bermúdez, uno de mis mejores amigos. (_Pausa.
+Don Lorenzo mira a los dos de un modo extraño_).
+
+DOCTOR.
+
+(_A Tomás en voz baja_). Vea usted cómo procura dominarse: él tiene
+conciencia vaga de su situación: no me queda duda.
+
+DON LORENZO.
+
+Uno de tus mejores amigos..., uno de tus mejores amigos.
+
+DOCTOR.
+
+(_Aparte a Tomás_). Se le escapa la idea y se afana por retenerla.
+
+DON LORENZO.
+
+Pues si es uno de tus mejores amigos, de su lealtad me responde la
+tuya. (_Con ironía_).
+
+DOCTOR.
+
+(_Aparte a Tomás_). Al fin encontró la frase; pero vea usted qué
+entonación tan poco natural. (_En voz alta_). Vengo a ser testigo,
+según me afirma Tomás, de un nobilísimo rasgo.
+
+DON LORENZO.
+
+Y además de una indigna traición.
+
+DON TOMÁS.
+
+Lorenzo...
+
+DOCTOR.
+
+(_Aparte a Tomás_). Déjele usted decir.
+
+DON LORENZO.
+
+Y de un ejemplar castigo.
+
+DOCTOR.
+
+(_Aparte a Tomás_). Muy grave, amigo don Tomás..., muy grave.
+
+DON LORENZO.
+
+Avisa a todos... (_A Tomás_), a todos; a propios y extraños. Que vengan
+aquí; y que esperen aquí mis órdenes mientras yo cumplo allá mi deber.
+¿A qué aguardas?
+
+DOCTOR.
+
+(_Aparte a Tomás_). No hay que contradecirle: avise usted. (_Tomás toca
+un timbre, aparece un criado, a quien habla en voz baja y el cual luego
+sale por la derecha_).
+
+DON LORENZO.
+
+Es la última prueba: casi me inspiran lástima los traidores. ¡Ah!, la
+seguridad del triunfo me sostiene. Calma, corazón. Ya están..., ya
+están... No quiero verlas... ¡A mí que tanto las amaba!... No quiero...
+¡Y a ellas se tornan mis ojos..., y las buscan..., y las buscan!...
+
+
+ESCENA XII.
+
+DON LORENZO, DON TOMÁS, el DOCTOR. Por la derecha ÁNGELA, INÉS, DUQUESA
+y EDUARDO.
+
+
+DON LORENZO.
+
+¡Inés! ¡No es posible! ¡Ella! ¡No es posible!... ¡Hija mía! (_Se
+precipita con los brazos abiertos hacia ella. Inés corre a su
+encuentro_).
+
+INÉS.
+
+¡Padre! (_Al ir a abrazarla, se interpone Bermúdez que los separa
+violentamente_).
+
+DOCTOR.
+
+¡Eh!..., vamos..., don Lorenzo, puede usted causar mucho daño a su hija.
+
+DON LORENZO.
+
+(_Cogiéndole por un brazo y sacudiéndole con violencia_).
+¡Miserable!... ¿Quién eres tú para separarme de ella?
+
+DON TOMÁS.
+
+¡Lorenzo!
+
+EDUARDO.
+
+¡Don Lorenzo!
+
+ÁNGELA.
+
+¡Dios mío! (_Las mujeres se agrupan instintivamente. Inés, en los
+brazos de su madre; la Duquesa, junto a las dos. Tomás y Eduardo acuden
+a librar a Bermúdez de las manos de don Lorenzo_).
+
+DON LORENZO.
+
+(_Dominándose, aparte_). ¡Ya!... Pensarán los imbéciles que es un nuevo
+acceso de locura. ¡De locura! ¡Ja, ja, ja! (_Riendo con carcajada
+contenida. Todos le observan_).
+
+DOCTOR.
+
+(_Aparte a Tomás_). Evidente.
+
+ÁNGELA.
+
+(_Aparte_). ¡Ah, mi pobre Lorenzo!
+
+INÉS.
+
+(_Aparte_). ¡Ah, padre mío!
+
+DON LORENZO.
+
+(_Aparte_). Ya veréis cómo acaba mi locura. Antes de salir de esta
+casa con qué placer arrojaré a ese Doctor. ¡Ánimo! La lucha me da
+fuerzas. ¿Pues qué? ¿No hay más que declarar loco a un hombre porque
+cumple con su deber? ¡Ah!..., no es posible. La humanidad no es tan
+ciega o tan infame. ¡Basta ya! ¡Calma! Traición, empieza tú; y empieza
+tú, castigo. (_En voz alta_). Ha llegado la hora de que cumpla un
+deber sagrado, aunque por todo extremo doloroso. Inútil es que ustedes
+presencien formalidades que la ley exige, y que fueran harto molestas.
+El representante de la ley allí me espera, y yo, cumpliendo otra ley
+más alta, voy a despojarme de bienes que no son míos, y de un nombre
+que en conciencia ni yo puedo llevar, ni puede llevar mi familia.
+Después vendré aquí, y con mi esposa, y con mi..., con mi hija, sin que
+nadie me lo pueda impedir, sin que podáis resistirme vosotras, saldré
+de esta casa que fue para mí pasado de amor y de felicidad; que es hoy
+presente de traición y de infamia. Señores (_A Tomás y Bermúdez_),
+ustedes me preceden: yo se lo ruego. (_Entran todos lentamente en el
+gabinete de la izquierda. Al salir dirige Lorenzo una última mirada a
+Inés_).
+
+
+ESCENA XIII.
+
+ÁNGELA, INÉS, DUQUESA, EDUARDO.
+
+Las tres mujeres en primer término. Eduardo, escuchando en la puerta
+del gabinete.
+
+
+INÉS.
+
+¡Dios mío, sálvale!
+
+ÁNGELA.
+
+(_Abrazando a su hija_). Sí, tienes razón. Pensemos solo en él; pidamos
+solo por él.
+
+DUQUESA.
+
+Deber sagrado es en ustedes anteponer a su dicha la de don Lorenzo;
+pero en todo caso obligación no menos sagrada es conformarse con una
+más alta voluntad que la nuestra. (_Pausa_).
+
+INÉS.
+
+(_A Eduardo_). ¿Qué dice?... ¡Por Dios!... ¿Qué dice?
+
+EDUARDO.
+
+Está hablando: su frase es fría y severa, pero sin vacilaciones ni
+ambigüedades. (_Eduardo vuelve a la puerta_).
+
+ÁNGELA.
+
+¡Qué angustia, qué ansiedad! ¡La muerte es preferible a este suplicio!
+
+INÉS.
+
+¿Y qué importa lo que diga mi pobre padre si de antemano está juzgado?
+
+ÁNGELA.
+
+No, hija mía; no digas eso.
+
+INÉS.
+
+Sí: lo digo porque yo lo siento; porque yo lo veo en los que son ahora
+sus jueces.
+
+ÁNGELA.
+
+Pero ¿qué ves?
+
+INÉS.
+
+En esa gente, la monomanía del oficio...
+
+ÁNGELA.
+
+¿Y en Tomás?
+
+INÉS.
+
+Sus opiniones científicas..., qué sé yo..., sus propias locuras...
+
+ÁNGELA.
+
+¿Pero en mí?...
+
+INÉS.
+
+(_Abrazándose a ella_). ¡El amor que me tienes!
+
+ÁNGELA.
+
+¡Calla, Inés, calla!
+
+INÉS.
+
+¡Todos contra mi padre! ¡Pobre padre mío!
+
+DUQUESA.
+
+Usted delira, Inés.
+
+INÉS.
+
+Sí, deliro: como usted y como todos nosotros, ¡menos él..., menos
+él!... ¡Me lo dice el corazón! Usted misma, señora, lo que desea es
+la felicidad de Eduardo; y Eduardo, mi amor; y su amor, yo; y mi
+padre, su virtud, su honradez son obstáculos para todos nosotros, y en
+todos nosotros se agita algo oscuro que envuelve en sombras nuestras
+conciencias. ¡Padre mío! ¡Padre mío!
+
+ÁNGELA.
+
+¡Por Dios, Inés, qué ideas!
+
+INÉS.
+
+¿Qué dice?... ¿Qué dice? ¡Oigo su voz!
+
+EDUARDO.
+
+(_Acercándose_). Habla de una prueba terminante.
+
+INÉS.
+
+¡Ojalá! (_A Eduardo_). ¿Y ahora?
+
+EDUARDO.
+
+Le exigen la presentación de la prueba para que conste en el acta y
+para su entrega al juez.
+
+ÁNGELA.
+
+¿Y él?...
+
+EDUARDO.
+
+Él sonríe con sonrisa de triunfo. Está pálido, muy pálido; pero
+sereno y digno. Aquí se acerca... (_Viene Eduardo al proscenio y dice
+aparte_): (¡Este hombre me da miedo!)
+
+INÉS.
+
+(_Aparte_). ¡Ojalá..., aunque muera mi amor!
+
+ÁNGELA.
+
+(_A la Duquesa_). ¿Será verdad?
+
+DUQUESA.
+
+(_A Ángela_). ¿Será verdad?
+
+EDUARDO.
+
+(_Aparte, viendo entrar a don Lorenzo_). ¡Ah! ¡Seré yo el insensato!...
+
+
+ESCENA XIV.
+
+ÁNGELA, INÉS, DUQUESA, EDUARDO, DON LORENZO, DOCTOR, DON TOMÁS.
+
+La situación de los personajes es la siguiente: las tres mujeres,
+formando un grupo, estrechamente unidas junto al sofá, en el cual se
+apoyan: Eduardo, detrás del sofá, mirando a don Lorenzo, con temor y
+como dominado por él: don Lorenzo, avanzando tranquilo y altivo hacia
+el centro del escenario. Tomás y Bermúdez vienen detrás de él y se
+detienen a algunos pasos de la puerta.
+
+
+DON LORENZO.
+
+(_Acercándose a la mesa y poniendo la mano con aire de triunfo sobre el
+pupitre_). Aquí está la prueba... Aquí está la verdad. (_Pausa. Abre
+el pupitre y saca el sobre con el pliego en blanco. Después avanza
+hacia el proscenio: Tomás y Bermúdez por un lado, Eduardo por otro,
+se aproximan a él_). ¡Desdichados los que imaginaban sacrificarme a
+su interés o a su pasión! ¡Cuán amargo será el desengaño! ¡Cuán cruel
+será el castigo! ¡Ojalá pueda mitigarlo mi perdón! (_Profundamente
+conmovido_).
+
+ÁNGELA.
+
+(_Acercándose_). ¡Lorenzo!
+
+INÉS.
+
+¡Padre!
+
+DON LORENZO.
+
+¡Esta es la prueba, Tomás: esta es la prueba, Ángela: esta es la
+prueba, hija mía! Oíd. (_Pausa. Don Lorenzo rompe el sobre. Todos se
+acercan a él y le rodean_). Esta es... ¡Qué es esto! (_Separando el
+papel de sus ojos y pasando por ellos la mano_). ¿Qué sombras empañan
+mis ojos?... ¿Hay lágrimas en ellos y me impiden ver?... ¡No!...
+Antes lloré... Ahora no estoy llorando. (_Vuelve a mirar el papel con
+horrible ansiedad, lo extiende, lo vuelve, busca por todas partes lo
+escrito_). Pero ¿dónde está lo que escribió aquella mujer?... Si yo lo
+he leído mil veces... Y ahora no puedo... (_A Tomás, mostrándole el
+papel_). ¿Qué dice aquí?... Lee..., lee pronto... Pero ¿qué dice?
+
+DON TOMÁS.
+
+Nada, pobre Lorenzo.
+
+DON LORENZO.
+
+¡Nada!... (_Mirando otra vez el papel_). ¡Me engañas! Bermúdez, ese
+me engaña. ¡Es uno de los miserables que han urdido esta infame
+traición!... Lea usted..., lea usted...
+
+DOCTOR.
+
+Está en blanco el papel.
+
+DON LORENZO.
+
+¡No hay nada escrito! ¿Dice usted que no hay nada escrito? No es
+verdad..., no..., no es verdad. ¡Inés, hija mía, mi único amor, ven,
+salva a tu padre!... ¿Qué dice aquí?
+
+INÉS.
+
+¡Nada veo, padre mío!
+
+DON LORENZO.
+
+Nada... Tampoco ella... Pero esto ¿no es una prueba?
+
+DON TOMÁS.
+
+Sí, desdichado amigo..., una prueba... y harto cruel.
+
+DON LORENZO.
+
+(_Dándose una palmada en la frente_). ¡Ah, lo comprendo! (_Mirando
+a Tomás y a Ángela_). ¡Antes hablaban de una prueba!... ¡Tú!... ¡Y
+tú! (_A Ángela y a Tomás_). ¡¡La quitaron de allí!!... ¡¡Jesús!!...
+¡¡Jesús!! (_Se aparta de ellos con horror: todos se separan de él,
+que de este modo queda en el centro, pero un poco aislado. El actor
+interpretará este momento como crea oportuno. Pausa_). ¡Sea!...
+¡Sea!... ¡Vencido!... ¡Miserablemente vencido! ¡Cómo se gozan en su
+triunfo! ¡Con qué hipócrita dolor me contemplan! ¡Y fingen que lloran!
+¡Todos lo fingen! (_Pausa_). ¡Ay..., mi corazón! ¡Ay..., ilusiones
+de la vida!... ¡Ay..., el amor!... ¡Ay..., mi hija!..., ¡mi hija!...
+¡Fantasmas que giran y huyen..., huid para siempre!... ¡Y yo creía
+en todo! ¡Qué azul era el cielo! ¡Qué blanca la frente de Inés!... Y
+ahora ¡en qué voy a creer! Ya lo veis: no lucho. Cedo: vuestra es la
+victoria. Aquellos hombres ¿para qué han venido si yo no resisto? Iré
+a donde queráis. ¡Adiós!... (_A Tomás que se le acerca y le coge la
+mano_). ¡No me toques! ¡Cuando la piel humana me roza, me parece que
+sobre mi carne deslizan víboras! Yo solo..., solo, subiré a mi calvario
+con la cruz de mis dolores, sin infame cirineo que me ayude. Adiós,
+amigo leal (_Siempre a Tomás_), tú que has salvado la fortuna de esta
+desconsolada familia de entre las manos de un loco. Adiós, Ángela...,
+mi tierna esposa... ¡Veinte años hace que te di, loco de amor, el
+primer beso! ¡Hoy, también loco, te envío el último! (_Le envía un beso
+con un grito de horrible desesperación_).
+
+ÁNGELA.
+
+¡Lorenzo!
+
+DON LORENZO.
+
+¡Pero no te acerques, que pudiera ahogarte entre mis brazos! (_Ángela
+retrocede_). Adiós, Inés, hija mía... (_Con voz llorosa_). Si
+puedes..., sé feliz... A ti nada te digo... No puedo hablarte con
+enojo. (_Da algunos pasos y se detiene falto de fuerzas: quieren
+acercarse a él, pero los rechaza_). Dejadme: no necesito a nadie. El
+sudor empapa mi frente, y la sed seca mis labios, y algo que quema
+mucho me hincha los párpados. (_Deteniéndose_). Oye..., Inés..., ¡hija
+mía! ¡Si aún me conservas algún amor; si por ventura sientes compasión
+hacia tu padre; si te pesa lo que entre todos habéis hecho..., ven por
+última vez a mis brazos! ¡Que yo lleve a ese infierno de dolor que me
+aguarda una lágrima de tus ojos en mi frente y un beso de tus labios en
+mis labios!
+
+INÉS.
+
+¡Padre! (_Quieren sujetarla, pero se desprende de todos y corre hacia
+don Lorenzo, que se precipita hacia ella y la oprime frenético contra
+su pecho_).
+
+DON LORENZO.
+
+¡Hija! (_Todos se precipitan hacia ellos, pero sin pretender separarlos
+todavía_).
+
+INÉS.
+
+¡No!... Que no te lleven. ¡Yo te amo!... ¡Todos mienten menos tú!
+
+DON LORENZO.
+
+¿Tú no quieres que me lleven aquellos hombres?
+
+INÉS.
+
+No..., no... Defiéndete... ¡Defiéndeme a mí!...
+
+DON LORENZO.
+
+Sí... Yo te defenderé... Que te arranquen de mis brazos. (_Quiere huir
+con ella, oprimiéndola contra su pecho_).
+
+ÁNGELA.
+
+¡Mi hija!... ¡Mi hija!... ¡Socorro! (_Eduardo, Tomás y Bermúdez pugnan
+por separar al padre de la hija_).
+
+DON LORENZO.
+
+¡No la soltaré!... ¡Eternamente contra mi pecho!
+
+INÉS.
+
+¡Sí, sí, padre mío! ¡Defiéndeme!
+
+DOCTOR.
+
+Es preciso.
+
+EDUARDO.
+
+¡Don Lorenzo!
+
+DON TOMÁS.
+
+¡Lorenzo!
+
+DUQUESA.
+
+¡Dios mío! ¡Va a matarla como mató a Juana!
+
+ÁNGELA.
+
+¡Inés! (_Todos estos gritos casi simultáneos: la lucha, rápida: los
+loqueros salen. Por último, los hombres sujetan a don Lorenzo y las dos
+mujeres contienen a Inés, arrancando de este modo a viva fuerza a la
+hija de los brazos del padre_).
+
+EDUARDO.
+
+¡Al fin!
+
+INÉS.
+
+¡Padre! (_Tendiendo hacia él los brazos_).
+
+DON LORENZO.
+
+No he podido más, hija..., no he podido más... Aquí sobre mi rostro
+siento tus lágrimas y tus besos... Ella me amaba..., era inocente...
+¡Dios mío, ya lo veo, tú aceptaste mi martirio en aquella noche de
+lucha y de tentación a cambio de su dicha! ¡No me arrepiento! ¡Hazla
+dichosa..., muy dichosa!..., ¡y para mí..., para mí solo su cáliz de
+amargura!...
+
+INÉS.
+
+¡Adiós! ¡Yo iré a salvarte!
+
+DON LORENZO.
+
+¡Qué podrás tú..., hija mía..., si Dios no me salva! (_Queda cerca del
+gabinete entre los loqueros, Eduardo, Tomás y Bermúdez, que le sujetan.
+Inés, en primer término tendiendo hacia él los brazos_).
+
+
+FIN DEL DRAMA.
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK O LOCURA O SANTIDAD ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG™ LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg™ License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg
+
+Project Gutenberg is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 41 Watchung Plaza #516,
+Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
